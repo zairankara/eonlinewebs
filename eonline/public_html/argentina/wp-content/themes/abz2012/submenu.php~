@@ -1,0 +1,47 @@
+qwer							
+<style type="text/css">
+							#Header_ShowsSubMenu div:last-child{margin-right:0!important}
+							</style>
+							<ul id="Header_ShowsSubMenu" class="submenu">
+								<div class="Header_nav_locator">
+									<img src="http://www.eonline.com/resources/images/header_footer/arrowUP_showsnav.gif" alt="flecha arriba">
+								</div>
+
+								<div style="float:left; margin-right:8px;">
+									<a href="http://la.eonline.com/argentina/pagina/glamcam360" data-seccion="eshows/glamcam360" class="submenu-item-a">
+									<img src="<?php bloginfo('template_url')?>/images/shows/glamcam360.jpg" height="160" alt="glamcam360" title="glamcam360"/>
+									</a>
+								</div>
+								<!--<div style="float:left; margin-right:8px;" data-seccion="eshows/Erika" class="submenu-item-a">
+									<a href="#">
+									<img src="<?php bloginfo('template_url')?>/images/shows/Erika.jpg" height="160" alt="El show de Erika" title="El show de Erika"/>
+									</a>
+								</div>-->
+
+								 <div style="float:left; margin-right:8px;">
+									<a href="http://la.eonline.com/argentina/category/the-kardashians" data-seccion="eshows/the-kardashians" class="submenu-item-a">
+									<img src="<?php bloginfo('template_url')?>/images/shows/Es_tan_kardashian.jpg" height="160" alt="Es tan kardashian" title="Es tan kardashian"/>
+									</a>
+								</div> 
+
+								<div style="float:left; margin-right:8px;">
+									<a href="http://la.eonline.com/argentina/category/alfombraroja/" data-seccion="eshows/alfombraroja" class="submenu-item-a">
+									<img src="<?php bloginfo('template_url')?>/images/shows/alfombra_roja.jpg" height="160" alt="Alfombra Roja" title="Alfombra Roja"/>
+									</a>
+								</div>
+
+								<!--<div style="float:left; margin-right:8px;">
+									<a href="http://la.eonline.com/argentina/pagina/epop" data-seccion="eshows/epop" class="submenu-item-a">
+									<img src="<?php bloginfo('template_url')?>/images/shows/Epop.jpg" height="160" alt="E Pop" title="E Pop"/>
+									</a>
+								</div> -->
+
+
+								<div style="float:left; margin-right:8px;">
+									<a href="http://la.eonline.com/argentina/pagina/coffeebreak/" data-seccion="eshows/coffeebreak" class="submenu-item-a">
+									<img src="<?php bloginfo('template_url')?>/images/shows/coffe.jpg" height="160" alt="Coffee break" title="Coffee break"/>
+									</a>
+								</div>
+
+							</ul>
+						

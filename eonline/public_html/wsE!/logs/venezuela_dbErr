@@ -1,0 +1,3958 @@
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935555
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935555, '&iquest;Harper Beckham est&aacute; lista para seguir los pasos de Victoria Beckham?', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><div class=\'wp-caption align\' style=\'width: 734px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/2018415//rs_724x749-180515113128-Screen_Shot_2018-05-15_at_1.34.20_PM.png\' title=\'Victoria Beckham, Harper Beckham\' width=\'724\' alt=\'Victoria Beckham, Harper Beckham\'/><p class=\'wp-caption-text\'>Instagram: @victoriabeckham</p></div><br clear=\'all\' /><br /><br /><p>Y no nos referimos a la moda&hellip;</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/harper-beckham-esta-lista-para-seguir-los-pasos-de-victoria-beckham#more-935555"><em><!--more--></em></a>[adrenaline]<br /><br /><p>Si pensabas que <strong>Cruz</strong> era el &uacute;nico Beckham con una pasi&oacute;n por la m&uacute;sica te equivocas, pues su hermana menor, <strong><a href="http://la.eonline.com/mexico/enews/harper-beckham-sigue-los-pasos-de-su-famoso-padre-y-es-ya-una-estrella-del-futbol/" target="_blank">Harper Beckham</a>,</strong> tambi&eacute;n ama cantar grandes &eacute;xitos de Hollywood justo antes de ir a la escuela.</p><p>As&iacute; lo demostr&oacute;&nbsp;<strong><a href="http://la.eonline.com/mexico/enews/la-hija-de-victoria-y-david-beckham-sorprende-a-todos-con-este-refinado-acento/" target="_blank">Victoria Beckham</a></strong> durante la ma&ntilde;ana de este martes, cuando comparti&oacute; en su cuenta de <em>Instagram</em> un nuevo video de Harper saliendo de casa con un adorable uniforme color p&uacute;rpura, mientras cantaba <em>A Million Dreams</em>, una de las canciones de <em>The Greatest Showman</em>.</p><p><strong>E! NEWS >&nbsp;<a href="http://la.eonline.com/mexico/enews/la-hija-de-victoria-y-david-beckham-sorprende-a-todos-con-este-refinado-acento/" target="_blank">&iexcl;La hija de Victoria y David Beckham sorprende a todos con este refinado acento!</a></strong></p><br /><br /><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BiyfjkKFPwG/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BiyfjkKFPwG/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Victoria Beckham (@victoriabeckham)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-05-15T07:01:47+00:00">May 15, 2018 at 12:01am PDT</time></p></div></blockquote>
+<script async defer src="//www.instagram.com/embed.js"></script><br /><br /><p>Recientemente&nbsp;<strong><a href="http://la.eonline.com/mexico/enews/harper-beckham-sigue-los-pasos-de-su-famoso-padre-y-es-ya-una-estrella-del-futbol/" target="_blank">David Beckham</a></strong> revel&oacute; que de sus reto&ntilde;os, Harper es la &uacute;nica que sigue practicando futbol. &iquest;Acaso tambi&eacute;n seguir&aacute; los pasos musicales de su famosa madre ex <em>Spice Girl</em>?</p><p>La casa de los Beckham est&aacute; llena de talentos inmejorables, y es que mientras Harper se destaca con sus pr&aacute;cticas de futbol y sus cantos, su hermano Cruz ha sido catalogado como el pr&oacute;ximo <strong>Justin Bieber</strong>, <a href="http://la.eonline.com/mexico/enews/victoria-beckham-muestra-orgullosamente-lo-mucho-que-han-crecido-sus-hijos/" target="_blank"><strong>Brooklyn Beckham</strong></a> brilla por sus habilidades como fot&oacute;grafo y&nbsp;<strong><a href="http://la.eonline.com/mexico/enews/victoria-beckham-muestra-orgullosamente-lo-mucho-que-han-crecido-sus-hijos/" target="_blank">Romeo Beckham</a></strong> modela para las marcas m&aacute;s prestigiosas en el mundo de la moda.</p><p>Definitivamente esta es una casa de estrellas.</p><p><strong>E! NEWS >&nbsp;<a href="http://la.eonline.com/mexico/enews/victoria-beckham-muestra-orgullosamente-lo-mucho-que-han-crecido-sus-hijos/" target="_blank">Victoria Beckham muestra orgullosamente lo mucho que han crecido sus hijos.</a></strong></p><br /><br /><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BhpxEgwF1Ta/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:62.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BhpxEgwF1Ta/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Victoria Beckham (@victoriabeckham)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-17T01:09:54+00:00">Apr 16, 2018 at 6:09pm PDT</time></p></div></blockquote>
+<script async defer src="//www.instagram.com/embed.js"></script><br clear="all"/>', 'publish', 1, '2018-05-15 15:34:52', '2018-05-15 15:34:52', 'open', 'closed', 'harper-beckham-esta-lista-para-seguir-los-pasos-de-victoria-beckham', 'post', '2018-05-16 09:14:15');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935555, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=1
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935555, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_terms WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_term_taxonomy WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('top_stories', 'top-stories');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug='top-stories'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'category');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='category'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935555, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Harper Beckham','harper-beckham');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='harper-beckham'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935555, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Victoria Beckham','victoria-beckham');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='victoria-beckham'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935555, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('The Greatest Showman','the-greatest-showman');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='the-greatest-showman'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935555, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('editors-pick','editors-pick');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='editors-pick'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935555, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935530
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935530, '&iexcl;&iquest;Taylor Swift est&aacute; imitando a Shakira?!', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><div class=\'wp-caption align\' style=\'width: 1034px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/2018415//rs_1024x670-180515101036-BeFunky-collage.jpg\' title=\'Shakira, Taylor Swift\' width=\'1024\' alt=\'Shakira, Taylor Swift\'/><p class=\'wp-caption-text\'>Clasos</p></div><br clear=\'all\' /><br /><br /><p>Entonces, &iquest;qui&eacute;n lo hizo mejor?</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/taylor-swift-esta-imitando-a-shakira#more-935530"><em><!--more--></em></a>[adrenaline]<br /><br /><p>La esperada gira de <a href="http://la.eonline.com/mexico/?s=taylor+swift" target="_blank"><strong>Taylor Swift</strong></a>: <a href="http://la.eonline.com/mexico/?s=taylor+swift" target="_blank"><em>Reputation Tour</em></a>, y algunos los detalles revelados han llevado a los shakirfans a asegurar que la cantante estadounidense copi&oacute; a su colega colombiana.</p><p>&iexcl;&iquest;C&oacute;mo?!</p><p><strong>E! NEWS > <a href="http://la.eonline.com/mexico/enews/camila-cabello-revela-la-verdadera-importancia-de-su-gira-junto-a-taylor-swift/" target="_blank">Camila Cabello revela la verdadera importancia de su gira junto a Taylor Swift</a></strong></p><p>Y es que las redes sociales se inundaron de im&aacute;genes comparativas entre lo que est&aacute; haciendo actualmente Swift y lo que hace unos a&ntilde;os hizo <a href="http://la.eonline.com/mexico/?s=shakira" target="_blank"><strong>Shakira</strong></a>.</p><p>Apelando una vez m&aacute;s al apodo de "v&iacute;bora" que&nbsp;gan&oacute; en medio de su medi&aacute;tica pelea con <a href="http://la.eonline.com/mexico/?s=taylor+swift" target="_blank"><strong>Katy Perry</strong></a>, la int&eacute;rprete de <em>Look What You Make Me Do</em> incluy&oacute; un inmenso reptil de ese tipo en la escenograf&iacute;a para acompa&ntilde;arla en varios de sus temas. &iquest;El detalle?, ya <a href="http://la.eonline.com/mexico/?s=shakira" target="_blank"><strong>Shakira</strong></a> lo hab&iacute;a hecho hace 16 a&ntilde;os.</p><p>La primera gran gira mundial de la int&eacute;rprete de <em>Perro Fiel </em>en 2002, E<em>l Tour de la Mangosta</em>, daba inicio con su emblem&aacute;tica canci&oacute;n <em>Ojos As&iacute;</em>, ah&iacute;, <a href="http://la.eonline.com/mexico/?s=shakira" target="_blank"><strong>Shak</strong></a> sal&iacute;a de debajo de una gran serpiente, un &iacute;cono importante en la gira ya que seg&uacute;n contaba en las promociones: "La mangosta es el &uacute;nico animal que es inmune al veneno de la cobra. Para m&iacute;, la cobra simboliza todo el odio, enfermedad y negatividad en el mundo. Deber&iacute;amos ser m&aacute;s como la mangosta, y atacar la cabeza de la cobra".</p><p><strong>E! NEWS > <a href="http://la.eonline.com/mexico/enews/shakira-finalmente-anuncio-las-fechas-de-su-gira-por-latinoamerica/" target="_blank">&iexcl;Shakira finalmente anunci&oacute; las fechas de su gira por Latinoam&eacute;rica!</a></strong></p><br /><br /><br /><br /><br /><br /><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/taylorswift13?ref_src=twsrc%5Etfw">@taylorswift13</a> querida, <a href="https://twitter.com/shakira?ref_src=twsrc%5Etfw">@shakira</a> lo hizo primero. <a href="https://t.co/7vRon3jF8p">pic.twitter.com/7vRon3jF8p</a></p>&mdash; Tonatiuh Aldana. (@Tonatiuh_Aldana) <a href="https://twitter.com/Tonatiuh_Aldana/status/994356839042158593?ref_src=twsrc%5Etfw">9 de mayo de 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br /><br /><br /><br /><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Se emocionan por la ??de <a href="https://twitter.com/taylorswift13?ref_src=twsrc%5Etfw">@taylorswift13</a> si <a href="https://twitter.com/shakira?ref_src=twsrc%5Etfw">@shakira</a> la tuvo en 2002 <a href="https://twitter.com/hashtag/TourOfTheMongoose?src=hash&amp;ref_src=twsrc%5Etfw">#TourOfTheMongoose</a> <a href="https://twitter.com/hashtag/repTourGlendale?src=hash&amp;ref_src=twsrc%5Etfw">#repTourGlendale</a> <a href="https://t.co/DZGyZPWEnB">pic.twitter.com/DZGyZPWEnB</a></p>&mdash; Horacio Galaviz (@GalavizRH) <a href="https://twitter.com/GalavizRH/status/994116301982400514?ref_src=twsrc%5Etfw">9 de mayo de 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br /><br /><br /><br /><iframe width="570" height="370" src="https://www.youtube.com/embed/G0DYW8cshxo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br /><br /><p>Aunque para los&nbsp;swifties puede ser inspiraci&oacute;n o coincidencia, s&iacute; hay registros de que alguna vez <strong>Taylor</strong> imit&oacute; a <strong>Shakira</strong>...</p><p>Sucedi&oacute; en un hilarante sketch de S<em>aturdat Night Live</em> de 2013 en el que paradi&oacute; el look y movimientos de la s&uacute;perestrella latina.</p><p><strong>E! NEWS >&nbsp;<a href="http://la.eonline.com/andes/enews/katy-perry-disfruta-de-sus-vacaciones-gracias-a-shakira-mirala/" target="_blank">&iexcl;Katy Perry disfruta de sus vacaciones gracias a Shakira! &iexcl;M&iacute;rala!</a></strong></p><p>"Eso es una locura", dijo <strong>Shakira</strong> a <em>Access Hollywood</em>&nbsp;en ese momento durante una fiesta de<em> Rolling Stone</em> en Nueva York despu&eacute;s de que le&nbsp;mostraran el clip de la imitaci&oacute;n. "Me siento halagada. Amo a <strong>Taylor</strong>, creo que ella es incre&iacute;ble. Es bella y tiene un gran talento, y eso es realmente, muy divertido ".</p><p>&iexcl;Amamos esto!</p><br /><br /><br /><br /><br /><br /><iframe width="570" height="370" src="https://www.youtube.com/embed/B6CTD0L154s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br clear="all"/>', 'publish', 1, '2018-05-15 14:57:55', '2018-05-15 14:57:55', 'open', 'closed', 'taylor-swift-esta-imitando-a-shakira', 'post', '2018-05-16 09:14:15');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935530, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=1
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935530, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_terms WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_term_taxonomy WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('top_stories', 'top-stories');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug='top-stories'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'category');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='category'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935530, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('shakira','shakira');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='shakira'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935530, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('taylor swift','taylor-swift');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='taylor-swift'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935530, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('tour de la magosta','tour-de-la-magosta');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='tour-de-la-magosta'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935530, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('el dorado world tour','el-dorado-world-tour');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='el-dorado-world-tour'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935530, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('reputation tour','reputation-tour');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='reputation-tour'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935530, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935527
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935527, 'El padre de Meghan Markle desata un drama total a pocos d&iacute;as de la boda real', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><div class=\'wp-caption align\' style=\'width: 1090px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/2018414//rs_1080x1920-180514152029-1080-meghan-markle-family.jpg\' title=\'Meghan Markle, Family\' width=\'1080\' alt=\'Meghan Markle, Family\'/><p class=\'wp-caption-text\'>E! Illustration</p></div><br clear=\'all\' /><br /><br /><p>La uni&oacute;n de la ex estrella de <em>Suits</em> se ve opacada por un nuevo esc&aacute;ndalo.</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/el-padre-de-meghan-markle-desata-un-drama-total-a-pocos-dias-de-la-boda-real#more-935527"><em><!--more--></em></a>[adrenaline]<br /><br /><p>Este lunes la familia de&nbsp;<strong><a href="http://la.eonline.com/mexico/the-royals/el-padre-de-meghan-markle-sufrio-un-infarto-y-ya-no-asistira-a-la-boda-real/" target="_blank">Meghan Markle</a></strong> le dio un nuevo toque de drama a su boda con el&nbsp;<strong><a href="http://la.eonline.com/mexico/the-royals/lo-bueno-y-lo-malo-de-a-royal-romance-i-la-pelicula-del-principe-harry-y-meghan-markle/" target="_blank">pr&iacute;ncipe Harry</a></strong> luego que se descubriera que su padre, <strong><a href="http://la.eonline.com/mexico/the-royals/el-padre-de-meghan-markle-sufrio-un-infarto-y-ya-no-asistira-a-la-boda-real/" target="_blank">Thomas Markle</a></strong>, supuestamente hab&iacute;a trabajado en conjunto con una agencia de paparazzi para producir una serie de fotos manipuladas.</p><p>M&aacute;s tarde, en una entrevista con <em>Loose Women</em>, <strong><a href="http://la.eonline.com/mexico/the-royals/el-padre-de-meghan-markle-sufrio-un-infarto-y-ya-no-asistira-a-la-boda-real/" target="_blank">Samantha Grant</a></strong>, la media hermana de Meghan, se atribuy&oacute; la culpa y asegur&oacute; que solo lo hizo en beneficio de su padre y la familia real, para hacer que todos se vieran bien.</p><p>Por si todo esto fuese poco, luego se revel&oacute; que el padre de la futura duquesa habr&iacute;a sufrido un infarto y que tras estar estable &eacute;l mismo decidi&oacute; dejar el hospital con la idea de poder acompa&ntilde;ar a Meghan el d&iacute;a de su boda. Sin embargo, luego del esc&aacute;ndalo de las fotos montadas, Thomas decidi&oacute; no participar en el festejo. Aunque este martes parece haber cambiado de opini&oacute;n, pues seg&uacute;n reporta <strong>E! News</strong>, &eacute;l mismo habr&iacute;a hablado con <em>TMZ</em> para asegurar, "Por supuesto que la llevar&eacute; al altar. Este es un momento hist&oacute;rico. Me gustar&iacute;a ser parte de la historia".</p><p><strong>THE ROYALS > <a href="http://la.eonline.com/mexico/the-royals/lo-bueno-y-lo-malo-de-a-royal-romance-i-la-pelicula-del-principe-harry-y-meghan-markle/" target="_blank">Lo bueno y lo malo de <em>A Royal Romance</em>, la pel&iacute;cula del pr&iacute;ncipe Harry y Meghan Markle.</a></strong></p><p>En medio de todo el drama, el Palacio de Kensington se pronunci&oacute;. "Este es un momento profundamente personal para la Srta. Markle en los d&iacute;as previos a su boda. Ella y el pr&iacute;ncipe Harry nuevamente piden entendimiento y respeto para el Sr. Markle en esta situaci&oacute;n tan dif&iacute;cil".</p><p>Y mientras se acerca el esperado d&iacute;a de la boda, <strong>E! News</strong> supo que Meghan se quedar&aacute; con su madre en el hotel Cliveden House en Taplow, Berkshire; mientras que Harry estar&aacute; con su hermano y padrino de bodas, el <strong><a href="http://la.eonline.com/mexico/the-royals/todo-sobre-los-primeros-dias-del-principe-william-y-kate-middleton-con-el-principe-louis/" target="_blank">pr&iacute;ncipe William</a></strong>, en Coworth Park, en Ascot.</p><p>Harry y Meghan se dar&aacute;n el "S&iacute;" este s&aacute;bado 19 de mayo en la Capilla St. George del Castillo Windsor.</p><br /><br /><br /><br /><div style="display: block; position: relative; max-width: 100%;"><div style="padding-top: 56.25%;"><iframe src="//players.brightcove.net/96980687001/553b59c3-4773-4446-8ce1-9a4199b98a2f_default/index.html?videoId=5784731466001&muted" allowfullscreen webkitallowfullscreen mozallowfullscreen style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;"></iframe></div></div><br /><br /><br /><br /><br />5784731466001<br clear="all"/>', 'publish', 1, '2018-05-15 14:52:54', '2018-05-15 14:52:54', 'open', 'closed', 'el-padre-de-meghan-markle-desata-un-drama-total-a-pocos-dias-de-la-boda-real', 'post', '2018-05-16 09:14:15');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935527, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_terms WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_term_taxonomy WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('top_stories', 'top-stories');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug='top-stories'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'category');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='category'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935527, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=29237
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935527, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Meghan Markle','meghan-markle');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='meghan-markle'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935527, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('príncipe Harry','principe-harry');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='principe-harry'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935527, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Thomas Markle','thomas-markle');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='thomas-markle'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935527, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('editors-pick','editors-pick');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='editors-pick'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935527, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935522
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935522, 'Gaten Matarazzo le declar&oacute; la guerra a Darren Criss y tienes que ver qui&eacute;n gan&oacute;', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><div class=\'wp-caption align\' style=\'width: 1034px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/2018415//rs_1024x819-180515101837-GATTEN__DARREN.jpg\' title=\'Gaten Matarazzo, Darren Criss\' width=\'1024\' alt=\'Gaten Matarazzo, Darren Criss\'/><p class=\'wp-caption-text\'>Clasos</p></div><br clear=\'all\' /><br /><br /><p>&iquest;Qui&eacute;n es el mejor para el canto? &iexcl;Dif&iacute;cil decisi&oacute;n!</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/gaten-matarazzo-le-declaro-la-guerra-a-darren-criss-y-tienes-que-ver-quien-gano#more-935522"><em><!--more--></em></a>[adrenaline]<br /><br /><p>Adem&aacute;s de sus fruct&iacute;feras carreras en la televisi&oacute;n, <a href="http://la.eonline.com/andes/?s=darren+criss" target="_blank"><strong>Darren Criss</strong></a> y <a href="http://la.eonline.com/andes/?s=gaten+matarazzo" target="_blank"><strong>Gaten Matarazzo</strong></a> han hecho carrera en la m&uacute;sica. Darren con un disco y Gaten en los escenarios de Broadway. Definir a qui&eacute;n le va mejor es un riesgo que s&oacute;lo ellos se pueden tomar y as&iacute; lo hicieron.</p><p>Las estrellas de <a href="http://la.eonline.com/andes/?s=glee" target="_blank"><em><strong>Glee</strong></em></a> y <a href="http://la.eonline.com/andes/?s=stranger+things" target="_blank"><em><strong>Stranger Things</strong></em></a>, respectivamente, fueron los invitados de honor del programa&nbsp;<strong><em>Drop the Mic</em></strong>. Ah&iacute; dejaron a un lado la amistad y su mutua admiraci&oacute;n para sumergirse en una de las mejores batallas que hayamos visto en mucho tiempo.</p><p><strong>E! NEWS >&nbsp;<a href="http://la.eonline.com/andes/enews/lea-michele-mostro-como-reaccionaron-darren-criss-y-emma-roberts-ante-la-noticia-de-su-compromiso/" target="_blank">Lea Michele mostr&oacute; c&oacute;mo reaccionaron Darren Criss y Emma Roberts ante la noticia de su compromiso</a></strong>&nbsp;</p><p>Hubo algunos golpes bajos como... "Un ni&ntilde;o de&nbsp;<em>Stranger Things</em>&nbsp;rapeando, bueno, eso es algo nuevo, &iquest;no deber&iacute;amos mejor traer a <strong>Millie Bobby Brown</strong>?" o "Soy un nerd, pero esa es la mi**da m&aacute;s tonta que haya escuchado".</p><p>Ouch... Eso duele.</p><p>&iexcl;M&iacute;ralos en acci&oacute;n!</p><br /><br /><br /><br /><br /><br /><iframe width="570" height="370" src="https://www.youtube.com/embed/_fKU51x7DSc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br clear="all"/>', 'publish', 1, '2018-05-15 14:47:22', '2018-05-15 14:47:22', 'open', 'closed', 'gaten-matarazzo-le-declaro-la-guerra-a-darren-criss-y-tienes-que-ver-quien-gano', 'post', '2018-05-16 09:14:15');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935522, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=1
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935522, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_terms WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_term_taxonomy WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('top_stories', 'top-stories');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug='top-stories'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'category');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='category'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935522, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Gaten Matarazzo','gaten-matarazzo');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='gaten-matarazzo'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935522, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Darren Criss','darren-criss');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='darren-criss'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935522, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('stranger things','stranger-things');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='stranger-things'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935522, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('glee','glee');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='glee'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935522, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('editors-pick','editors-pick');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='editors-pick'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935522, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('drop the mic','drop-the-mic');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='drop-the-mic'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935522, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935509
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935509, 'Liam Payne revela una dura verdad sobre One Direction', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><div class=\'wp-caption align\' style=\'width: 644px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/20171115//rs_634x1024-171215190608-634.liam-payne.ct.121517.jpg\' title=\'Liam Payne, Power 96.1?s Jingle Ball 2017\' width=\'634\' alt=\'Liam Payne, Power 96.1?s Jingle Ball 2017\'/><p class=\'wp-caption-text\'>Marcus Ingram/Getty Images for iHeartMedia</p></div><br clear=\'all\' /><br /><br /><p>&iquest;Acaso se arrepiente de haber formado parte de 1D?</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/liam-payne-revela-una-dura-verdad-sobre-one-direction#more-935509"><em><!--more--></em></a>[adrenaline]<br /><br /><p>Todos podemos imaginar la presi&oacute;n que representa formar parte de la <em>boy band</em> m&aacute;s grande de la historia. Sin embargo, en palabras del propio&nbsp;<strong><a href="http://la.eonline.com/mexico/enews/y-asi-liam-payne-vuelve-a-demostrar-que-su-relacion-con-cheryl-cole-esta-mas-que-bien/" target="_blank">Liam Payne</a></strong> esta experiencia "casi lo mata". Debido a esto no es una sorpresa que la idea de lanzarse como solista lo aterrara.</p><p>Recientemente, al recordar sus batallas emocionales durante su tiempo junto a <strong><a href="http://la.eonline.com/mexico/enews/liam-payne-confiesa-cual-de-los-one-direction-lo-volvio-ldquo-un-poco-loco-rdquo/" target="_blank">Niall Horan</a></strong>, <a href="http://la.eonline.com/mexico/enews/liam-payne-confiesa-cual-de-los-one-direction-lo-volvio-ldquo-un-poco-loco-rdquo/" target="_blank"><strong>Harry Styles</strong></a>,&nbsp;<strong><a href="http://la.eonline.com/mexico/enews/liam-payne-confiesa-cual-de-los-one-direction-lo-volvio-ldquo-un-poco-loco-rdquo/" target="_blank">Louis Tomlinson</a></strong> y <a href="http://la.eonline.com/mexico/enews/liam-payne-confiesa-cual-de-los-one-direction-lo-volvio-ldquo-un-poco-loco-rdquo/" target="_blank"><strong>Zayn Malik</strong></a>, &eacute;l confes&oacute;, "He tenido varias, han habido tiempos dif&iacute;ciles".</p><p>Conversando con <em>KISS FM, </em>Payne dijo, "Cuando la banda entr&oacute; en pausa sufr&iacute; con la idea de ser famoso de nuevo, me aterrorizaba. La &uacute;ltima vez casi me mata, francamente".</p><p>Y agreg&oacute;, "As&iacute; que tuve que descubrir una manera en que funcionara para m&iacute;, m&aacute;s que yo para ella".</p><p><strong>E! NEWS >&nbsp;<a href="http://la.eonline.com/mexico/enews/y-asi-liam-payne-vuelve-a-demostrar-que-su-relacion-con-cheryl-cole-esta-mas-que-bien/" target="_blank">Y as&iacute;, Liam Payne vuelve a demostrar que su relaci&oacute;n con Cheryl Cole est&aacute; m&aacute;s que bien.</a></strong></p><p>&iquest;Cu&aacute;l es su receta para lidiar la fama? Una mezcla de humor y honestidad brutal.</p><p>Sobre el inter&eacute;s del p&uacute;blico en su vida dijo, "Hay que re&iacute;rse de eso y recordar que alg&uacute;n d&iacute;a ser&aacute; solo una an&eacute;cdota. Y parecer&aacute; divertido".</p><p>Para contrarrestar los altos niveles de estr&eacute;s, el int&eacute;rprete de <em>Strip That Down</em> procura rodearse de personas buenas y honestas.</p><p>"Hablo con muchas personas que est&aacute;n en mi misma posici&oacute;n porque he crecido en el ojo p&uacute;blico. Ten&iacute;a 14, era muy joven, cuando comenc&eacute; ese proceso", asegur&oacute;.</p><p>"Amo mi vida, ha sido fant&aacute;stico, pero tambi&eacute;n he luchado mucho para llegar a donde estoy. Se trata de tener a buenas personas a tu alrededor. No tienen que ser psic&oacute;logos, solo personas amigables, a alguien con quien poder hablar".</p><br /><br /><br clear="all"/>', 'publish', 1, '2018-05-15 14:10:51', '2018-05-15 14:10:51', 'open', 'closed', 'liam-payne-revela-una-dura-verdad-sobre-one-direction', 'post', '2018-05-16 09:14:15');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935509, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=1
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935509, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_terms WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_term_taxonomy WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('top_stories', 'top-stories');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug='top-stories'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'category');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='category'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935509, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Liam Payne','liam-payne');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='liam-payne'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935509, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('One Direction','one-direction');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='one-direction'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935509, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('editors-pick','editors-pick');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='editors-pick'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:15
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935509, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935504
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935504, 'El radical cambio de vida de Bella Hadid', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><div class=\'wp-caption align\' style=\'width: 1090px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/2018410//rs_1080x1920-180510192443-1080.bella-hadid-cannes-party-2.ct.051018.jpg\' title=\'Bella Hadid, 2018 Cannes Film Festival, Magnum x Alexander Wang party\' width=\'1080\' alt=\'Bella Hadid, 2018 Cannes Film Festival, Magnum x Alexander Wang party\'/><p class=\'wp-caption-text\'>Jonathan Hordle/PA/Magnum</p></div><br clear=\'all\' /><br /><br /><p>La supermodelo ya no es la misma...</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/el-radical-cambio-de-vida-de-bella-hadid#more-935504"><em><!--more--></em></a>[adrenaline]<br /><br /><p><strong><a href="http://la.eonline.com/mexico/alfombraroja/bella-hadid-y-kendall-jenner-se-aduenaron-del-festival-de-cine-de-cannes-un-outfit-a-la-vez-miralas/" target="_blank">Bella Hadid</a></strong>, una de las s&uacute;per modelos del momento, ha decidido cambiar de estilo de vida... Y es algo que no nos esper&aacute;bamos.</p><p><strong>E! NEWS > <a href="http://la.eonline.com/mexico/enews/bella-hadid-y-the-weeknd-fueron-capturados-besandose-miralos/" target="_blank">Bella Hadid y The Weeknd bes&aacute;ndose en Cannes</a>.</strong></p><br /><br /><br /><br /><div style="display: block; position: relative; max-width: 100%;"><div style="padding-top: 56.25%;"><iframe src="//players.brightcove.net/96980687001/553b59c3-4773-4446-8ce1-9a4199b98a2f_default/index.html?videoId=5785089747001&muted" allowfullscreen webkitallowfullscreen mozallowfullscreen style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;"></iframe></div></div><br /><br /><br /><br /><br />5785089747001<br clear="all"/>', 'publish', 1, '2018-05-15 14:01:14', '2018-05-15 14:01:14', 'open', 'closed', 'el-radical-cambio-de-vida-de-bella-hadid', 'post', '2018-05-16 09:14:16');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935504, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=1
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935504, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_terms WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_term_taxonomy WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('top_stories', 'top-stories');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug='top-stories'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'category');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='category'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935504, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('bella hadid','bella-hadid');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='bella-hadid'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935504, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('cambio de vida','cambio-de-vida');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='cambio-de-vida'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935504, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('modelo','modelo');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='modelo'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935504, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('super modelo','super-modelo');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='super-modelo'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935504, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935490
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935490, 'El padre de Louis Tomlinson fue diagnosticado con c&aacute;ncer', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><div class=\'wp-caption align\' style=\'width: 644px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/2017825//rs_634x1024-170925161606-634-louis-tomlinson-iheartradio.jpg\' title=\'Louis Tomlinson, iHeartRadio Music Festival BTS photos\' width=\'634\' alt=\'Louis Tomlinson, iHeartRadio Music Festival BTS photos\'/><p class=\'wp-caption-text\'>Joseph Llanes for iHeartRadio</p></div><br clear=\'all\' /><br /><br /><p>La familia del cantante ha perdido a varios miembros debido a esta misma enfermedad.</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/el-padre-de-louis-tomlinson-fue-diagnosticado-con-cancer#more-935490"><em><!--more--></em></a>[adrenaline]<br /><br /><p>Casi un a&ntilde;o despu&eacute;s de que&nbsp;<strong><a href="http://la.eonline.com/mexico/enews/por-esto-louis-tomlinson-podria-negarse-a-una-foto-con-un-fan/" target="_blank">Louis Tomlinson</a></strong> perdiera a su madre&nbsp;<strong><a href="http://la.eonline.com/mexico/enews/louis-tomlinson-rompera-tu-corazon-con-el-dulce-mensaje-de-cumpleanos-que-le-dedico-a-su-fallecida-madre/" target="_blank">Johannah Deakin</a></strong> debido a la leucemia, el padre biol&oacute;gico del cantante fue diagnosticado con c&aacute;ncer.</p><p>Este lunes, el ex&nbsp;<strong><a href="http://la.eonline.com/mexico/enews/liam-payne-confiesa-cual-de-los-one-direction-lo-volvio-ldquo-un-poco-loco-rdquo/" target="_blank">One Direction</a></strong> (26) fue uno de los invitados sorpresa de los NHS Heroes Awards 2018 en Londres, y ese mismo d&iacute;a se conoci&oacute; la noticia sobre el estado de su padre.</p><p><strong>Troy Austin</strong> (49) se someti&oacute; a una operaci&oacute;n para retirar un tumor de 3,8 cm. de su h&iacute;gado la semana pasada.</p><p>"He estado llorando l&aacute;grimas de felicidad porque me siento muy afortunado de haber tenido una segunda oportunidad", le dijo Troy a <em>The Sun</em> el lunes en la noche. "El diagn&oacute;stico temprano lo es todo".</p><p>El padre de 49 culp&oacute; al alcohol, el cigarrillo y los malos h&aacute;bitos alimenticios por el tumor.</p><p><strong>E! NEWS >&nbsp;<a href="http://la.eonline.com/mexico/enews/por-esto-louis-tomlinson-podria-negarse-a-una-foto-con-un-fan/" target="_blank">Por esto Louis Tomlinson podr&iacute;a negarse a una foto con un fan.</a></strong></p><p>"Cada d&iacute;a fumaba hasta 25 cigarrillos y tomaba de seis a ocho latas de <em>Tyskie</em>, una lager polaca. Mi dieta era terrible. Comida china o india para llevar, muchas papas fritas", relat&oacute;. "Algunos d&iacute;as no com&iacute;a, solo tomaba y fumaba. Tomaba para celebrar los buenos momentos y para enfrentar los malos. Cada momento de la vida era una ocasi&oacute;n para tomar. Y luego el estr&eacute;s".</p><p>El padre de Louis no es el primero de su familia en padecer c&aacute;ncer. Su abuela <strong>Tina</strong> (madre de Troy) muri&oacute; de c&aacute;ncer de m&eacute;dula a los 67 a&ntilde;os, a principios de 2017.</p><p>Adem&aacute;s, en diciembre de 2016 Tomlinson qued&oacute; devastado luego de la muerte de su madre Johanna, quien falleci&oacute; a los 46 a&ntilde;os tras una larga batalla contra la leucemia, tambi&eacute;n conocida como c&aacute;ncer de sangre.</p><br /><br /><br clear="all"/>', 'publish', 1, '2018-05-15 13:35:49', '2018-05-15 13:35:49', 'open', 'closed', 'el-padre-de-louis-tomlinson-fue-diagnosticado-con-cancer', 'post', '2018-05-16 09:14:16');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935490, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=1
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935490, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_terms WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_term_taxonomy WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('top_stories', 'top-stories');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug='top-stories'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'category');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='category'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935490, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Louis Tomlinson','louis-tomlinson');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='louis-tomlinson'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935490, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Johannah Deakin','johannah-deakin');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='johannah-deakin'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935490, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Troy Austin','troy-austin');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='troy-austin'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935490, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('editors-pick','editors-pick');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='editors-pick'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935490, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('cáncer','cancer');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='cancer'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935490, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935484
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935484, 'Las im&aacute;genes m&aacute;s hot de la novia de JuanPa Zurita', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><div class=\'wp-caption align\' style=\'width: 609px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/2018121//rs_599x749-180221113747-juanpa_9.jpg\' title=\'JuanPa Zurita\' width=\'599\' alt=\'JuanPa Zurita\'/><p class=\'wp-caption-text\'>Instagram </p></div><br clear=\'all\' /><br /><br /><p>No podr&aacute;s creer lo sexy que es...</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/las-imagenes-mas-hot-de-la-novia-de-juanpa-zurita#more-935484"><em><!--more--></em></a>[adrenaline]<br /><br /><p><strong>Carmella Rose</strong>, el nombre de la guap&iacute;sima y sexy modelo que desde hace algunas horas est&aacute; en boca de mochos -y en la de <a href="http://la.eonline.com/mexico/?s=juanpa+zurita" target="_blank"><strong>JuanPa Zurita</strong></a>- precisamente por ser la nueva conquista del &iacute;dolo mexicano.</p><p>Si no sabes de qui&eacute;n te estamos hablando, debes <strong><a href="http://la.eonline.com/mexico/enews/descubrimos-quien-es-la-novia-de-juanpa-zurita-y-tienes-que-conocerla/" target="_blank">hacer click aqu&iacute;.</a></strong></p><p>Si ya sabes qui&eacute;n es <strong>Carmella Rose</strong>, disfruta de este video que preparamos con sus im&aacute;genes m&aacute;s hot.</p><p>&iexcl;Wow!</p><br /><br /><br /><br /><div style="display: block; position: relative; max-width: 100%;"><div style="padding-top: 56.25%;"><iframe src="//players.brightcove.net/96980687001/553b59c3-4773-4446-8ce1-9a4199b98a2f_default/index.html?videoId=5785102825001&muted" allowfullscreen webkitallowfullscreen mozallowfullscreen style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;"></iframe></div></div><br /><br /><br /><br /><br />5785102825001<br clear="all"/>', 'publish', 1, '2018-05-15 13:25:21', '2018-05-15 13:25:21', 'open', 'closed', 'las-imagenes-mas-hot-de-la-novia-de-juanpa-zurita', 'post', '2018-05-16 09:14:16');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935484, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=1
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935484, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('juanpa zurita','juanpa-zurita');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='juanpa-zurita'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935484, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('carmella rose','carmella-rose');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='carmella-rose'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935484, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935479
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935479, 'Kristen Stewart se quita los tacones y desaf&iacute;a el protocolo en Cannes &iexcl;M&iacute;rala!', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><div class=\'wp-caption align\' style=\'width: 1090px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/201849//rs_1080x1920-180509150525-1080x1920-kristen-stewart-050918.jpg\' title=\'Kristen Stewart, 2018 Cannes Film Festival, 2018 \' width=\'1080\' alt=\'Kristen Stewart, 2018 Cannes Film Festival, 2018 \'/><p class=\'wp-caption-text\'>Pascal Le Segretain/Getty Images</p></div><br clear=\'all\' /><br /><br /><p>A K.Stew nadie le dice qu&eacute; hacer&hellip;</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/kristen-stewart-se-quita-los-tacones-y-desafia-el-protocolo-en-cannes-mirala#more-935479"><em><!--more--></em></a>[adrenaline]<br /><br /><p>Este lunes,<strong> <a href="http://la.eonline.com/mexico/enews/tokio-de-la-casa-de-papel-cayo-rendida-ante-kristen-stewart/" target="_blank">Kristen Stewart</a></strong> se quit&oacute; los tacones durante el&nbsp;<strong><a href="http://la.eonline.com/mexico/category/alfombraroja/" target="_blank">Festival de Cine de Cannes 2018</a></strong> y camin&oacute; el resto de la alfombra roja con los pies descalzos, en lo que pareci&oacute; ser una forma de protesta.</p><p>Mientras posaba para fotos durante la funci&oacute;n de la pel&iacute;cula <em>BlacKkKlansman, </em>Stewart se quit&oacute; sus <em>Louboutins</em> y los llev&oacute; en la mano al lugar del evento.</p><p>Su gesto pareci&oacute; ser una forma de protesta ante el controversial c&oacute;digo de vestimenta del festival. En 2015, Cannes fue objeto de muchas cr&iacute;ticas por implementar una pol&iacute;tica de solo tacones. En ese momento, <em>ScreenDaily</em> report&oacute; que le negaban la entrada a mujeres en sus cincuenta que llegaran a las pel&iacute;culas en zapatos planos. El festival se neg&oacute; a comentar sobre la informaci&oacute;n de la prensa, pero s&iacute; confirm&oacute; que a las mujeres se les ped&iacute;a usar tacones altos para las funciones con alfombra roja. Sin embargo, el director del festival, <strong>Thierry Fr&eacute;maux</strong>, tuite&oacute; que todo era un "rumor infundado".</p><br /><br /><div class=\'wp-caption align\' style=\'width: 1034px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/2018415//rs_1024x759-180515072740-1024-Kristen-Stewart-Cannes-Shoes-LT-051518.jpg\' title=\'Kristen Stewart, Cannes Film Festival 2018, Shoes\' width=\'1024\' alt=\'Kristen Stewart, Cannes Film Festival 2018, Shoes\'/><p class=\'wp-caption-text\'>VALERY HACHE/AFP/Getty Images</p></div><br clear=\'all\' /><br /><br /><p>Este lunes,<strong> Kristen Stewart</strong> se quit&oacute; los tacones durante el <strong>Festival de Cine de Cannes 2018</strong> y camin&oacute; el resto de la alfombra roja con los pies descalzos, en lo que pareci&oacute; ser una forma de protesta.</p><p>Mientras posaba para fotos durante la funci&oacute;n de la pel&iacute;cula <em>BlacKkKlansman, </em>Stewart se quit&oacute; sus <em>Louboutins</em> y los llev&oacute; en la mano al lugar del evento.</p><p>Su gesto pareci&oacute; ser una forma de protesta ante el controversial c&oacute;digo de vestimenta del festival. En 2015, Cannes fue objeto de muchas cr&iacute;ticas por implementar una pol&iacute;tica de solo tacones. En ese momento, <em>ScreenDaily</em> report&oacute; que le negaban la entrada a mujeres en sus cincuenta que llegaran a las pel&iacute;culas en zapatos planos. El festival se neg&oacute; a comentar sobre la informaci&oacute;n de la prensa, pero s&iacute; confirm&oacute; que a las mujeres se les ped&iacute;a usar tacones altos para las funciones con alfombra roja. Sin embargo, el director del festival, <strong>Thierry Fr&eacute;maux</strong>, tuite&oacute; que todo era un "rumor infundado".</p><br /><br /><br /><br /><p><strong>E! NEWS >&nbsp;<a href="http://la.eonline.com/mexico/enews/tokio-de-la-casa-de-papel-cayo-rendida-ante-kristen-stewart/" target="_blank">Tokio, de La Casa de Papel, cay&oacute; rendida ante Kristen Stewart.</a></strong></p><br /><br /><br /><br /><p>Stewart ya hab&iacute;a hablado del c&oacute;digo de vestimenta antes.</p><p>"Definitivamente hay un c&oacute;digo de vestimenta, &iquest;cierto?". La gente se molesta mucho si no usas tacones o algo as&iacute;, qu&eacute; importa", le dijo <em>a The Hollywood Reporter</em> en 2017. "Ya no se le puede pedir eso a la gente. Si no les pides a los tipos que usen tacones y vestido, tampoco me lo puedes pedir a m&iacute;. Ni siquiera hace cuatro a&ntilde;os nos pregunt&aacute;bamos eso. Ten&iacute;as que ponerte un vestido&hellip; Pero ahora, es maravilloso. Ya no pueden hacer eso".</p><br /><br /><br /><br /><p>La estrella de <em>Twilight</em> es miembro del jurado en el festival de este a&ntilde;o.</p><br /><br /><br clear="all"/>', 'publish', 1, '2018-05-15 13:06:30', '2018-05-15 13:06:30', 'open', 'closed', 'kristen-stewart-se-quita-los-tacones-y-desafia-el-protocolo-en-cannes-mirala', 'post', '2018-05-16 09:14:16');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935479, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_terms WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_term_taxonomy WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('top_stories', 'top-stories');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug='top-stories'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'category');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='category'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935479, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=3
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935479, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Kristen Stewart Walks Barefoot at Cannes','kristen-stewart-walks-barefoot-at-cannes');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='kristen-stewart-walks-barefoot-at-cannes'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935479, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Kristen Stewart Kicks Off Her Heels','kristen-stewart-kicks-off-her-heels');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='kristen-stewart-kicks-off-her-heels'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935479, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Kristen Stewart Ditches Her Heels','kristen-stewart-ditches-her-heels');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='kristen-stewart-ditches-her-heels'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935479, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Kristin Stewart','kristin-stewart');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='kristin-stewart'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935479, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('editors-pick','editors-pick');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='editors-pick'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:16
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935479, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935475
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935475, 'Mira el primer trailer de <em>Bohemian Rhapsody</em>, la pel&iacute;cula de Queen', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><div class=\'wp-caption align\' style=\'width: 730px;margin:auto;\'><IMG SRC=\'http://images.eonline.com/eol_images/Entire_Site/2018415//rs_720x400-180515084630-1.jpg\' title=\'Bohemian Rhapsody\' width=\'720\' alt=\'Bohemian Rhapsody\'/><p class=\'wp-caption-text\'>20th Century Fox</p></div><br clear=\'all\' /><br /><br /><p><strong>Rami Malek</strong> impacta con su caracterizaci&oacute;n.</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/mira-el-primer-trailer-de-bohemian-rhapsody-la-pelicula-de-queen#more-935475"><em><!--more--></em></a>[adrenaline]<br /><br /><p>"<em>Bohemian Rhapsody</em> es una celebraci&oacute;n de la pionera <strong>Queen</strong>, su m&uacute;sica y su extraordinario cantante <strong>Freddie Mercury</strong>, quien desafi&oacute; los estereotipos y las convenciones destrozadas para convertirse en uno de los artistas m&aacute;s queridos en el planeta", de esa manera describen oficialmente a la esperada cinta que nos mostrar&aacute; la historia de los emblem&aacute;ticos m&uacute;sicos.</p><p>Recientemente, fue lanzado su primer trailer.</p><p><strong>AMAMOS LAS PELIS >&nbsp;<a href="http://la.eonline.com/mexico/amamos-las-pelis/insolito-asi-luce-rami-malek-transformado-en-el-legendario-freddie-mercury/" target="_blank">&iexcl;Ins&oacute;lito! As&iacute; luce Rami Malek transformado en el legendario Freddie Mercury</a></strong></p><p>Con&nbsp;<strong>Rami Malek</strong> caracterizando magistralmente a <strong>Mercury</strong>, junto a&nbsp;<strong>Lucy Boynton, Gwilym Lee, Ben Hardy, Joseph Mazzello, Aiden Gillen, Tom Hollander </strong>y<strong> Mike Myers</strong>, vemos escenas de los inicios de la banda y un recorrido por lo que prometer estar lleno de emocionantes momentos.</p><p>En la sinopsis contin&uacute;an: "La pel&iacute;cula muestra el ascenso mete&oacute;rico de la banda a trav&eacute;s de sus canciones ic&oacute;nicas y sonido revolucionario, su casi implosi&oacute;n mientras el estilo de vida de <strong>Mercury</strong> se sale de control, y su reuni&oacute;n triunfal en la v&iacute;spera de Live Aid, donde Mercury enfrenta una enfermedad que pone en peligro su vida, lidera a la banda en una de las mejores actuaciones en la historia de la m&uacute;sica rock. En el proceso, cimentando el legado de una banda que siempre fue m&aacute;s como una familia, y que contin&uacute;an inspirando a extra&ntilde;os, so&ntilde;adores y amantes de la m&uacute;sica hasta el d&iacute;a de hoy".</p><p><strong>AMAMOS LAS PELIS >&nbsp;<a href="http://la.eonline.com/andes/amamos-las-pelis/las-10-mas-espectaculares-biopics-de-musicos-fotos/" target="_blank">Las 10 m&aacute;s espectaculares biopics de m&uacute;sicos</a></strong></p><p>&iexcl;M&iacute;ralo!</p><br /><br /><br /><br /><br /><br /><iframe width="570" height="370" src="https://www.youtube.com/embed/6S9c5nnDd_s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br /><br /><p>Hace unos meses,&nbsp;<strong>E! News</strong>&nbsp;pudo confirmar que el director Bryan Singer hab&iacute;a abandonado el proyecto. "<strong>Bryan Singer</strong>&nbsp;ya no ser&aacute; el director de&nbsp;<em>Bohemian Rhapsody</em>", dijo el estudio en un comunicado a<strong>&nbsp;E! News</strong>. El anuncio lleg&oacute; despu&eacute;s de que&nbsp;<em>Fox</em>&nbsp;suspendiera temporalmente la producci&oacute;n de la pel&iacute;cula debido a que s&uacute;bitamente&nbsp;<strong>Bryan</strong>&nbsp;no estuvo disponible.</p><p>La responsabilidad pas&oacute; entonces a manos de&nbsp;<strong>Dexter Fletcher</strong>.</p><p>El estreno de la cinta est&aacute; previsto para noviembre de 2018.</p><p>&nbsp;</p><br /><br /><br clear="all"/>', 'publish', 1, '2018-05-15 13:00:53', '2018-05-15 13:00:53', 'open', 'closed', 'mira-el-primer-trailer-de-bohemian-rhapsody-la-pelicula-de-queen', 'post', '2018-05-16 09:14:17');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935475, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=21781
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_terms WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_term_taxonomy WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('top_stories', 'top-stories');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug='top-stories'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'category');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='category'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Bohemian Rhapsody','bohemian-rhapsody');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='bohemian-rhapsody'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('queen','queen');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='queen'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Rami Malek','rami-malek');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='rami-malek'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('pelicula de queen','pelicula-de-queen');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='pelicula-de-queen'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('pelicula de Freddie Mercury','pelicula-de-freddie-mercury');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='pelicula-de-freddie-mercury'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Lucy Boynton','lucy-boynton');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='lucy-boynton'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Gwilym Lee','gwilym-lee');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='gwilym-lee'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Ben Hardy','ben-hardy');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='ben-hardy'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Joseph Mazzello','joseph-mazzello');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='joseph-mazzello'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Aiden Gillen','aiden-gillen');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='aiden-gillen'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Tom Hollander y Mike Myers','tom-hollander-y-mike-myers');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='tom-hollander-y-mike-myers'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935475, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select ID from wp_posts WHERE ID=935466
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_posts (ID, post_title, post_content, post_status, post_author, post_date, post_date_gmt, comment_status, ping_status, post_name, post_type, post_modified_SAGE) VALUES (935466, 'Hugh Jackman quiere que Ryan Reynolds lo deje en paz &iexcl;Mira por qu&eacute;!', '<span style=\'background-color:#950000;color:#fff;font-family:arial, tahoma, verdana;font-size:14px;font-weight:bold;padding:10px 10px 10px 20px;\'></span><br /><br /><p>&iquest;Acaso Deadpool conseguir&aacute; el gran regreso de Wolverine?</p><p><strong><a href="http://la.eonline.com/mexico/enews/ryan-reynolds-revelo-su-encuentro-mas-incomodo-con-un-fan-de-deadpool/" target="_blank">Ryan Reynolds</a></strong>&nbsp;no descansa.</p><p><strong><a href="http://la.eonline.com/mexico/alfombraroja/hugh-jackman-lucio-completamente-desconcertado-tras-perder-el-globo-de-oro-ante-james-franco/" target="_blank">Hugh Jackman</a></strong>&nbsp;termin&oacute; su carrera como <em>Wolverine</em> el a&ntilde;o pasado despu&eacute;s de <em>Logan</em>, pero Reynolds est&aacute; decidido a sacarlo del retiro para una posible crossover con <em>Deadpool</em>. Cuando Reynolds particip&oacute; este martes en <em>Good Mornig America</em>, Jackman le pidi&oacute; a Reynolds que lo dejara en paz. "&iexcl;Amigo! &iquest;C&oacute;mo est&aacute;s? Ryan, te amo, hombre. Amo <em>Deadpool</em>. No puedo esperar a ver la pel&iacute;cula. Eres unos de mis mejores amigos: Blake, la familia, todo. Pero rel&aacute;jate un poco. Hazte el dif&iacute;cil. Es demasiado", dijo Jackman en un video. "No es sexy, &iquest;verdad?".</p><p>Con una carcajada, Reynolds le explic&oacute; a <strong>George Stephanopoulos</strong>, "Quiero convencerlo de que vuelva a interpretar a Wolverine y no escucha. Insiste en cantar y bailar de maravilla en cualquier otro lado".</p><p>Jackman disfruta del sorpresivo &eacute;xito en taquilla de <em>The Greatest Showman</em>, pero Reynolds no quiere renunciar a su objetivo de que vuelva a interpretar a Wolverine. "Tendr&eacute; que mejorar un poco mi juego", dijo. "Pondr&eacute; su n&uacute;mero de tel&eacute;fono en Internet".</p><br /><br /><br /><a class="more-link" href="http://la.eonline.com/venezuela/2018/hugh-jackman-quiere-que-ryan-reynolds-lo-deje-en-paz-mira-por-que#more-935466"><em><!--more--></em></a>[adrenaline]<br /><br /><br /><br /><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Ryan...play a little hard to get...it&#39;s too much.&quot; <a href="https://twitter.com/RealHughJackman?ref_src=twsrc%5Etfw">@RealHughJackman</a> has a message for <a href="https://twitter.com/VancityReynolds?ref_src=twsrc%5Etfw">@VancityReynolds</a> in his efforts to have him return as Wolverine. <a href="https://twitter.com/deadpoolmovie?ref_src=twsrc%5Etfw">@DeadpoolMovie</a> <a href="https://twitter.com/hashtag/Deadpool2?src=hash&amp;ref_src=twsrc%5Etfw">#Deadpool2</a> <a href="https://t.co/eF2w96bJPj">pic.twitter.com/eF2w96bJPj</a></p>&mdash; Good Morning America (@GMA) <a href="https://twitter.com/GMA/status/996366590206623744?ref_src=twsrc%5Etfw">May 15, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br /><br /><p><strong>E! NEWS >&nbsp;<a href="http://la.eonline.com/mexico/enews/ryan-reynolds-revelo-su-encuentro-mas-incomodo-con-un-fan-de-deadpool/" target="_blank">Ryan Reynolds revel&oacute; su encuentro m&aacute;s inc&oacute;modo con un fan de Deadpool.</a></strong></p><br /><br /><br /><br /><p>Reynolds estuvo en <em>Good Morning America</em> para promocionar <em>Deadpool 2,</em> que estar&aacute; en cines a partir de este viernes. La primera pel&iacute;cula fue una labor de amor de 11 a&ntilde;os, un proyecto que hizo con &eacute;xito incluso antes de que interpretara el papel por primera vez en <em>X-Men Origins: Wolverine</em>, de 2009. Estrenada en 2016, <em>Deadpool</em> gan&oacute; la impresionante cantidad de $783.1 millones de d&oacute;lares con un presupuesto de 58 millones. Pero Reynolds no siente presi&oacute;n por igualar el &eacute;xito de la primera. "Todav&iacute;a apuntamos a un punto medio y eso de alguna manera funciona. Lo que es genial de Deadpool es que a Deadpool no le importa nada; el personaje hace lo que quiere. Eso es lo que la gente ama", dijo. "Por eso las audiencias se conectan con &eacute;l, tambi&eacute;n creo que es porque nos divertimos mucho en pantalla. De verdad. Para m&iacute; ha sido el papel de mi vida. Nos divertimos tanto, eso lo nota la audiencia".</p><br /><br /><br /><br /><p>Como es de esperarse, muchas de las bromas en la secuela se har&aacute;n a expensas de Reynolds.</p><p>"Me encanta re&iacute;rme de m&iacute;", le dijo a Stephanopoulos. "Soy el objetivo favorito de Deadpool".</p><br /><br /><br /><br /><br /><br /><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;It&#39;s the role of a lifetime for me.&quot; <a href="https://twitter.com/VancityReynolds?ref_src=twsrc%5Etfw">@VancityReynolds</a> dishes on all things <a href="https://twitter.com/deadpoolmovie?ref_src=twsrc%5Etfw">@Deadpoolmovie</a> with <a href="https://twitter.com/GStephanopoulos?ref_src=twsrc%5Etfw">@GStephanopoulos</a>: <a href="https://t.co/GF2Xk3wpbz">https://t.co/GF2Xk3wpbz</a><a href="https://twitter.com/hashtag/Deadpool2?src=hash&amp;ref_src=twsrc%5Etfw">#Deadpool2</a> <a href="https://t.co/Z1YuQpajeR">pic.twitter.com/Z1YuQpajeR</a></p>&mdash; Good Morning America (@GMA) <a href="https://twitter.com/GMA/status/996366088957972480?ref_src=twsrc%5Etfw">May 15, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br clear="all"/>', 'publish', 1, '2018-05-15 12:40:46', '2018-05-15 12:40:46', 'open', 'closed', 'hugh-jackman-quiere-que-ryan-reynolds-lo-deje-en-paz-mira-por-que', 'post', '2018-05-16 09:14:17');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:INSERT INTO wp_postmeta (post_id, meta_key, meta_value) VALUES (935466, 'addthis_exclude', 'true')
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_terms WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:DELETE FROM wp_term_taxonomy WHERE term_id=73
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('top_stories', 'top-stories');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug='top-stories'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'category');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='category'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935466, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:select term_taxonomy_id from wp_term_taxonomy WHERE term_id=1
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935466, );
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Hugh Jackman','hugh-jackman');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='hugh-jackman'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935466, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Ryan Reynolds','ryan-reynolds');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='ryan-reynolds'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935466, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Deadpool','deadpool');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='deadpool'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935466, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('Wolverine','wolverine');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='wolverine'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935466, 0);
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_terms (name, slug) VALUES ('editors-pick','editors-pick');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_id FROM wp_terms WHERE slug ='editors-pick'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_taxonomy (term_id, taxonomy) VALUES (, 'post_tag');
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:SELECT term_taxonomy_id FROM wp_term_taxonomy WHERE term_id= AND taxonomy='post_tag'
+20180516
+-------------------------
+
+Log date:Wed 16 May 2018 9:14:17
+
+-------------------------
+
+2006: MySQL server has gone away
+
+Following query is wrong:insert into wp_term_relationships (object_id, term_taxonomy_id) VALUES (935466, 0);

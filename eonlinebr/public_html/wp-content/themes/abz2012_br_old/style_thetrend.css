@@ -1,0 +1,13 @@
+/* @group GENERAL */
+
+body {
+	background: #ffffff url(images/bgs/bg_thetrends.jpg) no-repeat center top;
+}
+#container{
+	background: #ffffff;
+}
+.style_thetrend_txt, .entry-title span a{
+	color: #e6b800 !important;
+}
+
+/* @end */

@@ -1,0 +1,42 @@
+/* MEDIA QUERIS */
+	/* iPads (portrait and landscape) ----------- */
+	@media only screen 
+	and (min-device-width : 768px) 
+	and (max-device-width : 1024px) {
+		#access a {
+			font-size: 18px;
+		}
+	}
+
+	/* iPads (iPad 3 & 4 Media Queries) ----------- */
+	@media only screen 
+	and (min-device-width : 768px) 
+	and (max-device-width : 1024px)
+	and (-webkit-min-device-pixel-ratio: 2) {
+		/* Styles */
+		#access a {
+			font-size: 18px;
+		}
+	}	
+
+	/* iPads (iPad 1 & 2 Media Queries) ----------- */
+	@media only screen 
+	and (min-device-width : 768px) 
+	and (max-device-width : 1024px)
+	and (-webkit-min-device-pixel-ratio: 1) {
+		/* Styles */
+		#access a {
+			font-size: 18px;
+		}
+	}	
+
+	/* iPadMini  ----------- */
+	@media only screen 
+	and (min-device-width : 768px) 
+	and (max-device-width : 1024px)
+	and (-webkit-min-device-pixel-ratio: 1)  { 
+		/* Styles */
+		#access a {
+			font-size: 18px;
+		}
+	}

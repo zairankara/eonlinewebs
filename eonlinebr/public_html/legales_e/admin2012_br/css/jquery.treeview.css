@@ -1,0 +1,137 @@
+body{
+background-color:transparent; 
+margin:0;
+}
+
+body {
+    font-family: Arial, Verdana, "Lucida Grande", "Lucida Sans Unicode", Helvetica, sans-serif;
+	}
+
+strong, em, b, i {
+    font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif;
+	}
+
+
+.treeview, .treeview ul {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	list-style: none;
+	background-color: #636363;
+	color:#FFFFFF;
+	font-size:8pt;
+	text-align:left;
+	vertical-align:middle;
+}
+
+.treeview ul {
+	background-color: #f9f9f9;
+}
+/*
+.treeview .hitarea {
+	background: url(../img/menu/treeview-default.gif) -64px -25px no-repeat;
+	height: 30px;
+	width: 16px;
+	margin-left: -16px;
+	float: left;
+	cursor: pointer;
+}
+*/
+
+/* fix for IE6 */
+
+* html .hitarea {
+	display: inline;
+	float:none;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+
+.treeview li { 
+	padding: 0px 0px 0px 16px;
+	border:#ffffff;
+	border-style:solid;
+	border-width: 0px 0px 0px 0px;
+	margin: 0;
+}
+
+
+#treecontrol { margin: 1em 0; display: none;}
+
+/*
+.treeview li { background: url(../img/menu/treeview-default-line.gif) 0 0 no-repeat; }
+.treeview li.collapsable, .treeview li.expandable { background-position: 0 -176px; }
+*/
+
+.treeview .expandable-hitarea { background-position: -80px 20px; }
+
+
+.treeview li.last { background-position: 0 -1766px; }
+.treeview li.lastCollapsable, .treeview li.lastExpandable { /* background-image: url(../img/menu/treeview-default.gif); */}  
+.treeview li.lastCollapsable { background-position: 0 -111px }
+.treeview li.lastExpandable { background-position: -32px -67px }
+
+.treeview div.lastCollapsable-hitarea, .treeview div.lastExpandable-hitarea { background-position: 0; }
+/**/ 
+
+/*
+.treeview-gray li { background-image: url(../img/menu/treeview-gray-line.gif); }
+.treeview-gray .hitarea, .treeview-gray li.lastCollapsable, .treeview-gray li.lastExpandable { background-image: url(../img/menu/treeview-gray.gif); } 
+*/
+	
+.filetree li { 
+	list-style: none;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+.filetree span.file, .filetree span.subfile { padding: 0px 0px 0px 18px; display: block;}
+
+.filetree span.folder { padding: 0px 0px 0px 20px; display: block; }
+
+.filetree span.subfolder { padding: 0px 0px 0px 18px; display: block; }
+
+.filetree span.folder { background: url(../img/menu/arrow.gif) 0 0 no-repeat; }
+.filetree span.subfolder { background: url(../img/menu/subarrow.gif) 0 0 no-repeat;}
+
+.filetree li.expandable span.folder { background: url(../img/menu/arrow-closed.gif) 0 0 no-repeat;}
+.filetree li.expandable span.subfolder { background: url(../img/menu/subarrow-closed.gif) 0 0 no-repeat;}
+
+.filetree span.file { background: url(../img/menu/bullet.gif) 0 0 no-repeat; margin: 0px 10px 0px 1px;}
+.filetree span.subfile { background: url(../img/menu/bullet.gif) 0 0 no-repeat; margin: 0px 0px 0px 14px;}
+
+.filetree span.subfolder{ 
+	color: #293897; 
+}
+
+.treeview span.folder.hover { 
+	color: #83c2e5; 
+	cursor: pointer;
+}
+.treeview span.subfolder.hover { 
+	color: #293897; 
+	cursor: pointer;
+}
+.filetree span.menulogout{ 
+	padding: 0px 0px 4px 4px; display: block;
+}
+
+.menulogout a:link, .menulogout a:visited{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.menulogout a:active, .menulogout a:hover{
+	color: #83c2e5;
+	text-decoration: none;
+}
+
+.file a:link, .file a:visited, .subfile a:link, .subfile a:visited{
+	color: #293897;
+	text-decoration: none;
+}
+
+.file a:active, .file a:hover, .subfile a:active, .subfile a:hover{
+	color: #293897;
+	text-decoration: underline;
+}

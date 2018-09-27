@@ -1,0 +1,13 @@
+/* @group GENERAL */
+body {
+	background: #ffffff url(images/bgs/bg_micaela.jpg) no-repeat center top;
+}
+#libre {
+	/*background: #ffffff url(images/bgs/category/efashionblogger.jpg) no-repeat center top;*/
+}
+#container{
+	background: #ffffff;
+}
+
+
+/* @end */

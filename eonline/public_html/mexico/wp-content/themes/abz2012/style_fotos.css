@@ -1,0 +1,19 @@
+/* @group HEADER */
+
+.hentry_gr{
+	width:960px;
+	_width:980px;
+	padding: 10px;
+	display:block;
+	float: left;
+	border:none;
+}
+
+.entry-content{
+	width:960px;
+}
+.entry-content:hover{
+	background-color: #fff;
+}
+
+/* @end */

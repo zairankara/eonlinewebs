@@ -1,0 +1,169 @@
+#todos_programas {
+	color: #4e4e4e;
+	font: 11px/14px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	background-color: #fff;
+	margin: 0;
+	padding: 0 0 0 9px;
+}
+
+h1 {
+	color: #c40000;
+	font: 24px/26px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	margin: 0 0 8px;
+	padding: 0;
+}
+
+p {
+	color: #4e4e4e;
+	font: 11px/14px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	margin: 0 0 5px;
+}
+
+a {
+	color: #c40000;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #333;
+}
+
+/* @group ESTRUCTURA */
+
+#cont_gral {
+	text-align: left;
+	width: 928px;
+	margin: 0;
+	padding: 0;
+}
+
+.dos_col {
+	width: 617px;
+	margin: 0;
+	padding: 16px 0 0;
+	float: left;
+}
+
+.dos_col.bg_colder {
+	background: url(../imgs/programa_ficha/bg_programa.gif) repeat-y 359px;
+}
+
+.col_grande {
+	width: 617px;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+.col_izq {
+	width: 359px;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+.col_der {
+	width: 258px;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+.col_video {
+	width: 311px;
+	margin: 0;
+	padding: 16px 0 0;
+	float: left;
+}
+
+/* @end */
+
+/* @group TITULOS */
+
+.sinopsis,
+.sinopsis_daily10,
+.sinopsis_behind,
+.sinopsis_enews {
+	background: url(../imgs/programa_ficha/tit_sinopsis.gif) no-repeat;
+	width: 349px;
+	margin: 0;
+	padding: 45px 10px 20px 0;
+}
+
+.sinopsis_daily10 {
+	background: url(../imgs/programa_ficha/daily10/sinopsis.gif) no-repeat;
+}
+
+.sinopsis_behind {
+	background: url(../imgs/programa_ficha/behind/sinopsis.gif) no-repeat;
+}
+
+.sinopsis_enews {
+	background: url(../imgs/programa_ficha/enews/sinopsis.gif) no-repeat;
+	width: 606px;
+	border-right: 1px solid #dedede;
+}
+
+.personajes,
+.personajes_daily10,
+.personajes_behind {
+	background: url(../imgs/programa_ficha/tit_personajes.gif) no-repeat 14px top;
+	width: 234px;
+	margin: 0;
+	padding: 45px 10px 20px 14px;
+}
+
+.personajes_daily10 {
+	background: url(../imgs/programa_ficha/daily10/personajes.gif) no-repeat 14px top;
+}
+
+.personajes_behind {
+	background: url(../imgs/programa_ficha/behind/personajes.gif) no-repeat 14px top;
+}
+
+.videos,
+.videos_daily10,
+.videos_behind,
+.videos_enews {
+	background: url(../imgs/programa_ficha/tit_videos.gif) no-repeat 9px top;
+	width: 301px;
+	margin: 0;
+	padding: 45px 0 20px 10px;
+}
+
+.videos_daily10 {
+	background: url(../imgs/programa_ficha/daily10/videos.gif) no-repeat 9px top;
+}
+
+.videos_behind {
+	background: url(../imgs/programa_ficha/behind/videos.gif) no-repeat 9px top;
+}
+
+.videos_enews {
+	background: url(../imgs/programa_ficha/enews/videos.gif) no-repeat 9px top;
+}
+
+/* @end */
+
+.divisor_h {
+	height: 12px;
+	margin-bottom: 12px;
+	border-bottom: 1px solid #d2d2d2;
+}
+
+/* @group LOGOS PIE */
+
+.logos_pie {
+	text-align: left;
+	background: url(../imgs/comunes/logos.gif) no-repeat;
+	width: 928px;
+	height: 83px;
+	margin: 0;
+	padding: 0;
+	border-top: 1px solid #dedede;
+}
+
+/* @end */

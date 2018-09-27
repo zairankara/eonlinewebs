@@ -1,0 +1,180 @@
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 14:00:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 14:00:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 14:01:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 14:01:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 14:02:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 14:02:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 14:03:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 14:03:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 16:59:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 16:59:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:00:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:00:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:30:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:30:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:31:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:31:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:32:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:32:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:33:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:33:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:34:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:34:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:35:01
+
+-------------------------
+
+20121024
+-------------------------
+
+Log date:Wed 24 Oct 2012 17:35:01
+
+-------------------------
+
+1044: Access denied for user 'eonline_usr'@'%' to database 'eonline_brasil'

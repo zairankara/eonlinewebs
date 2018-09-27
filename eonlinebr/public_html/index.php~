@@ -1,0 +1,72 @@
+<?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+
+function noCache() {
+	header("Expires: Tue, 01 Jul 2001 06:00:00 GMT");
+	header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
+	header("Cache-Control: no-store, no-cache, must-revalidate");
+	header("Cache-Control: post-check=0, pre-check=0", false);
+	header("Pragma: no-cache");
+}
+noCache();
+
+/* cookie para fancybox encuesta 2013 */
+if (!isset($_COOKIE['encuestaleida']))setcookie("encuestaleida", "true", time()+604800);
+
+$agent="";
+$agent = $_SERVER['HTTP_USER_AGENT'];  
+$mobile=0;
+
+
+if(strpos($agent, "iPhone")!== FALSE){
+    $mobile=1;
+}elseif(strpos($agent, "Android")!== FALSE){
+    $mobile=1;
+}elseif(strpos($agent, "BlackBerry")!== FALSE){
+    $mobile=1;
+}elseif(strpos($agent, "iPod")!== FALSE){
+    $mobile=1;
+}else {
+    $mobile = "0";
+}
+
+
+# A donde vamos?
+if ($mobile == "1") {
+
+	require('./wp-config.php');
+
+	global $wpdb;
+
+	$amigable=$_SERVER["REQUEST_URI"];
+	$post_name=explode("/", $amigable);
+	$post_name_ex=$post_name[2];
+	$sql="SELECT ID
+	FROM wp_posts
+	WHERE post_name='".$post_name_ex."' AND post_status='publish' AND post_type='post' AND post_content<>''
+	ORDER BY post_date DESC LIMIT 1";
+	
+	$noteid=$wpdb->get_var($sql);
+	
+	if($noteid!="")
+		header("Location:http://br.eonline.com/mobile/reader.php?id=".$noteid."&rand=".rand(1,400));
+	else
+	 	header("Location:http://br.eonline.com/mobile/parser.php?rand=".rand(1,100));
+
+}else {
+	define('WP_USE_THEMES', true);
+
+	/** Loads the WordPress Environment and Template */
+	require('./wp-blog-header.php');
+}

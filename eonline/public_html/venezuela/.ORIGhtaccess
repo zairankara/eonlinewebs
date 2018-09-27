@@ -1,0 +1,13 @@
+Allow from All
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /venezuela/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /venezuela/index.php [L]
+</IfModule>
+
+# END WordPress

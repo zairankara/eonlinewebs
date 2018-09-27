@@ -1,0 +1,16 @@
+<cross-domain-policy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="http://www.adobe.com/xml/schemas/PolicyFile.xsd">
+  <allow-access-from domain="admin.brightcove.com"/>
+  <allow-access-from domain="*.google-analytics.com"/>
+   <allow-access-from domain="*.doubleclick.net" secure="false"/>
+	<allow-access-from domain="*.2mdn.net" secure="false"/>
+	<allow-access-from domain="*.dartmotif.net" secure="false"/>
+
+	<allow-access-from domain="*.doubleclick.net" secure="true"/>
+
+	<allow-access-from domain="*.doubleclick.com" secure="true"/>
+	<allow-access-from domain="*.doubleclick.com" secure="false"/>
+	<allow-access-from domain="*.2mdn.net" secure="true"/>
+	<allow-access-from domain="*.dartmotif.net" secure="true"/>
+	<allow-access-from domain="*.gstatic.com" secure="false"/>
+</cross-domain-policy>

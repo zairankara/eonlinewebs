@@ -1,0 +1,5 @@
+<h3><a href="http://la.eonline.com/andes/category/efashionblogger" class="widget-title" style="color:#4E5756">TWITTER <span style="color:#C7177A;">E! FASHION BLOGGER</span></a></h3>
+<a class="twitter-timeline" href="https://twitter.com/MicaeladelPrado" data-widget-id="360109057916416000">Tweets por @MicaeladelPrado</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<a href="https://www.facebook.com/SoyMicaeladelPrado" target="_blank"><img src="http://la.eonline.com/varios/twitter/facebook_micaela.jpg" border="0"></a>
+<a href="https://twitter.com/MicaeladelPrado" target="_blank"><img src="http://la.eonline.com/varios/twitter/twitter_micaela.jpg" border="0"></a>

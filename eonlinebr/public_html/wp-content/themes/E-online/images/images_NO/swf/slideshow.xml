@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow 
+	speed="6" 
+	fadeInSpeed="2" 
+	fadeOutSpeed="1" 
+	captions="on" 
+	links="on"
+	buttons="on" 
+	>
+	<slide>
+		<asset>ban1.swf</asset>
+		<caption><![CDATA[ALFOMBRA ROJA]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+		<subcaption><![CDATA[Temoprada 2010]]></subcaption>
+	</slide>
+	<slide>
+		<asset>ban2.swf</asset>
+		<caption><![CDATA[CHICA E! VENEZUELA]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+		<subcaption><![CDATA[¿Cuál de ellas será la próxima?]]></subcaption>
+	</slide>
+	<slide>
+		<asset>ban3.swf</asset>
+		<caption><![CDATA[CHELSEA LATELY]]></caption>
+		<url><![CDATA[http://flashden.net/]]></url>
+		<subcaption><![CDATA[Fin de semana]]></subcaption>
+	</slide>
+</slideshow>

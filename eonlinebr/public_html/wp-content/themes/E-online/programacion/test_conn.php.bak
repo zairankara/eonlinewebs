@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> New Document </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+
+ <BODY>
+  	<?
+		$dbhost="preprodabzdb";
+		$dbname="eonline_argentina";
+		$dbuser="eonline_usr";
+		$dbpass="30nl1n3";
+
+		$cnx_mati = mysql_connect($dbhost, $dbuser, $dbpass);
+		if (!$cnx_mati){
+				$error = msg_error_conexion;
+			}else{
+				$db_selected= mysql_select_db($dbname, $cnx_mati);
+				if (!$db_selected) {
+					$error = msg_error_conexion;
+				}
+			}
+		echo mysql_error();
+
+	$id_beam="5";
+
+	//buscar los datos del beam
+	$sql2 = "SELECT tz_str FROM sched_beam where id_beam = ".$id_beam;
+	$query2 = mysql_query($sql2, $cnx_mati);
+	$row_beam=mysql_fetch_array($query2);
+	$tz_beam = $row_beam['tz_str'];?>
+
+	$stat=mysql_close($cnx_mati);
+
+echo ("bb".$row_55['testing']."Stat: $stat");?>
+ </BODY>
+</HTML>

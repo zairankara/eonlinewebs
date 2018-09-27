@@ -1,0 +1,13 @@
+/* @group GENERAL */
+
+body {
+	background: #000 url(images/bgs/category/the_royals.jpg) no-repeat center top;
+}
+#container{
+	background: #000;
+}
+
+#libre {
+  background: url(images/bgs/category/cab_the_royals.jpg) no-repeat center top;
+}
+/* @end */

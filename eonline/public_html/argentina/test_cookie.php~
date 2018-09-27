@@ -1,0 +1,8 @@
+<?php
+if (!isset($_COOKIE['encuestaleida']))setcookie("encuestaleida", "true", time()+2419200);
+
+if(isset($_COOKIE['encuestaleida']) ){
+	echo("SETEADA");
+}else{
+	echo("NO SETEADA");
+}?>

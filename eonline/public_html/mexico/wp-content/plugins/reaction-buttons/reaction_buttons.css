@@ -1,0 +1,114 @@
+/* the reaction buttons region */
+.reaction_buttons{
+    margin: 20px 0 10px 0;
+    text-align: center;
+	text-decoration:none;
+}
+
+.reaction_buttons a{
+	color:#666666;
+	text-decoration:none;
+	font-size: 9px;
+    text-align: center;
+}
+
+.reaction_buttons_tagline{
+	height:40px;
+	margin:5px;
+	width:500px;
+	background: url(linea.gif) left bottom no-repeat;
+    text-align: left;
+	display:block;
+	font-size: 14px;
+	font-weight:bold;
+	color:#bd0100;
+	clear:both;
+}
+/* a single button */
+.reaction_button {
+    cursor: pointer;
+	width:70px !important;
+	float:left;
+	color:#cccccc;
+	text-decoration:none;
+}
+
+div.reaction_buttons .reaction_button_MALA_count,
+div.reaction_buttons .reaction_button_JAJAJA_count,
+div.reaction_buttons .reaction_button_LINDO_count,
+div.reaction_buttons .reaction_button_OMG_count,
+div.reaction_buttons .reaction_button_WTF_count,
+div.reaction_buttons .reaction_button_COOL_count{
+	background: url(cool.gif) top left no-repeat;
+	padding-top: 40px;
+	height:40px;
+	_height:80px;
+	margin:0 5px;
+	text-align:center;
+	position:relative;
+
+}
+div.reaction_buttons .reaction_button_MALA_count{
+	background: url(mala.gif) no-repeat;
+}
+div.reaction_buttons .reaction_button_JAJAJA_count{
+	background: url(jajaja.gif) no-repeat;
+}
+div.reaction_buttons .reaction_button_LINDO_count{
+	background: url(lindo.gif) no-repeat;
+}
+div.reaction_buttons .reaction_button_OMG_count{
+	background: url(omg.gif) no-repeat;
+}
+div.reaction_buttons .reaction_button_WTF_count{
+	background: url(wtf.gif) no-repeat;
+}
+/* the button while hovering over it */
+div.reaction_buttons > .reaction_button:hover {
+   /*background-color: #0F6;*/
+}
+
+/* the button after voting 
+div.reaction_buttons > .voted, div.reaction_buttons > .voted:hover {
+}
+ /*
+
+/* number of votes including parantheses. */
+.reaction_button .count {
+    font-size: 10px;
+	background: url(count.gif) no-repeat;
+	width:32px !important;
+	height:25px;
+	position:absolute;
+	top:8px;
+	right:0;
+}
+
+
+/* number of votes in between the parantheses.*/
+.reaction_buttons .reaction_button .count_number {
+    font-size: 9px;
+	position:absolute;
+	top:7px;
+	right:10px;
+}
+ 
+ 
+/* number of votes in between the parantheses.*/
+.reaction_buttons .reaction_button  .count .count_number {
+    font-size: 9px;
+	position:absolute;
+	top:7px;
+	right:10px;
+}
+ 
+ 
+#sidebar div.widget_reaction_buttons h3 {
+	margin: 0;
+	margin-top: 4px;
+	text-align:left;
+}
+
+#sidebar div.widget_reaction_buttons ol {
+	margin-left: 25px;
+}

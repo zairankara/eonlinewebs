@@ -1,0 +1,49 @@
+Allow from All
+
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST}   ^www\.eonlinebrasil\.br\.com [NC]
+RewriteCond %{HTTP_HOST}   !^$
+RewriteRule ^(.*)$         http://br.eonline.com/$1 [R=301,L]
+
+
+RewriteCond %{HTTP_HOST}   ^www\.eonlinebrasil\.com [NC]
+RewriteCond %{HTTP_HOST}   !^$
+RewriteRule ^(.*)$         http://br.eonline.com/$1 [R=301,L]
+
+
+#RewriteCond %{HTTP_HOST}   ^br\.eonlinelatinola\.com [NC]
+#RewriteCond %{HTTP_HOST}   !^$
+#RewriteRule ^(.*)$         http://br.eonline.com/$1 [L,R]
+
+
+RewriteCond %{HTTP_HOST}   ^eonlinebrasil\.com [NC]
+RewriteCond %{HTTP_HOST}   !^$
+RewriteRule ^(.*)$         http://br.eonline.com/$1 [L,R]
+
+RedirectMatch 301 ^/kardashians http://br.eonline.com/category/the-kardashians?
+
+ErrorDocument 404 http://br.eonline.com
+</IfModule>
+
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+
+<IfModule mod_speling.c>
+CheckSpelling On
+</IfModule>
+

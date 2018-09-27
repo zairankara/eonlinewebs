@@ -1,0 +1,50 @@
+/* @group HEADER */
+
+#header {
+	width: 980px;
+	height: 330px;
+	margin: 0;
+	padding: 0;
+}
+
+#masthead {
+	width: 960px;
+	height: 174px;
+	margin: 0;
+	padding: 0 10px;
+}
+
+#site-title {
+	font-size: 30px;
+	width: 89px;
+	height: 117px;
+	margin: 0;
+	padding: 0 8px;
+	float: left;
+}
+#site-title a {
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+	text-indent: -9000px;
+	background: url(images/comunes/logo_int.gif) no-repeat;
+	width: 89px;
+	height: 117px;
+	display: block;
+}
+
+#branding {
+	height: 117px;
+	margin: 0;
+	padding: 13px 0;
+}
+
+#cab_seccion {
+	text-align: left;
+	background: url(images/headers/cab_fotos.jpg) no-repeat;
+	width: 855px;
+	height: 117px;
+	float: left;
+}
+
+/* @end */

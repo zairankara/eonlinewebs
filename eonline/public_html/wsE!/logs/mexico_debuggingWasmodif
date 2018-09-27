@@ -1,0 +1,64 @@
+20130725
+-------------------------
+
+Log date:Thu 25 Jul 2013 15:30:04
+
+-------------------------
+
+select post_modified_SAGE from wp_posts WHERE post_modified_SAGE='2013-07-25 11:12:30' AND ID=442590
+20130725
+-------------------------
+
+Log date:Thu 25 Jul 2013 15:30:04
+
+-------------------------
+
+select post_modified_SAGE from wp_posts WHERE post_modified_SAGE='2013-07-25 10:49:30' AND ID=442583
+20130725
+-------------------------
+
+Log date:Thu 25 Jul 2013 15:31:02
+
+-------------------------
+
+select post_modified_SAGE from wp_posts WHERE post_modified_SAGE='2013-07-25 11:12:30' AND ID=442590
+20130725
+-------------------------
+
+Log date:Thu 25 Jul 2013 15:31:03
+
+-------------------------
+
+select post_modified_SAGE from wp_posts WHERE post_modified_SAGE='2013-07-25 10:49:30' AND ID=442583
+20130725
+-------------------------
+
+Log date:Thu 25 Jul 2013 15:32:03
+
+-------------------------
+
+select post_modified_SAGE from wp_posts WHERE post_modified_SAGE='2013-07-25 11:12:30' AND ID=442590
+20130725
+-------------------------
+
+Log date:Thu 25 Jul 2013 15:32:03
+
+-------------------------
+
+select post_modified_SAGE from wp_posts WHERE post_modified_SAGE='2013-07-25 10:49:30' AND ID=442583
+20130725
+-------------------------
+
+Log date:Thu 25 Jul 2013 15:33:08
+
+-------------------------
+
+select post_modified_SAGE from wp_posts WHERE post_modified_SAGE='2013-07-25 11:12:30' AND ID=442590
+20130725
+-------------------------
+
+Log date:Thu 25 Jul 2013 15:33:09
+
+-------------------------
+
+select post_modified_SAGE from wp_posts WHERE post_modified_SAGE='2013-07-25 10:49:30' AND ID=442583

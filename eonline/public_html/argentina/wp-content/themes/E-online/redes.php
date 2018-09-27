@@ -1,0 +1,4 @@
+<li><div class="widget_redes"></div>
+<div style="width: 100%; height:100%; padding: 10px; color: white;"><br><iframe src="http://www.facebook.com/plugins/like.php?href=<?php print 'http://la.eonline.com/'?>&layout=button_count&show_faces=true&width=450&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" height="30" style="border:none;overflow:hidden;width:450px;height:30px;"></iframe>
+<br><a href="http://twitter.com/share" class="twitter-share-button" data-text="Sitio recomendado" data-count="none" data-via="EonlineLatino" data-lang="es">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</div></li>

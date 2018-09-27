@@ -1,0 +1,211 @@
+/* @group LAYOUT 2 Columnas */
+
+#content {
+	margin: 0 330px 0 0;
+	background: #6d5928 url(images/bgs/bg_cont_redcarpet.gif) repeat-x;
+	padding: 10px;
+}
+
+.cont_blanco {
+	background-color: #fff;
+	padding: 85px 8px 8px;
+	position: relative;
+}
+
+.cont_blanco_single {
+	background-color: #fff;
+	padding: 85px 8px 8px;
+	position: relative;
+}
+#primary,
+#secondary {
+	float: right;
+	overflow: hidden;
+	width: 300px;
+	background: #6d5928 url(images/bgs/bg_cont_redcarpet.gif) repeat-x;
+	padding: 10px;
+}
+
+/* @end */
+
+/* @group GENERAL */
+
+body {
+	background: #ba0e00 url(images/bgs/bg_alfombra.jpg) no-repeat center top;
+}
+
+/* @end */
+
+/* @group HEADER */
+
+#header {
+	width: 980px;
+	height: 346px;
+	margin: 0;
+	padding: 0;
+}
+
+#masthead {
+	background: #3e0000 url(images/bgs/menu_alfombra.gif) repeat-x;
+	width: 960px;
+	height: 174px;
+	margin: 0;
+	padding: 0 10px 16px;
+}
+
+#site-title {
+	font-size: 30px;
+	width: 89px;
+	height: 117px;
+	margin: 0;
+	padding: 0 8px;
+	float: left;
+}
+#site-title a {
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+	text-indent: -9000px;
+	background: url(images/comunes/logo_int_alfombra.gif) no-repeat;
+	width: 89px;
+	height: 117px;
+	display: block;
+}
+
+#branding {
+	height: 117px;
+	margin: 0;
+	padding: 13px 0;
+}
+
+#cab_seccion {
+	text-align: left;
+	background: url(images/headers/cab_alfombra.jpg) no-repeat;
+	width: 855px;
+	height: 117px;
+	float: left;
+}
+
+/* @end */
+
+/* @group MENU */
+
+#access {
+	width: 960px;
+	height: 31px;
+	margin: 0 auto;
+}
+
+.sbmn_redcarpet {
+	text-align: left;
+	width: 630px;
+	height: 90px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	clear: both;
+}
+
+.sbmn_redcarpet ul {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	list-style-type: none;
+}
+
+.sbmn_redcarpet li {
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+.sbmn_redcarpet li.menu-item-11097 a,
+.sbmn_redcarpet li.menu-item-11095 a,
+.sbmn_redcarpet li.menu-item-11094 a,
+.sbmn_redcarpet li.menu-item-11093 a,
+.sbmn_redcarpet li.menu-item-23427 a,
+.sbmn_redcarpet li.menu-item-15815 a,
+.sbmn_redcarpet li.menu-item-18863 a,
+.sbmn_redcarpet li.menu-item-11096 a {
+	text-align: left;
+	text-indent: -9000px;
+	background: url(images/bgs/red_carpet01.jpg) no-repeat;
+	width: 104px;
+	height: 90px;
+	display: block;
+}
+
+.sbmn_redcarpet li.menu-item-11095 a {
+	background: url(images/bgs/red_carpet02.jpg) no-repeat;
+	width: 97px;
+}
+
+.sbmn_redcarpet li.menu-item-11094 a {
+	background: url(images/bgs/red_carpet03.jpg) no-repeat;
+	width: 121px;
+}
+
+.sbmn_redcarpet li.menu-item-11093 a {
+	background: url(images/bgs/red_carpet04.jpg) no-repeat;
+	width: 104px;
+}
+
+.sbmn_redcarpet li.menu-item-23427 a {
+	background: url(images/bgs/red_carpet05.jpg) no-repeat;
+	width: 101px;
+}
+
+.sbmn_redcarpet li.menu-item-11096 a {
+	background: url(images/bgs/red_carpet06.jpg) no-repeat;
+	width: 103px;
+}
+.sbmn_redcarpet li.menu-item-15815 a {
+	background: url(images/bgs/red_carpet07.jpg) no-repeat;
+	width: 103px;
+}
+.sbmn_redcarpet li.menu-item-18863 a {
+	background: url(images/bgs/red_carpet08.jpg) no-repeat;
+	width: 101px;
+}
+.sbmn_redcarpet li.menu-item-11097 a:hover,
+.sbmn_redcarpet li.menu-item-11095 a:hover,
+.sbmn_redcarpet li.menu-item-11094 a:hover,
+.sbmn_redcarpet li.menu-item-11093 a:hover,
+.sbmn_redcarpet li.menu-item-23427 a:hover,
+.sbmn_redcarpet li.menu-item-11096 a:hover,
+.sbmn_redcarpet li.menu-item-15815 a:hover,
+.sbmn_redcarpet li.menu-item-18863 a:hover,
+.sbmn_redcarpet li.current-menu-item a,
+.sbmn_redcarpet li.current-menu-parent a,
+.sbmn_redcarpet li.current-category-ancestor a,
+.sbmn_redcarpet li.current-post-ancestor a,
+.sbmn_redcarpet li.current-post-parent a {
+	background-position: 0 -90px;
+}
+
+/* @end */
+
+/* @group CONTENIDO */
+
+#main {
+	overflow: hidden;
+	padding: 0;
+}
+
+#content {
+	margin-bottom: 24px;
+}
+
+/* @end */
+
+/* @group FOOTER */
+
+#footer {
+	background-color: #6d5928;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+/* @end */

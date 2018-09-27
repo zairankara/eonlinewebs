@@ -1,0 +1,148 @@
+/* @group LAYOUT 2 Columnas */
+
+#content {
+	margin: 0 330px 0 0;
+	background: #6d5928 url(images/bgs/bg_cont_redcarpet.gif) repeat-x;
+	padding: 10px;
+}
+
+.cont_blanco {
+	background-color: #fff;
+	padding: 45px 8px 8px;
+	position: relative;
+}
+#primary,
+#secondary {
+	float: right;
+	overflow: hidden;
+	width: 300px;
+	background: #6d5928 url(images/bgs/bg_cont_redcarpet.gif) repeat-x;
+	padding: 10px;
+}
+
+/* @end */
+
+/* @group GENERAL */
+
+body {
+	background: #d80606 url(images/bgs/bg_alfombra.jpg) repeat-y center top;
+}
+
+/* @end */
+
+/* @group HEADER */
+
+#branding {
+	background-color: #3e0000;
+	height: 217px;
+	margin: 0;
+	padding: 13px 0;
+}
+
+#cab_seccion {
+	background: url(images/headers/cab_alfombra.jpg) no-repeat;
+	width: 827px;
+	height: 217px;
+	float: left;
+}
+
+/* @end */
+
+/* @group MENU */
+
+#access {
+	width: 960px;
+	height: 31px;
+	margin: 0 auto;
+	background-color: #220000;
+	/*filter:alpha(opacity=75);
+	-moz-opacity:.75;
+	opacity:.75;*/
+}
+
+#sbmn_redcarpet {
+	text-align: left;
+	width: 630px;
+	height: 90px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	clear: both;
+}
+
+#sbmn_redcarpet ul {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	list-style-type: none;
+}
+
+#sbmn_redcarpet li {
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+#sbmn_redcarpet li a.ico_golden,
+#sbmn_redcarpet li a.ico_sag,
+#sbmn_redcarpet li a.ico_grammy,
+#sbmn_redcarpet li a.ico_oscar,
+#sbmn_redcarpet li a.ico_emmy,
+#sbmn_redcarpet li a.ico_teen {
+	text-align: left;
+	text-indent: -9000px;
+	background: url(images/bgs/red_carpet01.jpg) no-repeat;
+	width: 104px;
+	height: 90px;
+	display: block;
+}
+
+#sbmn_redcarpet li a.ico_sag {
+	background: url(images/bgs/red_carpet02.jpg) no-repeat;
+	width: 97px;
+}
+
+#sbmn_redcarpet li a.ico_grammy {
+	background: url(images/bgs/red_carpet03.jpg) no-repeat;
+	width: 121px;
+}
+
+#sbmn_redcarpet li a.ico_oscar {
+	background: url(images/bgs/red_carpet04.jpg) no-repeat;
+	width: 104px;
+}
+
+#sbmn_redcarpet li a.ico_emmy {
+	background: url(images/bgs/red_carpet05.jpg) no-repeat;
+	width: 101px;
+}
+
+#sbmn_redcarpet li a.ico_teen {
+	background: url(images/bgs/red_carpet06.jpg) no-repeat;
+	width: 103px;
+}
+
+#sbmn_redcarpet li a.ico_golden:hover,
+#sbmn_redcarpet li a.ico_sag:hover,
+#sbmn_redcarpet li a.ico_grammy:hover,
+#sbmn_redcarpet li a.ico_oscar:hover,
+#sbmn_redcarpet li a.ico_emmy:hover,
+#sbmn_redcarpet li a.ico_teen:hover,
+#sbmn_redcarpet li a.selected {
+	background-position: 0 -90px;
+}
+
+/* @end */
+
+
+/* @group FOOTER */
+
+#footer {
+	background-color: #6d5928;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+/* @end */

@@ -1,0 +1,19 @@
+
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /andes/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /andes/index.php [L]
+</IfModule>
+
+# END WordPress
+<ifmodule mod_expires.c>
+    <filesmatch "\.(jpg|JPG|gif|GIF|png|PNG|css|ico|js)$">
+        ExpiresActive on
+        ExpiresDefault "access plus 31 days"
+    </filesmatch>
+</ifmodule>

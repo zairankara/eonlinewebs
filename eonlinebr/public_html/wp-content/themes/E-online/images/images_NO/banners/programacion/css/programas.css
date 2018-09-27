@@ -1,0 +1,44 @@
+body {
+	color: #4e4e4e;
+	font: 11px/14px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	background-color: #fff;
+	margin: 0;
+	padding: 10px 0 0 9px;
+}
+
+h1 {
+	font: 14px/16px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	text-transform: uppercase;
+	margin: 0 0 5px;
+	padding: 0;
+}
+
+p {
+	color: #4e4e4e;
+	font: 11px/14px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	margin: 0 0 5px;
+}
+
+#cont_gral {
+	text-align: left;
+	width: 928px;
+	margin: 0;
+	padding: 0;
+}
+
+/* @group LOGOS PIE */
+
+.logos_pie {
+	text-align: left;
+	background: url(../imgs/comunes/logos.gif) no-repeat;
+	width: 928px;
+	height: 83px;
+	margin: 20px 0 0;
+	padding: 0;
+	border-top: 1px solid #dedede;
+}
+
+/* @end */

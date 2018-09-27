@@ -1,0 +1,17 @@
+/* @group GENERAL */
+
+body {
+	background: #ffffff url(images/bgs/bg_micaela.jpg) no-repeat center top;
+}
+
+
+#libre {
+	background: #ffffff url(images/comunes/mica_cab.jpg) no-repeat center top;
+}
+#container{
+	background: #ffffff;
+}
+
+
+/* @end */
+/* @end */

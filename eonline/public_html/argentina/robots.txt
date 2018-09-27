@@ -1,0 +1,47 @@
+﻿User-Agent: *
+Allow: /
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-includes/
+Disallow: /wp-admin/
+Disallow: /wp-
+#
+# Sitemap permitido, búsquedas no.
+#
+Sitemap: http://la.eonline.com/argentina/sitemap.xml
+Disallow: /?s=
+Disallow: /search
+#
+#
+Allow: /feed/$
+Disallow: /feed
+Disallow: /comments/feed
+Disallow: /*/feed/$
+Disallow: /*/feed/rss/$
+Disallow: /*/trackback/$
+Disallow: /*/*/feed/$
+Disallow: /*/*/feed/rss/$
+Disallow: /*/*/trackback/$
+Disallow: /*/*/*/feed/$
+Disallow: /*/*/*/feed/rss/$
+Disallow: /*/*/*/trackback/$
+#
+# Ppcional pero recomendado.
+#
+User-agent: MSIECrawler
+Disallow: /
+User-agent: WebCopier
+Disallow: /
+User-agent: HTTrack
+Disallow: /
+User-agent: Microsoft.URL.Control
+Disallow: /
+User-agent: libwww
+Disallow: /
+#
+User-agent: noxtrumbot
+Crawl-delay: 50
+User-agent: msnbot
+Crawl-delay: 30
+User-agent: Slurp
+Crawl-delay: 10 

@@ -1,0 +1,69 @@
+.da-thumbs {
+	list-style: none;
+	position: relative;
+}
+.da-thumbs li {
+	float: left;
+	background: #fff;
+	position: relative;
+	/*box-shadow: 0 1px 3px rgba(0,0,0,0.1);*/
+}
+.da-thumbs li a,
+.da-thumbs li a img {
+	display: block;
+	position: relative;
+}
+.da-thumbs li a {
+	overflow: hidden;
+}
+.da-thumbs li a div {
+	position: absolute;
+	background: rgba(0,0,0,0.7);
+	width: 100%;
+	height: 100%;
+}
+.da-thumbs li a div.da-animate {
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+/* Initial state classes: */
+.da-slideFromTop {
+	left: 0px;
+	top: -100%;
+}
+.da-slideFromBottom {
+	left: 0px;
+	top: 100%;
+}
+.da-slideFromLeft {
+	top: 0px; 
+	left: -100%;
+}
+.da-slideFromRight {
+	top: 0px;
+	left: 100%;
+}
+/* Final state classes: */
+.da-slideTop {
+	top: 0px;
+}
+.da-slideLeft {
+	left: 0px;
+}
+
+.da-thumbs li a div span {
+	display: block;
+	padding: 10px 0;
+	font-family: "DIN Web Condensed", "Arial Narrow", Sans-Serif;
+	font-size: 20px;
+	line-height: 20px;
+	font-weight: normal;
+	color: rgba(255,255,255,0.9);
+	position: absolute;
+	bottom: 10px;
+	left:10px;
+	max-width: 280px;
+}

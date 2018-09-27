@@ -1,0 +1,107 @@
+@font-face { /* CSS 3 - See: http://www.w3schools.com/cssref/css3_pr_font-face_rule.asp */
+	font-family: "Ostrich Sans Pro Regular";
+		src: url('ostrich-sans-pro-regular-webfont.eot'); /* IE 6-9 */
+		src: local("☺"), /* IE8 hack, to prevent it from loading the following URLs: */
+			url('ostrich-sans-pro-regular-webfont.eot?#iefix') format("embedded-opentype"), /* IE9 */
+			url('ostrich-sans-pro-regular-webfont.woff') format("woff"),
+			url('ostrich-sans-pro-regular-webfont.otf') format("opentype"),
+			url('ostrich-sans-pro-regular-webfont.ttf') format("truetype"),
+			url('ostrich-sans-pro-regular-webfont.svg#webfont') format("svg");  /* Compressed, emerging standard. */
+		font-weight: normal;
+		font-style: normal;
+
+}
+
+@font-face {
+	font-family: "Ostrich Sans Pro Italics";
+		src: url('ostrich-sans-pro-regular-italics-webfont.eot');
+		src: local("☺"),
+			url('ostrich-sans-pro-regular-italics-webfont.eot?#iefix') format("embedded-opentype"),
+			url('ostrich-sans-pro-regular-italics-webfont.woff') format("woff"),
+			url('ostrich-sans-pro-regular-italics-webfont.ttf') format("truetype"),
+			url('ostrich-sans-pro-regular-italics-webfont.svg#UndercoverRegular') format("svg"); 
+}
+
+/* We are not allowed to use these, due to our licensing agreements!
+@font-face {
+	font-family: "Ostrich Semi-Bold";
+		src: url('ostrich-sans-pro-semi-bold-webfont.eot');
+		src: local("☺"),
+			url('ostrich-sans-pro-semi-bold-webfont.eot?#iefix') format("embedded-opentype"),
+			url('ostrich-sans-pro-semi-bold-webfont.woff') format("woff");
+}
+
+@font-face {
+	font-family: "Ostrich Semi-Bold Italic";
+		src: url('ostrich-sans-pro-semi-bold-italics-webfont.eot');
+		src: local("☺"),
+			url('ostrich-sans-pro-semi-bold-italics-webfont.eot?#iefix') format("embedded-opentype"),
+			url('ostrich-sans-pro-semi-bold-italics-webfont.woff') format("woff");
+}
+*/
+
+/* Secondary Header = Din is for Upper and Lower case text… like for descriptions and subheadings. */
+
+@font-face {
+	font-family: "DIN Web Condensed";
+		src: url('DINWeb-Cond.eot');
+		src: local("☺"),
+			url('DINWeb-Cond.eot?#iefix') format("embedded-opentype"),
+			url('DINWeb-Cond.woff') format("woff"), 
+			url('DINWeb-Cond.ttf') format("truetype"),
+			url('DINWeb-Cond.svg#UndercoverRegular') format("svg");		
+			font-weight: normal;
+			font-style: normal;	
+			/**/ 
+
+}
+@font-face {
+	font-family: "DIN Web Condensed Light";
+	src: url('DINOffcPro-CondLight.eot');
+	src: local('☺'), url('DINOffcPro-CondLight.woff') format('woff'), url('DINOffcPro-CondLight.ttf') format('truetype'), url('DINOffcPro-CondLight.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: "DIN Web Condensed ";
+		src: url('DINWeb_Cond.woff') format("woff");
+}
+
+@font-face {
+	font-family: "DIN Web Condensed Bold";
+		src: url('DINWeb-CondBold.eot');
+		src: local("☺"),
+			url('DINWeb-CondBold.eot?#iefix') format("embedded-opentype"),
+			url('DINWeb-CondBold.woff') format("woff"),			
+			url('DINWeb-CondBold.ttf') format("truetype"),
+			url('DINWeb-CondBold.svg#UndercoverRegular') format("svg");
+}
+
+@font-face {
+	font-family: "DIN Web Condensed Italic";
+		src: url('DINWeb-CondIta.eot');
+		src: local("☺"),
+			url('DINWeb-CondIta.eot?#iefix') format("embedded-opentype"),
+			url('DINWeb-CondIta.woff') format("woff"),			
+			url('DINWeb-CondIta.ttf') format("truetype"),
+			url('DINWeb-CondIta.svg#UndercoverRegular') format("svg");
+}
+
+@font-face {
+	font-family: "DIN Web Condensed Bold Italic";
+		src: url('DINWeb-CondBoldIta.eot');
+		src: local("☺"),
+			url('DINWeb-CondBoldIta.eot?#iefix') format("embedded-opentype"),
+			url('DINWeb-CondBoldIta.woff') format("woff"),			
+			url('DINWeb-CondBoldIta.ttf') format("truetype"),
+			url('DINWeb-CondBoldIta.svg#UndercoverRegular') format("svg");
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:1) {
+	@font-face {
+	font-family: 'DIN Web Condensed';
+		src: url('DINWeb-Cond.svg#UndercoverRegular') format('svg');
+	}
+}

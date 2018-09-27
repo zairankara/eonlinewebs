@@ -1,0 +1,59 @@
+Allow from All
+
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST}   ^www\.eonlinebrasil\.br\.com [NC]
+RewriteCond %{HTTP_HOST}   !^$
+RewriteRule ^(.*)$         http://br.eonline.com/$1 [R=301,L]
+
+
+RewriteCond %{HTTP_HOST}   ^www\.eonlinebrasil\.com [NC]
+RewriteCond %{HTTP_HOST}   !^$
+RewriteRule ^(.*)$         http://br.eonline.com/$1 [R=301,L]
+
+
+#RewriteCond %{HTTP_HOST}   ^br\.eonlinelatinola\.com [NC]
+#RewriteCond %{HTTP_HOST}   !^$
+#RewriteRule ^(.*)$         http://br.eonline.com/$1 [L,R]
+
+
+RewriteCond %{HTTP_HOST}   ^eonlinebrasil\.com [NC]
+RewriteCond %{HTTP_HOST}   !^$
+RewriteRule ^(.*)$         http://br.eonline.com/$1 [L,R]
+
+RedirectMatch 301 ^/kardashians http://br.eonline.com/category/the-kardashians?
+RedirectMatch 301 ^/theroyalsquiz http://br.eonline.com/experience/quizzes/TheRoyals/?
+RedirectMatch 301 ^/upfront2016 http://br.eonline.com/experience/upfront2016/?
+RedirectMatch 301 ^/calendario2016 http://br.eonline.com/experience/calendario2016/
+RedirectMatch 301 ^/onelovemanchester http://br.eonline.com/experience/onelovemanchester/
+
+</IfModule>
+
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+#RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+
+<IfModule mod_speling.c>
+CheckSpelling On
+</IfModule>
+
+
+
+# TN START ENABLE KEEP ALIVE
+<ifModule mod_headers.c>
+Header set Connection keep-alive
+</ifModule>
+# TN END ENABLE KEEP ALIVE

@@ -1,0 +1,15 @@
+20111121
+-------------------------
+
+Log date:Mon 21 Nov 2011 17:54:10
+
+-------------------------
+
+20111121
+-------------------------
+
+Log date:Mon 21 Nov 2011 17:54:10
+
+-------------------------
+
+2013: Lost connection to MySQL server at 'reading authorization packet', system error: 0

@@ -1,0 +1,542 @@
+@import url("http://www.owlgraphic.com/owlcarousel/owl-carousel/owl.transitions.css");
+body{background-image:none;background-color:#000}
+#wrapper{width:100%!important;padding:0!important}
+#main{width:100%!important;padding:0!important;min-height:700px}
+.cont_one-clumn{float:center!important}
+#masthead{position:fixed!important;top:0;left:0;box-shadow:0 0 40px #222;-webkit-box-shadow:0 0 40px #222;-moz-box-shadow:0 0 40px #222}
+#site-title a{background-size:auto 50px;height:50px!important}
+#access{height:50px;margin-top:8px;float:left}
+#carouselThumb{padding: 0;}
+footer{display: none;}
+ul{margin:0}
+/*.container {
+    width: 100%;
+    padding: 0;
+}*/
+#content,#galeria_foto,#galeria_foto{background:none!important;margin:auto; overflow: hidden}
+.cont_one-clumn{background-color:#fff;width:100%;margin-bottom:20px;height:100%;float:left}
+.placa_galeria{min-height:700px;position:absolute;top:0;right:0;height:100%;color:#fff;text-align:left;background-color:rgba(26,26,26,0.75);-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=$ieValue);filter:alpha(opacity=100);-moz-opacity:1;-khtml-opacity:1;opacity:1;z-index:10}
+.titulo_galeria{width: calc(100% - 40px);position: absolute; bottom:20px; left: 20px;z-index: 10;text-align: left;}
+.titulo_galeria h2{font-family:"Oswald";font-size:22px;margin-bottom:15px;line-height:1}
+.titulo_galeria h3{color:#fff;font-size:30px!important;margin:10px 0;font-family:"Oswald","Arial Narrow",Sans-Serif;letter-spacing:1px;text-rendering:optimizeLegibility;text-transform:uppercase; width: calc(100% - 60px);}
+.titulo_galeria p, .titulo_galeria p p a{
+    font-family: "Oswald","Arial Narrow",sans-serif;
+    font-size: 18px;
+    color: #aaa;
+    line-height: 1.43;
+    padding: 0;
+    margin: 0;
+    margin-top: 13px;
+    width: 80%;
+    word-wrap: break-word;
+}
+#comentarios{width:100%;position:relative;height:700px}
+#comentarios .comentario1{position:absolute;top:0;right:0}
+#comentarios .comentario2{position:absolute;top:0;right:0}
+#comentarios h3{color:#fff;margin:8px;display:block;font-family:"Oswald","Arial Narrow",sans-serif;text-transform:uppercase;font-stretch:condensed;text-decoration:none;font-size:28px}
+#clients{margin:auto!important;float:left!important;padding-top:40px;height:700px;background:none;-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=$ieValue);filter:alpha(opacity=100);-moz-opacity:1;-khtml-opacity:1;opacity:1;z-index:10;max-width:350px!important}
+#footer{margin:0 auto 50px!important}
+.cont_one-clumn h2,.one-column #content h2{line-height:1.2!important}
+.mainGallery{min-height:600px}
+.mainGallery{min-height:600px}
+#bannerGaleria1{float:left;z-index:100;width:300px;margin-left:30px;margin-top:20px}
+#bannerGaleria{clear:both;width:300px;margin-left:30px;margin-bottom:20px;margin-top:20px}
+#carouselBig{
+    position: absolute !important;
+    /*right:400px;*/
+}
+.mainGallery {
+    color: #fff;
+    font-family: Arial, Georgia, "Times New Roman", Times, serif;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    margin-top: 100px;
+}
+.mainGallery h2 {
+    font-size:20px;
+    color:#0ea8cc;
+    margin:0;
+}
+.mainGallery h3 {
+    text-shadow: 2px 2px 3px #363636;
+}
+.mainGallery h4 {
+    font-family: "Oswald";
+    text-shadow: 2px 2px 3px #363636;
+    color: #999;
+}
+.mainGallery h5 {
+    font-size:11px;
+    color:#fff;
+    margin:0;
+    padding:3px 0 0;
+    font-weight:normal
+}
+.mainGallery .left,
+.mainGallery .right {
+    width:50px;
+    padding:0;
+    float: left;
+}
+.mainGallery .left2,
+.mainGallery .right2 {
+    padding:0;
+    float: left;
+}
+.left #imgLeftBig,
+.right #imgRightBig{
+    margin-top: 130px;
+}
+.mainGallery .imgCaption {
+    float:left;
+    width:525px;
+    color:#a5a2a2;
+    margin-top: 10px;
+}
+.mainGallery .imgImage {
+    width:580px;
+}
+.mainGallery .imgImage:after {
+    position: absolute;
+    width: 100%;
+    display: block;
+    content: '';
+    bottom: 0;
+    left: 0;
+    height: 40%;
+    z-index: 5;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, transparent), color-stop(100%, rgba(0,0,0,0.95)));
+    background: -webkit-linear-gradient(top, transparent 0%, rgba(0,0,0,0.95) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0,0,0,0.95)));
+    background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.95) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 );
+}
+.desktop .mainGallery .imgImage img{
+    max-width: 580px !important;
+   /* max-height: 480px !important;*/
+}
+.mainGallery .middleContent {
+    padding:10px 0;
+    min-height: 800px;
+    max-height: 1300px;
+}
+.mainGallery .borderLR {
+    border-left:1px solid #333;
+    border-right:1px solid #333;
+}
+.mainGallery .message {
+    display:block
+}
+
+.message {
+    display:none
+}
+.mainGallery .nextPreviousBig {
+    position:relative;
+    height:145px;
+    width:50px;
+    background:url(rg_nav.png) no-repeat;
+    text-indent:-999999px;
+    /*margin-bottom: 500px;*/
+}
+.mainGallery .nextBig {
+    background-position:-50px 0;
+    float:right;
+}
+.mainGallery .previousBig {
+    background-position:0 0;
+    float:left;
+}
+.mainGallery .disableBigP {
+    background-position:0 -41px !important;
+    float:left;
+    cursor:default
+}
+.mainGallery .disableBigN {
+    background-position:-33px -41px !important;
+    float:right;
+    cursor:default
+}
+.mainGallery .nextPrevious {
+    position:relative;
+    height:150px;
+    width:50px;
+    background:url(rg_nav_ch.png) no-repeat;
+    text-indent:-999999px;
+}
+.mainGallery .next {
+    background-position:-50px 0;
+    float:right;
+}
+.mainGallery .nextPrevious2 {
+    position:relative;
+    height:66px;
+    width:23px;
+    background:url(rg_nav_ch.png) no-repeat;
+    text-indent:-999999px;
+}
+.mainGallery .galeri_inferior .next2 {
+    background-position:-23px 0;
+    float:right;
+}
+/*.owl-carousel .owl-item img{
+    width: inherit;
+    height: 120px;
+}*/
+
+.owl-carousel .owl-item picture:after{
+    position: absolute;
+    width: 100%;
+    display: block;
+    content: '';
+    bottom: 0;
+    left: 0;
+    height: 40%;
+    z-index: 5;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, transparent), color-stop(100%, rgba(0,0,0,0.95)));
+    background: -webkit-linear-gradient(top, transparent 0%, rgba(0,0,0,0.95) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0,0,0,0.95)));
+    background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.95) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 );
+}
+#sync1.owl-carousel .owl-stage,
+#sync1.owl-carousel .owl-stage-outer,
+#sync1.owl-carousel .owl-item{
+    height: 100%;
+}
+#sync1.owl-carousel .owl-item img{width: auto; margin: 0 auto;}
+#sync2.owl-carousel .owl-stage-outer{height: 90px;}
+#sync2.owl-carousel .owl-item img{height: auto;}
+
+.mainGallery .previous {
+    background-position:0 0;
+    float:left;
+}
+.mainGallery .previous2 {
+    background-position:0 0;
+    float:left;
+}
+.mainGallery .disableP {
+    background-position:0 -41px !important;
+    float:left;
+    cursor:default
+}
+.mainGallery .disableN {
+    background-position:-33px -41px !important;
+    float:right;
+    cursor:default
+}
+.mainGallery .footer {
+    height:66px;
+    float: left;
+}
+.galeri_inferior .centro{
+    /*max-width: 850px;*/
+}
+.galeri_inferior{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: #000;
+}
+.mainGallery .gallerythumb {
+    list-style:none;
+    list-style-type:none;
+    float:left;
+    padding:0;
+    margin:0
+}
+.mainGallery li {
+    display:inline;
+    margin-right:8px;
+    text-align:center;
+    float:left;
+    position:relative;
+    height: 80px;
+}
+.mainGallery li img {
+    margin-bottom:-3px;
+    border:1px solid #4a4949;
+}
+.mainGallery li.active img {
+    margin-top:-3px;
+    border:2px solid #fff;
+    height: 70px;
+}
+:focus {
+    border:none;
+    outline:none
+}
+.clear {
+    clear:both
+}
+/**** override ********/
+.mainGallery .imgImage {
+    /*width:525px;*/
+    position: relative;
+}
+.mainGallery .imgImageSig {
+    /* width: 525px;
+    background-color: green;*/
+    position: absolute;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=$ieValue)";
+    filter: alpha(opacity=30);
+    -moz-opacity: 0.3;
+    -khtml-opacity: 0.3;
+    opacity: 0.3;
+}
+
+.mainGallery .imgImageAnt {
+    /* width: 525px;
+    background-color: green;*/
+    position: absolute;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=$ieValue)";
+    filter: alpha(opacity=20);
+    -moz-opacity: 0.2;
+    -khtml-opacity: 0.2;
+    opacity: 0.2;
+}
+.mstoplinks{padding:3px; border-bottom:2px solid #c3c3c3;}
+.mstoplinks a, .mstoplinks a:visited{color:#003366; text-decoration:none; border-right:1px solid #c3c3c3; padding:0 10px}
+.mstoplinks a.active, .mstoplinks a.active:visited{color:#003366; text-decoration:none; border-right:1px solid #c3c3c3; padding:0 10px;border-bottom:1px solid #c3c3c3; border-left:1px solid #c3c3c3; }
+.version{font-size:12px; color:#EE3C95;}
+
+.mscarousel {/*overflow:hidden;*/}
+.mscarousel img{border:0}
+.mscarousel .child{position:relative;}
+.mscarousel .child .set, .mscarousel .set{float:left; position:relative;}
+.mscarousel .child .set .message, .mscarousel .set .message{/*position:absolute; top:0; left:0; background-color:#333333; color:#fff; display:none;*/}
+.mscarousel .child .clear{clear:both}
+.hand{cursor:pointer}
+
+
+#hh-carousel .arrow.right {
+    right: 0;
+    background-position: center center;
+    background-image: url(../img/arrow-right.png);
+    clip: rect(0px, 40px, 150px, 0px);
+}
+#hh-carousel .arrow {
+    width: 40px;
+    height: 150px;
+    background-color: #fc23ca;
+    position: absolute;
+    top: 100px;
+    z-index: 500;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    -webkit-transition: all 300ms ease-in-out;
+    -moz-transition: all 300ms ease-in-out;
+    -o-transition: all 300ms ease-in-out;
+    transition: all 300ms ease-in-out;
+}
+
+.volver,
+.owl-prev{
+    position: absolute;
+    left:0px;
+    top: 50%;
+    margin-top: -40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center center;
+    background-image: url(arrow-left.png);
+    width: 40px;
+    height: 80px;
+    z-index: 500;
+    cursor: pointer;
+    background-repeat: no-repeat;
+}
+
+.volver:focus,
+.owl-prev:focus{
+    background-image: url(arrow-left-black.png);
+    background-color: #fff;
+}
+
+.siguiente,
+.owl-next{
+    position: absolute;
+    right:0px;
+    top: 50%;
+    margin-top: -40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-position: center center;
+    background-image: url(arrow-right.png);
+    width: 40px;
+    height: 80px;
+    z-index: 500;
+    cursor: pointer;
+    background-repeat: no-repeat;
+}
+
+.siguiente:focus,
+.owl-next:focus{
+    background-image: url(arrow-right-black.png);
+    background-color: #fff;
+}
+.social-icons-small{
+    right:20px;
+}
+#imgRightThumb{
+    width: 25px;
+    height: 50px;
+
+    position:absolute;
+    right: 0px;
+    bottom: 15px;
+    z-index:1001;
+    background-color: rgb(255, 36, 209);
+    background-position: center center;
+    background-image: url(arrow-right.png);
+    cursor: pointer;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+#imgRightThumb:hover{
+    background-image: url(arrow-right-black.png);
+    background-color: #fff;
+}
+
+#imgLeftThumb{
+    width: 25px;
+    height: 50px;
+    position:absolute;
+    left: 0px;
+    bottom: 15px;
+    z-index:1001;
+    background-color: rgb(255, 36, 209);
+    background-position: center center;
+    background-image: url(arrow-left.png);
+    cursor: pointer;
+    background-repeat: no-repeat;
+    opacity: 0.8 !important;
+}
+#imgLeftThumb:hover{
+    background-image: url(arrow-left-black.png);
+    background-color: #fff;
+}
+
+
+.todoGalerias {
+    overflow: hidden;
+    display: none;
+}
+#preloader {
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-color:#fff; /* change if the mask should have another color then white */
+    z-index:99; /* makes sure it stays on top */
+}
+#status {
+    width:40px;
+    height:40px;
+    position:absolute;
+    left:50%; /* centers the loading animation horizontally one the screen */
+    top:50%; /* centers the loading animation vertically one the screen */
+    background-image:url(http://la.eonline.com/common/videos_inhome/ellipsis.svg); /* path to your loading animation */
+    background-repeat:no-repeat;
+    background-position:center;
+    margin:-20px 0 0 -20px; /* is width and height divided by two */
+}
+#sync1{
+    height:600px;
+}
+#sync1 .item {
+    /*padding: 80px 0px;
+    color: #FFF;
+    text-align: center;*/
+    width: 100%;
+    height: 100%;
+}
+.thumbs{
+    position:fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0%;
+    height: 90px;
+    z-index: 10000;
+}
+#sync2 .item {
+    background: #C9C9C9;
+    padding: 10px 0px;
+    margin: 5px;
+    height: 90px;
+    color: #FFF;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+}
+#sync2 picture{
+    overflow: hidden;
+    width: 90px;
+    height: 90px;
+}
+#sync2 .item h1 {
+    font-size: 18px;
+}
+#sync2 .current .item {
+    background: #0c83e7;
+}
+.owl-theme .owl-nav {
+    /*default owl-theme theme reset .disabled:hover links */
+}
+.owl-theme .owl-nav [class*='owl-'] {
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.owl-theme .owl-nav [class*='owl-'].disabled:hover {
+    background-color: #D6D6D6;
+}
+#sync1.owl-theme {
+    position: relative;
+}
+#sync1.owl-theme .owl-next,
+#sync1.owl-theme .owl-prev {
+    width: 22px;
+    height: 40px;
+    margin-top: -20px;
+    position: absolute;
+    top: 50%;
+}
+#sync1.owl-theme .owl-prev {
+    left: 10px;
+}
+#sync1.owl-theme .owl-next {
+    right: 10px;
+}
+@media (max-width: 767px){
+    body, html{
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+    }
+    .container {
+        margin: 0;
+    }
+    .mainGallery{
+        margin-top: 45px;
+    }
+    .titulo_galeria{
+        bottom: 0;
+        left:8px;
+        width: calc(100% - 8px);
+    }
+    .titulo_galeria h2{
+        font-size: 14px;
+    }
+    .titulo_galeria h3{
+        font-size: 22px !important;
+        margin:5px 0;
+        padding: 0 !important;
+    }
+    .social-icons-small {
+        right: 0px;
+        bottom: 15px;
+    }
+}

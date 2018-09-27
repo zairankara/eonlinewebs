@@ -1,0 +1,130 @@
+/* @group LAYOUT 2 Columnas */
+
+#content {
+	margin: 0 330px 0 0;
+	background: #b59b7f url(images/bgs/bg_cont_fashion.gif) repeat-x;
+	padding: 10px;
+}
+
+.cont_blanco {
+	background-color: #fff;
+	padding: 20px 8px 8px;
+	position: relative;
+}
+
+.cont_blanco_single {
+	background-color: #fff;
+	position: relative;
+}
+#primary,
+#secondary {
+	float: right;
+	overflow: hidden;
+	width: 300px;
+	background: #b59b7f url(images/bgs/bg_cont_fashion.gif) repeat-x;
+	padding: 10px;
+}
+
+/* @end */
+
+/* @group GENERAL */
+
+body {
+	background: #ffe4c7 url(images/bgs/bg_efashionblogger.jpg) no-repeat center top;
+}
+
+/* @end */
+
+/* @group HEADER */
+
+#header {
+	width: 980px;
+	height: 346px;
+	margin: 0;
+	padding: 0;
+}
+
+#masthead {
+	/*background: #3e0000 url(images/bgs/menu_alfombra.gif) repeat-x;*/
+	width: 960px;
+	height: 174px;
+	margin: 0;
+	padding: 0 10px 16px;
+}
+
+#site-title {
+	font-size: 30px;
+	width: 89px;
+	height: 117px;
+	margin: 0;
+	padding: 0 8px;
+	float: left;
+}
+#site-title a {
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+	text-indent: -9000px;
+	background: url(images/comunes/logo_int_alfombra.gif) no-repeat;
+	width: 89px;
+	height: 117px;
+	display: block;
+}
+
+#branding {
+	height: 117px;
+	margin: 0;
+	padding: 13px 0;
+}
+
+#cab_seccion {
+	text-align: left;
+	background: url(images/headers/cab_generico.jpg) no-repeat;
+	width: 855px;
+	height: 117px;
+	float: left;
+}
+
+/* @end */
+
+/* @group MENU */
+
+#access {
+	width: 960px;
+	height: 31px;
+	margin: 0 auto;
+}
+
+/* @end */
+
+/* @group CONTENIDO */
+
+#main {
+	overflow: hidden;
+	padding: 0;
+}
+
+#content {
+	margin-bottom: 24px;
+}
+#content .entry-title {
+	color: #000;
+}
+.entry-title a:link,
+.entry-title a:visited {
+	color:#000;
+	text-decoration: none;
+}
+/* @end */
+
+/* @group FOOTER */
+
+#footer {
+	background-color: #6d5928;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+/* @end */
+
+b59b7f

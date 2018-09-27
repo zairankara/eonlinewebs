@@ -1,0 +1,70 @@
+body{
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	clear: both;
+}
+h2{
+	font-size: 18px;
+	font-family: "Ostrich Sans Pro Regular", "Arial Narrow", Sans-Serif;
+	letter-spacing: 1px;
+	text-rendering: optimizeLegibility;
+	text-transform: uppercase;
+	color: #000;
+	margin: 0 0 20px 0;
+	line-height: 1.1;
+}
+.titulo_fashion{
+	height: 65px;
+	width: 630px;
+	background-image: url(titulo_videos.jpg);
+	margin: 10px 0;
+}
+.modulo_fashion{
+	width: 630px;
+	min-height: 550px;
+	background: #ec008c;
+}
+.modulo_fashion_img{
+	margin: 10px;
+	float: left;
+	width: 300px;
+	height: 485px;
+}
+.modulo_fashion_der{
+	margin: 10px 0;
+	float: left;
+	width: 300px;
+	height: 485px;
+}
+
+.mod_botones{
+	width: 300px;
+	margin-bottom: 10px;
+	float: left;
+}
+.mod_botones .wtf{
+	width: 140px;
+	height: 40px;
+	background-image: url(boton_wtf.jpg);
+	float: right;
+}
+.mod_botones .like{
+	width: 140px;
+	height: 40px;
+	background-image: url(boton_like.jpg);
+	float: left;
+}
+.socialFashion{
+	width: 300px;
+	margin: 10px auto;
+	float: left;
+}
+#resp{
+	float: left;
+	width: 300px;
+	height: auto;
+}
+/* @end */
+

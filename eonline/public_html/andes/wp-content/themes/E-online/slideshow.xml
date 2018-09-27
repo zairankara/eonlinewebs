@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow 
+	speed="14" 
+	fadeInSpeed="2" 
+	fadeOutSpeed="1" 
+	captions="on" 
+	links="on"
+	buttons="on" 
+	>
+	<slide>
+		<asset>dont_stop.swf</asset>
+		<caption><![CDATA[CHELSEA LATELY]]></caption>
+		<url><![CDATA[]]></url>
+		<subcaption><![CDATA[Se causan verdaderos estragos en la autoestima de las celebridades]]></subcaption>
+	</slide>
+	<slide>
+		<asset>fashion_week_bsas.swf</asset>
+		<caption><![CDATA[HOW D YOU GET SO RICH?]]></caption>
+		<url><![CDATA[]]></url>
+		<subcaption><![CDATA[HOW D YOU GET SO RICH?]]></subcaption>
+	</slide>
+	<slide>
+		<asset>arjona.swf</asset>
+		<caption><![CDATA[Alejandro Fernandez]]></caption>
+		<url><![CDATA[]]></url>
+		<subcaption><![CDATA[Alejandro Fernandez]]></subcaption>
+	</slide>
+</slideshow>

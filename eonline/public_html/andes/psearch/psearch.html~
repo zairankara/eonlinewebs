@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>E! predictive search</title>
+	<link rel="stylesheet" href="/psearch/themes/base/jquery.ui.all.css">
+</head>
+<body>
+
+	<input id="psearch">
+	<script src="/psearch/jquery-1.10.2.js"></script>
+	        <script src="/psearch/ui/jquery.ui.core.js"></script>
+		        <script src="/psearch/ui/jquery.ui.widget.js"></script>
+			        <script src="/psearch/ui/jquery.ui.position.js"></script>
+				        <script src="/psearch/ui/jquery.ui.menu.js"></script>
+					        <script src="/psearch/ui/jquery.ui.autocomplete.js"></script>
+						        <style>
+								             .ui-autocomplete-loading {
+										                                   background: white url("/psearch/loading.gif") right center no-repeat;
+														                  }
+																          </style>
+
+																	          <script>
+																			          $(function() {
+
+																					                  $( "#psearch" ).autocomplete({
+																								                          source: "/psearch/search.php",
+																											                          minLength: 2
+																														                  });
+
+																																          });
+																																	          </script>
+
+</body>
+</html>

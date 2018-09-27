@@ -1,0 +1,50 @@
+body {
+	background: #080706 url(../imgs/bg.gif) repeat-x 0 top;
+	text-align: center;
+	margin: -1px auto auto;
+	padding-top: 0;
+}
+
+#cont_gral {
+	text-align: center;
+	background: url(../imgs/fondo_escaleras.jpg) no-repeat 0 top;
+	width: 890px;
+	padding-top: 0;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#flash_H {
+	background: url(../imgs/fondo_escaleras.jpg) no-repeat 0 top;
+	width: 890px;
+	height: 648px;
+}
+
+#pie {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+#pie p {
+	color: #fff;
+	text-align: center;
+	margin: 0;
+}
+
+#pie a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+
+p {
+	color: #fff;
+	font: 12px/15px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+

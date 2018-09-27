@@ -1,0 +1,386 @@
+body{
+	background-color:#f9f9f9;
+	
+	font-size: 11px;
+	font-family: 'Lato', sans-serif;
+	
+	text-align:center;
+	margin:auto;
+	
+}
+
+img{
+border-style:none;
+height:18px;
+}
+
+p{
+font-size: 12px;
+color:#000000;
+}
+
+h1
+{
+font-size: 18px;
+color:#000000;
+}
+
+h2{
+font-size: 12px;
+color:#000000;
+}
+
+
+.container{
+position:relative;
+margin:auto;
+}
+
+.box1{
+width:300px;
+height:30px;
+position:absolute;
+top:5px;
+left:5px;
+
+}
+
+.box10{
+width:300px;
+height:30px;
+position:absolute;
+top:100px;
+text-align:left;
+left:10px;
+
+}
+
+.box11{
+width:300px;
+height:70px;
+position:absolute;
+top:100px;
+text-align:left;
+left:615px;
+background-color: #e3e3e3;
+}
+
+
+.box2{
+width:300px;
+height:70px;
+position:absolute;
+top:40px;
+left:5px;
+
+}
+
+.box3{
+width:300px;
+height:100px;
+position:absolute;
+top:5px;
+left:310px;
+
+}
+
+
+.box4{
+width:300px;
+height:120px;
+position:absolute;
+top:5px;
+left:615px;
+background-color: #e3e3e3;
+text-align:center;
+
+}
+
+
+.box5{
+width:300px;
+height:500px;
+position:absolute;
+top:165px;
+left:5px;
+font-size: 12px;
+color:#3e3e3e;
+overflow-y:auto;
+
+}
+
+.box6{
+width:300px;
+height:500px;
+position:absolute;
+top:165px;
+left:310px;
+font-size: 12px;
+color:#3e3e3e;
+overflow-y:auto;
+}
+
+
+.box7{
+width:300px;
+height:500px;
+position:absolute;
+top:165px;
+left:615px;
+background-color: #e3e3e3;
+overflow-y:auto;
+
+
+}
+
+.box_download{
+margin:5px;
+width:270px;
+height:32px;
+position:relative;
+}
+
+.logo1, .logo2, .texto{
+	padding: 0;
+}
+
+.box_download .logo1{
+position:absolute;
+top:8px;
+left:2px;
+}
+
+.box_download .logo2{
+position:absolute;
+top:8px;
+left:22px;
+}
+
+.box_download .texto{
+position:absolute;
+top:7px;
+left:45px;
+border-bottom:1px dotted grey;
+height:30px;
+width:215px;
+}
+
+
+.box_download .texto2{
+position:absolute;
+top:7px;
+left:45px;
+
+height:30px;
+width:215px;
+}
+
+.container_2{
+width:561px;
+height:325px;
+
+padding-top:20px;
+
+background-color: #e3e3e3;
+font-size: 14px;
+color:#ae0001;
+text-align:center;
+margin:auto;
+
+}
+
+
+
+.login_submit{
+background: url(../img/entrar.png) 0 0 no-repeat;
+width:95px;
+height:29px;
+border:none;
+cursor:pointer;
+margin-left:100px;
+margin-bottom:10px;
+
+}
+
+.caja1{
+margin-top:10px;
+}
+
+.caja2{
+margin-top:10px;
+margin-bottom:10px;
+}
+
+.texto1{
+
+}
+
+.text_login{
+width:195px;
+height:29px;
+border:1px solid #d3d3d3;
+background-color: #d9d9d9;
+padding-left:4px;
+color:#ae0001;
+}
+
+.caja3{
+
+}
+
+.logout{
+width:40px;
+height:20px;
+position:absolute;
+top:680px;
+right:40px;
+cursor:pointer;
+
+}
+
+
+.header{
+	height: 100px;
+}
+
+.fila{
+	height: 50px;
+	padding: 20px 0;
+	border-bottom: 1px dotted #ddd;
+}
+
+@media (max-width: 420px){
+	.fila{
+		min-height: 60px;
+	}
+}
+
+.nav {
+	font-size: 13px;
+	font-family: "Oswald", "Arial Narrow", Sans-Serif;
+}
+
+.nav-tabs>li {
+    width: 33%;
+}
+
+.nav-tabs>li>a{
+	height: 58px;
+}
+.nav-tabs>li:nth-of-type(1)>a,
+.nav-tabs>li:nth-of-type(2)>a{
+    line-height: 30px;
+}
+
+.boostrap-datetimepicker-widget{
+	z-index: 1000;
+}
+
+#caja-login{
+	padding: 20px;
+	background-color: #E6E6E6;
+}
+
+#caja-login p{
+	margin-top: 20px;
+}
+
+.input-group-addon{
+	background-color: #fff;
+	border: none;
+	border-radius: 0;
+}
+
+.input-group{
+	margin-bottom: 20px;
+	border-radius: 0;
+	border:none;
+}
+
+.form-control{
+	border-radius: 0;
+	border:none;
+}
+
+#entrar{
+	width: 100%;
+	color: #fff;
+	background-color: #ae0001;
+	border-radius: 0;
+}
+
+#entrar.focus, #entrar:focus, #entrar:hover{
+	color: #fff;
+	background-color: #ae0001;
+	border: 1px solid #6A0000;
+}
+
+#error{
+	display: none;
+	width: 100%;
+}
+
+.tabs{
+	border: 1px solid #ABABAB;
+	background-color: #FFFFFF;
+}
+
+.tab{
+	text-decoration: none;
+	color: #000;	
+}
+
+.tab:focus, .tab:hover {
+    text-decoration: none;
+}
+
+.nav-tabs{
+	border-bottom: none;
+}
+
+a:focus, a:hover {
+    text-decoration: none;
+}
+
+.nav-tabs>div.active>a, .nav-tabs>div.active>a:focus, .nav-tabs>div.active>a:hover {
+    color: #555;
+    cursor: default;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+.header h1{
+	color: #de0f0f;
+    font-family: "Oswald", "Arial Narrow", Sans-Serif;
+}
+
+@media (min-width: 421px) and (max-width: 768px){
+	.fila{
+		margin-top: 45px;
+	}
+}
+
+@media (min-width: 992px){
+	#caja-login{
+		padding: 20px 90px;
+	}
+	.tabs{		
+		border-bottom: none;
+	}
+	.nav-tabs{
+		border-bottom: 1px solid #ddd;
+	}
+}
+
+@media (min-width: 550px){
+	.nav-tabs>li:nth-of-type(2)>a{
+    	line-height: 30px;
+	}
+}
+
+@media screen and (max-width: 767px){
+	.table-responsive {
+	    border: none;
+	}
+}

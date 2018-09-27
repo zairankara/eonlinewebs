@@ -1,0 +1,439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" lang="pt-BR" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="UTF-8"/>
+<title>E! Online Brasil</title>
+<meta name="google-site-verification" content="fP_TCVmkSsSq5vds0sDsrysQRrotjbXXgquXQ6Lci84"/>
+<meta name="author" content="http://www.abzcomunicacion.com"/>
+<meta name="identifier-url" content="http://br.eonline.com/">
+<meta name="Language" content="Spanish"/>
+<meta name="Distribution" content="Global"/>
+<meta name="revisit-after" content="1 day"/>
+<meta name="Category" content="entertainment"/>
+<link rel="shortcut icon" href="http://br.eonline.com/wp-content/themes/abz2012_br/images/favicon.ico"/>
+<link rel="profile" href="http://gmpg.org/xfn/11"/>
+<link rel="author" href="http://www.abzcomunicacion.com"/>
+<html itemscope itemtype="http://schema.org/Organization">
+<meta property="fb:app_id" content="268102679875815">
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="M&uacute;sicas de Justin Bieber s&atilde;o proibidas em festa de Selena Gomez"/>
+<meta property="og:image" content="http://images.eonline.com/eol_images/Entire_Site/2011127//reg_634.bieber.gomez.cm.22711.jpg"/>
+<meta property="og:url" content="http://br.eonline.com/2013/masicas-de-justin-bieber-s-atilde-o-proibidas-em-festa-de-selena-gomez/"/>
+<meta property="og:description" content="Kevin Mazur/VF11/WireImage Evento de Spring Breakers n&#227;o contou com hits do cantor Pelo visto Selena Gomez realmente quer dist&#226;ncia de Justin Bieber. E ela nem quer ouvir falar dele&#8230; Ou escutar suas m&#250;sicas. Durante a festa exclusiva que aconteceu ap&#243;s &#8230; "/>
+<meta itemprop="name" content="M&uacute;sicas de Justin Bieber s&atilde;o proibidas em festa de Selena Gomez"/>
+<meta itemprop="image" content="http://images.eonline.com/eol_images/Entire_Site/2011127//reg_634.bieber.gomez.cm.22711.jpg"/>
+<script type="text/javascript" pagespeed_no_defer>//<![CDATA[
+(function(){var d=window,e=document,f="getItem",k="getData",m="indexOf",n="length",p="prototype",r="localStorage",s="substring",u="",v=" ",w=",",y="; expires=",z="=",A="_GPSLSC=",B="img",C="link",D="load",E="on",F="pagespeed_lsc_expiry",G="pagespeed_lsc_hash",H="pagespeed_lsc_url",I="pagespeed_lsc_url:",J="script",K="style",L="stylesheet",M="text/css";d.pagespeed=d.pagespeed||{};var N=d.pagespeed,O=function(){this.a=!0};O[p].b=function(a){a=a[s](0,a[m](v));return a!=u&&a>=Date.now()};O[p].hasExpired=O[p].b;
+O[p].getData=function(a){return a[s](a[m](v,a[m](v)+1)+1)};O[p].getData=O[p][k];O[p].c=function(a){var b=e.getElementsByTagName(J),b=b[b[n]-1];b.parentNode.replaceChild(a,b)};O[p].replaceLastScript=O[p].c;O[p].h=function(a){var b=d[r][f](a),c=e.createElement(b?K:C);b&&!this.b(b)?(c.type=M,c.appendChild(e.createTextNode(this[k](b)))):(c.rel=L,c.href=a,this.a=!0);this.c(c)};O[p].inlineCss=O[p].h;
+O[p].i=function(a){var b=d[r][f](a),c=e.createElement(B);b&&!this.b(b)?c.src=this[k](b):(c.src=a,this.a=!0);for(var b=1,g=arguments[n];b<g;++b){var h=arguments[b][m](z);c[arguments[b][s](0,h)]=arguments[b][s](h+1)}this.c(c)};O[p].inlineImg=O[p].i;
+O[p].e=function(a,b){for(var c=e.getElementsByTagName(a),g=0,h=c[n];g<h;++g){var j=c[g],t=j.getAttribute(G);if(t){var q=j.getAttribute(H),l=j.getAttribute(F),l=l?(new Date(l)).getTime():u;(j=b(j))||(j=this[k](d[r][f](q)));d[r].setItem(I+q,l+v+t+v+j);this.a=!0}}};O[p].g=function(){this.e(B,function(a){return a.src});this.e(K,function(a){return a.firstChild?a.firstChild.nodeValue:null})};
+O[p].f=function(){if(this.a){for(var a=[],b=[],c=0,g=(new Date).getTime(),h=0,j=d[r][n];h<j;++h){var t=d[r].key(h);if(!t[m](I)){var q=d[r][f](t),l=q[m](v),x=q[s](0,l);if(x)if(x>=g){a.push(t);continue}else if(x<c||0==c)c=x;b.push(q[s](l+1,q[m](v,l+1)))}}g=u;c&&(g=y+(new Date(c)).toUTCString());e.cookie=A+b.join(w)+g;h=0;for(j=a[n];h<j;++h)d[r].removeItem(a[h]);this.a=!1}};
+N.d=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(E+b,c);else{var g=a[E+b];a[E+b]=function(){c.call(this);g&&g.call(this)}}};N.j=function(){if(d[r]){var a=new O;N.localStorageCache=a;N.d(d,D,function(){a.g()});N.d(d,D,function(){a.f()})}};N.localStorageCacheInit=N.j;})();
+pagespeed.localStorageCacheInit();
+//]]></script><link rel="stylesheet" type="text/css" media="screen" href="http://br.eonline.com/wp-content/themes/abz2012_br/font-face/font-face.css" pagespeed_lsc_url="http://br.eonline.com/wp-content/themes/abz2012_br/font-face/font-face.css"/>
+<link rel="stylesheet" type="text/css" href="http://br.eonline.com/wp-content/themes/abz2012_br/cycle-slider/cycle.css" pagespeed_lsc_url="http://br.eonline.com/wp-content/themes/abz2012_br/cycle-slider/cycle.css"/>
+<link rel="stylesheet" type="text/css" media="all" href="http://br.eonline.com/wp-content/themes/abz2012_br/style.css" pagespeed_lsc_url="http://br.eonline.com/wp-content/themes/abz2012_br/style.css"/>
+<link rel="stylesheet" type="text/css" media="screen" href="http://br.eonline.com/wp-content/themes/abz2012_br/colores.css" pagespeed_lsc_url="http://br.eonline.com/wp-content/themes/abz2012_br/colores.css"/>
+<link rel="stylesheet" href="http://la.eonline.com/admin2012/banners/slider/global_2012.css"><link rel="stylesheet" type="text/css" href="http://br.eonline.com/wp-content/themes/abz2012_br/fancybox/jquery.fancybox-1.3.4.css" media="screen" pagespeed_lsc_url="http://br.eonline.com/wp-content/themes/abz2012_br/fancybox/jquery.fancybox-1.3.4.css"/><link type="text/css" href="http://br.eonline.com/wp-content/plugins/nextgen-scrollgallery-20120213/scrollGallery/css/scrollGallery.css" rel="stylesheet" media="screen" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/nextgen-scrollgallery-20120213/scrollGallery/css/scrollGallery.css"/><link type="text/css" href="http://br.eonline.com/wp-content/plugins/nextgen-scrollgallery-20120213/scrollGallery/css/scrollGallery_shadowDesign.css" rel="stylesheet" media="screen" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/nextgen-scrollgallery-20120213/scrollGallery/css/scrollGallery_shadowDesign.css"/><style type="text/css">.wp-polls .pollbar{margin:1px;font-size:6px;line-height:8px;height:8px;background:#c80000;border: 1px solid #}</style><link rel="stylesheet" href="http://br.eonline.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="screen" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css"/><style type="text/css">.vvqbox{display:block;max-width:100%;visibility:visible!important;margin:10px auto}.vvqbox img{max-width:100%;height:100%}.vvqbox object{max-width:100%}</style><style type="text/css">.hentry_gr h2 span,.hentry_gr h2 span a{color:#03cdff!important}</style><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-18061947-2'],['_trackPageview'],['b._setAccount','UA-18061947-40'],['b._setDomainName','eonline.com'],['b._setAllowLinker',true],['b._trackPageview']);setTimeout(function(){_gaq.push(['_trackEvent','Sin-Rebote','Sin-Rebote','10 sec']);},10000);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<script pagespeed_orig_type="text/javascript" pagespeed_orig_src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/psajs" orig_index="0"></script>
+<script pagespeed_orig_src="http://la.eonline.com/admin2012/banners/slider/slides.min.jquery.js" type="text/psajs" orig_index="1"></script>
+<script type="text/psajs" orig_index="2">$(function(){$('#slides').slides({pagination:false,generatePagination:false,play:5000,pause:2500,hoverPause:true,effect:'slide, fade',animationStart:function(current){$('.captionslider').animate({bottom:-35},100);if(window.console&&console.log){console.log('animationStart on slide: ',current);};},animationComplete:function(current){$('.captionslider').animate({bottom:0},200);if(window.console&&console.log){console.log('animationComplete on slide: ',current);};},slidesLoaded:function(){$('.captionslider').animate({bottom:0},200);}});});</script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://adsrv01.eonlinelatinola.com/www/delivery/spcjs.php?id=2' type="text/psajs" orig_index="3"></script>
+<script language="JavaScript" pagespeed_orig_type="text/javascript" pagespeed_orig_src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/psajs" orig_index="4"></script>
+<script pagespeed_orig_type="text/javascript" pagespeed_orig_src="http://br.eonline.com/wp-content/themes/abz2012_br/fancybox/jquery.mousewheel-3.0.4.pack.js" type="text/psajs" orig_index="5"></script>
+<script pagespeed_orig_type="text/javascript" pagespeed_orig_src="http://br.eonline.com/wp-content/themes/abz2012_br/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/psajs" orig_index="6"></script>
+<link rel="pingback" href="http://br.eonline.com/xmlrpc.php"/>
+<link rel="alternate" type="application/rss+xml" title="Feed de E! Online Brasil &raquo;" href="http://br.eonline.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="E! Online Brasil &raquo;  Feed de comentários" href="http://br.eonline.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="E! Online Brasil &raquo; M&uacute;sicas de Justin Bieber s&atilde;o proibidas em festa de Selena Gomez  Feed de comentários" href="http://br.eonline.com/2013/masicas-de-justin-bieber-s-atilde-o-proibidas-em-festa-de-selena-gomez/feed/"/>
+<link rel='stylesheet' id='wpBannerizeStyleDefault.css-css' href='http://br.eonline.com/wp-content/plugins/wp-bannerize3.0.50/css/wpBannerizeStyleInline.css?ver=3.3.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='wpinstagram-css' href='http://br.eonline.com/wp-content/plugins/instagram-for-wordpress/wpinstagram.css?ver=0.3.5' type='text/css' media='all'/>
+<link rel='stylesheet' id='fancybox-css-css' href='http://br.eonline.com/wp-content/plugins/instagram-for-wordpress/js/fancybox/jquery.fancybox-1.3.4.min.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='commentvalidation-css' href='http://br.eonline.com/wp-content/plugins/comment-validation/comment-validation.css?ver=3.3.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='jquery-plugins-slider-style-css' href='http://br.eonline.com/wp-content/plugins/jj-nextgen-jquery-slider/stylesheets/nivo-slider.css?ver=3.3.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='NextGEN-css' href='http://br.eonline.com/wp-content/plugins/nextgen-gallery/css/ngg_shadow.css?ver=1.0.0' type='text/css' media='screen'/>
+<link rel='stylesheet' id='shutter-css' href='http://br.eonline.com/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.css?ver=1.3.4' type='text/css' media='screen'/>
+<link rel='stylesheet' id='wp-polls-css' href='http://br.eonline.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.50' type='text/css' media='all'/>
+<link rel='stylesheet' id='contact-form-7-css' href='http://br.eonline.com/wp-content/plugins/contact-form-7/styles.css?ver=2.2.1' type='text/css' media='all'/>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-includes/js/jquery/jquery.js?ver=1.7.1' type="text/psajs" orig_index="7"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/instagram-for-wordpress/js/jquery.easing-1.3.pack.js' type="text/psajs" orig_index="8"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/instagram-for-wordpress/js/jquery.cycle.lite-1.5.min.js' type="text/psajs" orig_index="9"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/instagram-for-wordpress/js/jquery.fancybox-1.3.4.pack.js' type="text/psajs" orig_index="10"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/instagram-for-wordpress/js/jquery.mousewheel-3.0.4.pack.js' type="text/psajs" orig_index="11"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/comment-validation/jquery.validate.pack.js?ver=3.3.1' type="text/psajs" orig_index="12"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/comment-validation/comment-validation.js?ver=3.3.1' type="text/psajs" orig_index="13"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/jj-nextgen-jquery-slider/script/jquery.nivo.slider.pack.js?ver=2.4' type="text/psajs" orig_index="14"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/jj-nextgen-jquery-slider/script/jquery.jj_ngg_shuffle.js?ver=3.3.1' type="text/psajs" orig_index="15"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/jj-nextgen-jquery-slider/script/jjnggutils.js?ver=3.3.1' type="text/psajs" orig_index="16"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-includes/js/swfobject.js?ver=2.2' type="text/psajs" orig_index="17"></script>
+<script pagespeed_orig_type='text/javascript' type="text/psajs" orig_index="18">//<![CDATA[
+var shutterSettings={"msgLoading":"L O A D I N G","msgClose":"Click to Close","imageCount":"1"};
+//]]></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.js?ver=1.3.3' type="text/psajs" orig_index="19"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995' type="text/psajs" orig_index="20"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.06' type="text/psajs" orig_index="21"></script>
+<script pagespeed_orig_type='text/javascript' type="text/psajs" orig_index="22">//<![CDATA[
+var ngg_ajax={"path":"http:\/\/br.eonline.com\/wp-content\/plugins\/nextgen-gallery\/","callback":"http:\/\/br.eonline.com\/index.php?callback=ngg-ajax","loading":"loading"};
+//]]></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/nextgen-gallery/js/ngg.js?ver=2.1' type="text/psajs" orig_index="23"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://www.google.com/jsapi?ver=3.3.1' type="text/psajs" orig_index="24"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/nextgen-scrollgallery-20120213/scrollGallery/js/mootools-core-1.3.2-full-compat.js?ver=1.3.2' type="text/psajs" orig_index="25"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/nextgen-scrollgallery-20120213/scrollGallery/js/scrollGallery.js?ver=1.11' type="text/psajs" orig_index="26"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://br.eonline.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://br.eonline.com/wp-includes/wlwmanifest.xml"/>
+<link rel='prev' title='5 provas de que Kristen Stewart e Robert Pattinson est&atilde;o juntos' href='http://br.eonline.com/2013/5-provas-de-que-kristen-stewart-e-robert-pattinson-est-atilde-o-juntos/'/>
+<link rel='next' title='Meninos do One Direction celebram o Red Nose Day' href='http://br.eonline.com/2013/meninos-do-one-direction-celebram-o-red-nose-day/'/>
+<meta name="generator" content="WordPress 3.3.1"/>
+<link rel='shortlink' href='http://br.eonline.com/?p=398044'/>
+<meta name="description" content="Kevin Mazur/VF11/WireImageEvento de Spring Breakers n&atilde;o contou com hits do cantorPelo visto Selena Gomez realmente quer dist&acirc;ncia de Justin Bieber."/>
+<meta name="keywords" content="after party,beauty & the beat,bieber justin,festa bieber,foto,fotos,galeria,hollywood life,justin bieber,justin bieber e selena gomez,musica bieber,musicas de justin bieber sao proibidas,nicki minaj,romance,selena gomez,spring breakers,spring breakers festa,tapete vermelho,e! news"/>
+<link rel="canonical" href="http://br.eonline.com/2013/masicas-de-justin-bieber-s-atilde-o-proibidas-em-festa-de-selena-gomez/"/>
+<script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="27">//<![CDATA[
+var _wpcf7={cached:1};
+//]]></script>
+<script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="28">//<![CDATA[
+jQuery.ajax({type:'GET',url:'http://br.eonline.com/wp-content/plugins/wp-postviews/wp-postviews.php',data:'postviews_id=398044',cache:false});
+//]]></script>
+<link id='MediaRSS' rel='alternate' type='application/rss+xml' title='NextGEN Gallery RSS Feed' href='http://br.eonline.com/wp-content/plugins/nextgen-gallery/xml/media-rss.php'/>
+<script pagespeed_orig_type="text/javascript" charset="utf-8" type="text/psajs" orig_index="29">//<![CDATA[
+jQuery.post('http://br.eonline.com/wp-admin/admin-ajax.php',{action:'wpp_update',token:'9d37921dbc',id:398044});
+//]]></script>
+<script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="30">//<![CDATA[
+var vvqflashvars={};var vvqparams={wmode:"opaque",allowfullscreen:"true",allowscriptacess:"always"};var vvqattributes={};var vvqexpressinstall="http://br.eonline.com/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+//]]></script>
+<script pagespeed_orig_src="http://br.eonline.com/wp-content/themes/abz2012_br/scripts/trace.js" pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="31"></script>
+<script pagespeed_orig_src="http://admin.brightcove.com/js/APIModules_all.js" type="text/psajs" orig_index="32"></script>
+<script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="33">var player;function onTemplateLoaded(id){player=brightcove.getExperience(id);player.getModule(APIModules.EXPERIENCE).addEventListener(BCExperienceEvent.TEMPLATE_READY,onTemplateReady);}
+function onTemplateReady(event){player.getModule(APIModules.EXPERIENCE).removeEventListener(BCExperienceEvent.TEMPLATE_READY,onTemplateReady);}</script>
+<script language="JavaScript" type="text/psajs" orig_index="34">function setFlashHeight(divid,newH){document.getElementById(divid).style.height=newH+"px";}
+function setFlashWidth(divid,newH){document.getElementById(divid).style.width=newH+"px";}</script>
+<script language="JavaScript" type="text/psajs" orig_index="35">jQuery(document).ready(function($){$("#slider_cycle ul").cycle({fx:"fade",timeout:4000});});</script>
+<script type="text/javascript" pagespeed_no_defer="">if (window.localStorage &&    window.localStorage['defer_js_experimental']) {  window.localStorage.removeItem('defer_js_experimental');}</script><script type="text/javascript">//<![CDATA[
+(function(){var c=!0,f=null,g=!1,aa=encodeURIComponent,h=window,l=Object,m=document,p=navigator;function q(a,b){return a.createElement=b}function r(a,b){return a.addEventListener=b}function s(a,b){return a.attachEvent=b}
+var t="push",u="exec",v="indexOf",w="hasAttribute",x="readyState",y="querySelector",z="defineProperty",A="addEventListener",B="setAttribute",C="attachEvent",D="getElementsByTagName",E="documentElement",F="length",G="prototype",H="body",I="removeChild",J="call",K="getAttribute",L="querySelectorAll",M="fireEvent",N="parentNode",O="",ba="\n",ca='");',da="'><\/script>",ea="*",fa=":not([psa_not_processed])",ga="<div>_</div>",ha="<script type='psa_prefetch' src='",ia='=document.getElementById("',ja="Add to queue str: ",
+ka="Add to queue url: ",la="AppleWebKit",ma="DOMContentLoaded",na="Evaluated: ",P="Exception while evaluating.",oa="Exception while overriding document.all.",pa="Exception while overriding document.readyState.",qa="Executed: ",ra="Executing a script twice. Orig_Index: ",sa="Firefox",ta="Firing Event: ",ua="HTMLEvents",va="PSA ERROR: ",Q="SCRIPT",wa="Unable to insert nodes, no context element found",xa="[psa_current_node]",ya="[psa_not_processed]",za='[type="text/psajs"]',Aa="all",Ba="application/ecmascript",
+Ca="application/javascript",Da="application/x-ecmascript",Ea="application/x-javascript",Fa="class",Ga="complete",Ha="data:text/html,",Ia="data:text/javascript,",Ja="div",Ka="dw: ",R="error",La="handle_dw: ",Ma="id",Na="iframe",Oa="language",S="load",Pa="loaded",Qa="loading",Ra="none",Sa="on",Ta="onDOMContentLoaded",Ua="onafterscripts",Va="onbeforescripts",Wa="onload",Xa="onload: ",Ya="onreadystatechange",Za="orig_index",$a="pagespeed_orig_src",ab="pagespeed_orig_type",bb="psa_current_node",cb="psa_dw_target",
+T="psa_not_processed",db="psa_prefetch_container",eb="psanode",fb="readyState",gb="readystatechange",U="script",hb="src",ib="text/",jb="text/ecmascript",kb="text/javascript",lb="text/javascript1.0",mb="text/javascript1.1",nb="text/javascript1.2",ob="text/javascript1.3",pb="text/javascript1.4",qb="text/javascript1.5",rb="text/jscript",sb="text/livescript",tb="text/psajs",ub="text/x-ecmascript",vb="text/x-javascript",wb="true",V="type",xb="var ",W;h.pagespeed=h.pagespeed||{};var X=h.pagespeed;
+X.deferJsNs={};var Y=X.deferJsNs,Z=function(){this.j=[];this.h=[];this.l=this.i=0;this.m=[];this.e=O;this.q={};this.I=[Ba,Ca,Da,Ea,jb,kb,lb,mb,nb,ob,pb,qb,rb,sb,ub,vb];this.C=m.getElementById;this.s=m[D];this.Z=m.write;this.$=m.writeln;this.Y=m.open;this.X=m.close;this.D=m[A];this.G=h[A];this.F=m[C];this.H=h[C];this.c=m.createElement;this.u=this.t=this.a=0;this.g=this.r=c;this.n=f;this.o=0;this.p=[];this.d=O},yb=g;W=Z[G];
+W.log=function(a,b){this.h&&(this.h[t](O+a),b&&(this.h[t](b),"undefined"!=typeof console&&"undefined"!=typeof console.log&&console.log(va+a+b.message)))};W.O=function(a,b){this.j.splice(b?b:this.j[F],0,a)};W.S=function(a){var b=this.c[J](m,U);b.text=a;b[B](V,kb);a=this.B();a[N].insertBefore(b,a)};
+W.ca=function(){for(var a=m[D](ea),b=O,d=0;d<a[F];d++)if(a[d][w](Ma)){var e=a[d][K](Ma);if(e&&-1==e.search(/[-:.]/)&&-1==e.search(/^[0-9]/))try{h[e]&&h[e].tagName&&(b+=xb+e+ia+e+ca)}catch(k){this.log(P,k)}}b&&this.S(b)};W.fa=function(){if(this.d&&this.T()){var a=m.createElement(Na);a[B](Fa,db);a.style.display=Ra;m[H].appendChild(a);this.P()?a.src=Ha+aa(this.d):this.b()&&(a.contentWindow.document.write(this.d),a.contentWindow.document.close());this.d=O}};
+W.oa=function(a){this.na()?(new Image).src=a:this.d+=ha+a+da};W.A=function(a,b,d){var e=a[K]($a)||a[K](hb);e?(d&&this.oa(e),this.addUrl(e,a,b)):(d=a.innerHTML||a.textContent||a.data)&&this.W(d,a,b)};W.W=function(a,b,d){if(this.P())this.addUrl(Ia+aa(a),b,d);else{this.h[t](ja+a);var e=this;this.O(function(){e.w(b);e.N()[B](bb,O);try{e.S(a)}catch(d){e.log(P,d)}e.log(na+a);e.z()},d)}};Z[G].addStr=Z[G].W;
+Z[G].addUrl=function(a,b,d){this.h[t](ka+a);var e=this;this.O(function(){e.w(b);var d=e.c[J](m,U);d[B](V,kb);var j=function(){e.log(qa+a);e.z()};Y.k(d,j);Y.f(d,R,j);9>e.b()&&Y.f(d,gb,function(){if(d[x]==Ga||d[x]==Pa)d.onreadystatechange=f,j()});d[B](hb,a);var n=b.innerHTML||b.textContent||b.data;n&&d.appendChild(m.createTextNode(n));n=e.N();n[B](bb,O);n[N].insertBefore(d,n)},d)};Z[G].addUrl=Z[G].addUrl;W=Z[G];
+W.w=function(a){if(m[L]&&!(8>=this.b()))for(var b=m[L](ya),d=0;d<b[F];d++){var e=b.item(d);if(e==a)break;e[K](V)!=tb&&e.removeAttribute(T)}};W.da=function(){for(var a=this.s[J](m,ea),b=0;b<a[F];b++)a.item(b)[B](T,O)};W.N=function(){var a=f;m[y]&&(a=m[y](za));return a};W.B=function(){var a;m[y]&&(a=m[y](xa));return a||this.s[J](m,eb)[0]};W.ea=function(){var a=this.B();a.nodeName==Q&&a[N][I](a)};
+W.v=function(){if(!(5<=this.a))if(this.g&&(this.b()&&m[E].originalDoScroll&&(m[E].doScroll=m[E].originalDoScroll),l[z]&&delete m[x],this.b()&&l[z]&&delete m.all),m.getElementById=this.C,m[L]&&!(8>=this.b())&&(m.getElementsByTagName=this.s),q(m,this.c),m.open=this.Y,m.close=this.X,m.write=this.Z,m.writeln=this.$,this.g){this.a=5;this.aa();var a=this;m[x]!=Ga?Y.k(h,function(){a.L()}):(m.onreadystatechange&&this[u](m.onreadystatechange,m),h.onload&&($(h,Wa,h.onload),h.onload=f),this.L())}else this.a=
+1,this.r=g,this.n&&(this[u](this.n),this.n=f)};W.L=function(){this[M](3);for(var a=m[H][D](eb),b=a[F]-1;0<=b;b--)m[H][I](a[b]);a=m[H].getElementsByClassName(db);for(b=a[F]-1;0<=b;b--)a[b][N][I](a[b]);this.a=6;this[M](4)};W.ia=function(a){for(;a=a[N];)if(a==m)return c;return g};W.Q=function(a){for(var b=0,d=a[F],e=0;e<d;++e){var k=a[e],j=k[N],n=k.src,zb=k.textContent;(8<this.b()&&(!j||n==O&&zb==O)||!this.b()&&(!this.ia(k)||n==O))&&b++}return b};
+W.J=function(){if(4!=this.a)return g;var a=0;0!=this.l&&(a=this.Q(this.m));return this.l==a?c:g};W.wa=function(){return 6===this.a};Z[G].scriptsAreDone=Z[G].wa;Z[G].z=function(){this.K();this.ea();this.i<this.j[F]?(this.i++,this.j[this.i-1][J](h)):this.g?(this.a=4,this.w(),this[M](2),this.J()&&this.v()):this.v()};Z[G].V=function(a){for(var b=[],d=a[F],e=0;e<d;++e)b[t](a.item(e));return b};
+Z[G].ga=function(){if(this.r){var a=m.createElement(eb);a[B](cb,wb);m[H].appendChild(a);this.b()&&this.ca();if(l[z])try{var b={configurable:c,get:function(){return Qa}};l[z](m,fb,b)}catch(d){this.log(pa,d)}if(this.b()&&(m[E].originalDoScroll=m[E].doScroll,m[E].doScroll=function(){throw"psa exception";},l[z]))try{b={configurable:c,get:function(){}},l[z](m,Aa,b)}catch(e){this.log(oa,e)}}this.da();this.ba();var k=this;m.writeln=function(a){k.M(a+ba)};m.write=function(a){k.M(a)};m.open=function(){};m.close=
+function(){};m.getElementById=function(a){k.K();a=k.C[J](m,a);return a==f||a[w](T)?f:a};m[L]&&!(8>=k.b())&&(m.getElementsByTagName=function(a){return m[L](a+fa)});q(m,function(a){var b=k.c[J](m,a);a.toLowerCase()==U&&(k.m[t](b),k.l++,a=function(){k.l--;var a=k.m[v](this);-1!=a&&(k.m.splice(a,1),k.J()&&k.v())},Y.k(b,a),Y.f(b,R,a));return b})};Z[G].execute=function(){if(2==this.a){var a=0;0!=this.o&&(a=this.Q(this.p));this.o==a&&(q(m,this.c),this.R())}};Z[G].execute=Z[G].execute;
+Z[G].R=function(){2==this.a&&(this.r&&this[M](1),this.a=3,this.ga(),this.z())};Z[G].run=Z[G].R;W=Z[G];W.la=function(a){var b=this.c[J](m,Ja);b.innerHTML=ga+a;b[I](b.firstChild);return b};W.pa=function(a){var b=a[N];b&&b[I](a)};W.ka=function(a,b){for(var d=this.V(a),e=d[F],k=b[N],j=0;j<e;++j){var n=d[j];this.pa(n);k.insertBefore(n,b)}};W.ma=function(a){return a.nodeName!=Q?g:a[w](V)?(a=a[K](V),!a||-1!=this.I[v](a)):a[w](Oa)?(a=a[K](Oa),!a||-1!=this.I[v](ib+a.toLowerCase())):c};
+W.U=function(a,b){if(a.childNodes)for(var d=this.V(a.childNodes),e=d[F],k=0;k<e;++k){var j=d[k];j.nodeName==Q?this.ma(j)&&(b[t](j),j[B](ab,j.type),j[B](V,tb),j[B]($a,j.src),j[B](hb,O),j[B](T,O)):this.U(j,b)}};W.ja=function(a,b){for(var d=a[F],e=0;e<d;++e)this.A(a[e],b+e,!!e)};W.ha=function(a,b,d){a=this.la(a);var e=[];this.U(a,e);d?this.ka(a.childNodes,d):this.log(wa);this.ja(e,b)};W.K=function(){if(this.e!=O){this.log(La+this.e);var a=this.e;this.e=O;var b=this.B();this.ha(a,this.i,b)}};
+W.M=function(a){this.log(Ka+a);this.e+=a};W.ta=function(a,b){this.log(Xa+b.toString());6==this.a?b[J](a):$(a,Wa,b)};Z[G].addOnloadListeners=Z[G].ta;Z[G].ra=function(a){$(h,Va,a)};Z[G].addBeforeDeferRunFunctions=Z[G].ra;Z[G].qa=function(a){$(h,Ua,a)};Z[G].addAfterDeferRunFunctions=Z[G].qa;Z[G].fireEvent=function(a){this.t=a;this.log(ta+a);a=this.q[a]||[];for(var b=0;b<a[F];++b)this[u](a[b]);a.length=0};Z[G].exec=function(a,b){try{a[J](b||h)}catch(d){this.log(P,d)}};
+Z[G].ba=function(){var a=this;h[A]?(r(m,function(b,d,e){$(m,b,d,e,a.D)}),r(h,function(b,d,e){$(h,b,d,e,a.G)})):h[C]&&(s(m,function(b,d){$(m,b,d,void 0,a.F)}),s(h,function(b,d){$(h,b,d,void 0,a.H)}))};Z[G].aa=function(){h[A]?(r(m,this.D),r(h,this.G)):h[C]&&(s(m,this.F),s(h,this.H))};
+var $=function(a,b,d,e,k){var j=X.deferJs;if(!(6<=j.a)){if(2>j.t&&(b==ma||b==gb||b==Ta||b==Ya))b=2;else if(3>j.t&&(b==S||b==Wa))b=3;else if(b==Va)b=1;else if(b==Ua)b=4;else{k&&k[J](a,b,d,e);return}var n;3==b&&!(8>=j.b())&&(n=m.createEvent(ua),n.initEvent(S,g,g));j.q[b]||(j.q[b]=[]);j.q[b][t](function(){d[J](a,n)})}};
+Z[G].sa=function(a){if(!(2<=this.a)){if(a){if(!yb){a();return}this.g=g;this.n=a}else this.g=c;this.a=2;for(var b=m[D](U),d=b[F],e=0;e<d;++e){var k=this.j[F]==this.i,j=b[e];j[K](V)==tb&&(a?j[K](Za)==this.u&&(this.u++,this.A(j,void 0,!k)):(j[K](Za)<this.u&&this.log(ra+j[K](Za),Error(O)),this.A(j,void 0,!k)))}this.fa()}};Z[G].registerScriptTags=Z[G].sa;Y.k=function(a,b){Y.f(a,S,b)};X.addOnload=Y.k;
+Y.f=function(a,b,d){if(a[A])a[A](b,d,g);else if(a[C])a[C](Sa+b,d);else{var e=a[Sa+b];a[Sa+b]=function(){d[J](this);e&&e[J](this)}}};X.addHandler=Y.f;W=Z[G];W.P=function(){return-1!=p.userAgent[v](sa)};W.na=function(){return-1!=p.userAgent[v](la)};W.b=function(){var a=/(?:MSIE.(\d+\.\d+))/[u](p.userAgent);return a&&a[1]?m.documentMode||parseFloat(a[1]):NaN};
+W.va=function(){var a=this;q(m,function(b){var d=a.c[J](m,b);b.toLowerCase()==U&&(a.p[t](d),a.o++,b=function(){var b=a.p[v](this);-1!=b&&(a.p.splice(b,1),a.o--,a.execute())},Y.k(d,b),Y.f(d,R,b));return d})};W.T=function(){return yb};Z[G].isExperimentalMode=Z[G].T;Y.ua=function(){if(!X.deferJs){h.localStorage&&(yb=h.localStorage.defer_js_experimental);var a=new Z;a.va();X.deferJs=a}};X.deferInit=Y.ua;})();
+
+pagespeed.deferInit();
+pagespeed.deferJsStarted = false;
+var startDeferJs = function() {
+  if (pagespeed.deferJsStarted) return;
+  pagespeed.deferJsStarted = true;
+  pagespeed.deferJs.registerScriptTags();
+  pagespeed.deferJs.execute();
+}
+pagespeed.addHandler(document, 'DOMContentLoaded', startDeferJs);
+pagespeed.addOnload(window, startDeferJs);
+
+//]]></script></head>
+<body class="single single-post postid-398044 single-format-standard"><noscript><meta HTTP-EQUIV="refresh" content="0;url='http://br.eonline.com/2013/masicas-de-justin-bieber-s-atilde-o-proibidas-em-festa-de-selena-gomez/?ModPagespeed=noscript'" /><style><!--table,div,span,font,p{display:none} --></style><div style="display:block">Please click <a href="http://br.eonline.com/2013/masicas-de-justin-bieber-s-atilde-o-proibidas-em-festa-de-selena-gomez/?ModPagespeed=noscript">here</a> if you are not redirected within a few seconds.</div></noscript>
+<div style="display:none;" id="banner">
+<table id="wrapper_banner">
+<tr>
+<td>
+<div class="content_table">
+<script pagespeed_orig_type='text/javascript' type="text/psajs" orig_index="36">//<![CDATA[
+OA_show(144);
+//]]></script><noscript><a target='_blank' href='http://adsrv01.eonlinelatinola.com/www/delivery/ck.php?n=7df7874'><img border='0' alt='' src='http://adsrv01.eonlinelatinola.com/www/delivery/avw.php?zoneid=144&amp;n=7df7874'/></a></noscript>
+</div>
+<div class="omitir" id="omitir"><a href="http://br.eonline.com/"><IMG SRC="http://br.eonline.com/wp-content/themes/abz2012/images/omitir.png" BORDER="0" ALT="Boton omitir" pagespeed_lsc_url="http://br.eonline.com/wp-content/themes/abz2012/images/omitir.png"></a></div>
+</td>
+</tr>
+</table>
+</div>
+<div style="display:block; z-index:1000; ">
+<script pagespeed_orig_type='text/javascript' type="text/psajs" orig_index="37">//<![CDATA[
+var ox_u='http://adsrv01.eonlinelatinola.com/www/delivery/al.php?zoneid=108&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&layerstyle=simple&align=center&valign=middle&padding=0&closetime=20&padding=0&shifth=0&shiftv=0&closebutton=t&nobg=t&noborder=t';if(document.context)ox_u+='&context='+escape(document.context);document.write("<scr"+"ipt type='text/javascript' src='"+ox_u+"'></scr"+"ipt>");
+//]]></script>
+</div>
+<div id="wrapper" class="hfeed">
+<div id="header">
+<div id="cont_search_banners">
+<div id="cont_banners_top">
+<div id="banner_top_242x90">
+<div id="third" class="widget-area">
+<ul class="xoxo">
+<li id="wp_bannerize-7" class="widget-container WPBannerizeWidget"><div class="wp_bannerize Header ch">
+<div>
+<script pagespeed_orig_type='text/javascript' type="text/psajs" orig_index="38">//<![CDATA[
+document.MAX_ct0='INSERT_CLICKURL_HERE';var m3_u=(location.protocol=='https:'?'https://adsrv01.eonlinelatinola.com/www/delivery/ajs.php':'http://adsrv01.eonlinelatinola.com/www/delivery/ajs.php');var m3_r=Math.floor(Math.random()*99999999999);if(!document.MAX_used)document.MAX_used=',';document.write("<scr"+"ipt type='text/javascript' src='"+m3_u);document.write("?zoneid=7");document.write('&amp;cb='+m3_r);if(document.MAX_used!=',')document.write("&amp;exclude="+document.MAX_used);document.write(document.charset?'&amp;charset='+document.charset:(document.characterSet?'&amp;charset='+document.characterSet:''));document.write("&amp;loc="+escape(window.location));if(document.referrer)document.write("&amp;referer="+escape(document.referrer));if(document.context)document.write("&context="+escape(document.context));if((typeof(document.MAX_ct0)!='undefined')&&(document.MAX_ct0.substring(0,4)=='http')){document.write("&amp;ct0="+escape(document.MAX_ct0));}
+if(document.mmm_fo)document.write("&amp;mmm_fo=1");document.write("'><\/scr"+"ipt>");
+//]]></script><noscript><a href='http://adsrv01.eonlinelatinola.com/www/delivery/ck.php?n=a64fc115&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adsrv01.eonlinelatinola.com/www/delivery/avw.php?zoneid=7&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a64fc115&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt=''/></a></noscript>
+</div>
+</div>
+</li>	</ul>
+</div>
+</div>
+<div id="exp_banner" class="banner_top_728x90">
+<div id="fourth" class="widget-area">
+<ul class="xoxo">
+<li id="wp_bannerize-8" class="widget-container WPBannerizeWidget"><div class="wp_bannerize Header gr">
+<div>
+<script pagespeed_orig_type='text/javascript' type="text/psajs" orig_index="39">//<![CDATA[
+document.MAX_ct0='INSERT_CLICKURL_HERE';var m3_u=(location.protocol=='https:'?'https://adsrv01.eonlinelatinola.com/www/delivery/ajs.php':'http://adsrv01.eonlinelatinola.com/www/delivery/ajs.php');var m3_r=Math.floor(Math.random()*99999999999);if(!document.MAX_used)document.MAX_used=',';document.write("<scr"+"ipt type='text/javascript' src='"+m3_u);document.write("?zoneid=8");document.write('&amp;cb='+m3_r);if(document.MAX_used!=',')document.write("&amp;exclude="+document.MAX_used);document.write(document.charset?'&amp;charset='+document.charset:(document.characterSet?'&amp;charset='+document.characterSet:''));document.write("&amp;loc="+escape(window.location));if(document.referrer)document.write("&amp;referer="+escape(document.referrer));if(document.context)document.write("&context="+escape(document.context));if((typeof(document.MAX_ct0)!='undefined')&&(document.MAX_ct0.substring(0,4)=='http')){document.write("&amp;ct0="+escape(document.MAX_ct0));}
+if(document.mmm_fo)document.write("&amp;mmm_fo=1");document.write("'><\/scr"+"ipt>");
+//]]></script><noscript><a href='http://adsrv01.eonlinelatinola.com/www/delivery/ck.php?n=a5312ac6&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adsrv01.eonlinelatinola.com/www/delivery/avw.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5312ac6&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt=''/></a></noscript>
+</div>
+</div>
+</li>	</ul>
+</div>
+</div>
+<br clear="all"/>
+</div>
+</div>
+<div id="masthead">
+<h1 id="site-title">
+<span>
+<a href="http://br.eonline.com/" title="E! Online Brasil" rel="home">E! Online Brasil</a>
+</span>
+</h1>
+<div id="access" role="navigation">
+<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content --- </a></div>
+<div class="menu-header">
+<ul id="menu-principal" class="menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item">
+<a href="http://br.eonline.com/" OnMouseOver="this.style.borderColor='#fff';" OnMouseOut="this.style.borderColor='#000';" style="">Início</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item">
+<a href="http://br.eonline.com/category/enews/" OnMouseOver="this.style.borderColor='#03CDFF';" OnMouseOut="this.style.borderColor='#000';" style="color:#03CDFF; ">News</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item">
+<a href="http://br.eonline.com/eshows" OnMouseOver="this.style.borderColor='#9999ff';" OnMouseOut="this.style.borderColor='#000';" style="color:#9999ff; ">E! shows</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item">
+<a href="http://br.eonline.com/category/tapetevermelho" OnMouseOver="this.style.borderColor='#f93c53';" OnMouseOut="this.style.borderColor='#000';" style="color:#f93c53; ">Tapete Vermelho</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item">
+<a href="http://br.eonline.com/galerias" OnMouseOver="this.style.borderColor='#ff24d1';" OnMouseOut="this.style.borderColor='#000';" style="color:#ff24d1; ">Fotos</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item">
+<a href="http://br.eonline.com/videos" OnMouseOver="this.style.borderColor='#38ba37';" OnMouseOut="this.style.borderColor='#000';" style="color:#38ba37; ">Vídeos</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item">
+<a href="http://br.eonline.com/programas" OnMouseOver="this.style.borderColor='#65638d';" OnMouseOut="this.style.borderColor='#000';" style="color:#65638d; ">Programação</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="main">
+<div id="container">
+<div id="content" role="main">
+<div class="cont_blanco">
+<div id="post-398044" class="hentry_gr">
+<h2 class="entry-title_sing"><span><a href="http://br.eonline.com/category/enews/" title="Ver todos os posts em E! News" rel="category tag">E! News</a> / </span>M&uacute;sicas de Justin Bieber s&atilde;o proibidas em festa de Selena Gomez</h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author"></span> <span class="entry-date">15 de março de 2013 </span>	</div>
+<div class="entry-social">
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fbr.eonline.com%2F2013%2Fmasicas-de-justin-bieber-s-atilde-o-proibidas-em-festa-de-selena-gomez%2F&media=http%3A%2F%2Fimages.eonline.com%2Feol_images%2FEntire_Site%2F2011127%2F%2Freg_634.bieber.gomez.cm.22711.jpg&description=M&uacute;sicas de Justin Bieber s&atilde;o proibidas em festa de Selena Gomez" class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"/></a>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_email"></a>
+</div>
+</div>
+<div class="entry-content entry-content_sing">
+<script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="40">var addthis_product='wpp-263';var addthis_config={"data_track_clickback":false,"data_track_addressbar":false,"ui_language":"pt","ui_header_color":"000000"};if(typeof(addthis_share)=="undefined"){addthis_share=[];}</script><script pagespeed_orig_type="text/javascript" pagespeed_orig_src="//s7.addthis.com/js/250/addthis_widget.js#pubid=matibur" type="text/psajs" orig_index="41"></script><div class='wp-caption alignleft' style='width: 303px;'><IMG SRC='http://images.eonline.com/eol_images/Entire_Site/2011127//reg_634.bieber.gomez.cm.22711.jpg' title='Justin Bieber, Selena Gomez' alt='Justin Bieber, Selena Gomez' width='293'/>
+<p class='wp-caption-text'>Kevin Mazur/VF11/WireImage</p>
+</div>
+<p><em><strong>Evento de Spring Breakers n&atilde;o contou com hits do cantor</strong></em></p>
+<p><a class="more-link" href="http://br.eonline.com/2013/masicas-de-justin-bieber-s-atilde-o-proibidas-em-festa-de-selena-gomez#more-398044"><em><span id="more-398044"></span></em></a></p>
+<p>Pelo visto <strong>Selena Gomez</strong> realmente quer dist&acirc;ncia de<strong> Justin Bieber</strong>. E ela nem quer ouvir falar dele&#8230; Ou escutar suas m&uacute;sicas.</p>
+<p>Durante a festa exclusiva que aconteceu ap&oacute;s a pr&eacute;-estreia de <em>Spring Breakers</em> em Los Angeles, na noite dessa quinta-feira, 14, o DJ respons&aacute;vel foi proibido de tocar qualquer m&uacute;sica do cantor canadense.</p>
+<p><a href="http://br.eonline.com/2013/demi-lovato-teria-criticado-taylor-swift-em-entrevista/">&nbsp;DEMI LOVATO CRITICA TAYLOR SWIFT EM ENTREVISTA</a></p>
+<p>Como sabemos? Quando uma convidada da festa pediu ao DJ para que ele tocasse <em>Beauty &amp; the Beat</em>, hit de Bieber com <strong>Nicki Minaj</strong>, o m&uacute;sico negou.</p>
+<p>Fontes contam ao <em>Hollywood Life</em> que o DJ se acabou de rir e falou: &#8220;N&atilde;o, desculpa, n&atilde;o posso tocar. Fui alertado pela equipe dela (de Selena) que qualquer m&uacute;sica de Bieber &lsquo;era totalmente proibida&#8217; no setlist da noite&#8217;&#8221;.</p>
+<p>&nbsp;<a href="http://br.eonline.com/category/the-kardashians/" target="_blank"><strong>CONHE&Ccedil;A O SITE ESPECIAL DAS KARDASHIANS: FOTOS, NOT&Iacute;CIAS E MUITO MAIS!</strong></a></p>
+<p>Goste ou n&atilde;o, Bieber, quando a festa &eacute; de Sel, ela &eacute; quem manda.</p>
+<script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="42">window.addEvent('domready',function(){var scrollGalleryObj7517=new scrollGallery({start:5,area:200,thumbarea:"thumbarea_7517",imagearea:"imagearea_7517",speed:0.1,toElementClass:".caption_container"});});</script>
+<div id="scrollgallery_7517" class="scrollgallery" style="width:576px;">
+<div class="scrollGalleryFoot">
+<div id="thumbarea_7517" class="thumbarea">
+<div class="thumbareaContent"><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.24.45_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.24.45_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.02_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.02_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.11_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.11_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.24_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.24_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.11_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.11_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.25_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.25_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.38_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.38_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.30_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.30_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.39_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.39_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.52_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.52_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.02_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.02_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.30.42_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.30.42_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.30.55_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.30.55_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.06_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.06_AM.jpg?api-key=eonlinelatino" alt=""/></noscript><img width="70" src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.29.52_AM.jpg?api-key=eonlinelatino" alt="" pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img width="70" src="http://putty.comcastnets.net:80/resize/70/70/0-0-293-293/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.29.52_AM.jpg?api-key=eonlinelatino" alt=""/></noscript>
+</div>
+</div>
+</div>
+<div class="scrollGalleryHead">
+<div id="imagearea_7517" class="imagearea">
+<div class="imageareaContent"><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.24.45_AM.jpg" alt="" style="vertical-align:top; width:296.21621621622px; height:480px; max-width:296.21621621622px; margin-left:129.89189189189px; margin-right:126.89189189189px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.24.45_AM.jpg" alt="" style="vertical-align:top; width:296.21621621622px; height:480px; max-width:296.21621621622px; margin-left:129.89189189189px; margin-right:126.89189189189px; "/></noscript><div style="width:296.21621621622px;max-width:296.21621621622px; margin-left:134.89189189189px; margin-right:126.89189189189px; width:276.21621621622px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.02_AM.jpg" alt="" style="vertical-align:top; width:294.66063348416px; height:480px; max-width:294.66063348416px; margin-left:130.66968325792px; margin-right:127.66968325792px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.02_AM.jpg" alt="" style="vertical-align:top; width:294.66063348416px; height:480px; max-width:294.66063348416px; margin-left:130.66968325792px; margin-right:127.66968325792px; "/></noscript><div style="width:294.66063348416px;max-width:294.66063348416px; margin-left:135.66968325792px; margin-right:127.66968325792px; width:274.66063348416px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.11_AM.jpg" alt="" style="vertical-align:top; width:292.61261261261px; height:480px; max-width:292.61261261261px; margin-left:131.69369369369px; margin-right:128.69369369369px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.11_AM.jpg" alt="" style="vertical-align:top; width:292.61261261261px; height:480px; max-width:292.61261261261px; margin-left:131.69369369369px; margin-right:128.69369369369px; "/></noscript><div style="width:292.61261261261px;max-width:292.61261261261px; margin-left:136.69369369369px; margin-right:128.69369369369px; width:272.61261261261px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.24_AM.jpg" alt="" style="vertical-align:top; width:292.48868778281px; height:480px; max-width:292.48868778281px; margin-left:131.7556561086px; margin-right:128.7556561086px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.33.24_AM.jpg" alt="" style="vertical-align:top; width:292.48868778281px; height:480px; max-width:292.48868778281px; margin-left:131.7556561086px; margin-right:128.7556561086px; "/></noscript><div style="width:292.48868778281px;max-width:292.48868778281px; margin-left:136.7556561086px; margin-right:128.7556561086px; width:272.48868778281px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.11_AM.jpg" alt="" style="vertical-align:top; width:299.25925925926px; height:480px; max-width:299.25925925926px; margin-left:128.37037037037px; margin-right:125.37037037037px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.11_AM.jpg" alt="" style="vertical-align:top; width:299.25925925926px; height:480px; max-width:299.25925925926px; margin-left:128.37037037037px; margin-right:125.37037037037px; "/></noscript><div style="width:299.25925925926px;max-width:299.25925925926px; margin-left:133.37037037037px; margin-right:125.37037037037px; width:279.25925925926px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.25_AM.jpg" alt="" style="vertical-align:top; width:293.53566009105px; height:480px; max-width:293.53566009105px; margin-left:131.23216995448px; margin-right:128.23216995448px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.25_AM.jpg" alt="" style="vertical-align:top; width:293.53566009105px; height:480px; max-width:293.53566009105px; margin-left:131.23216995448px; margin-right:128.23216995448px; "/></noscript><div style="width:293.53566009105px;max-width:293.53566009105px; margin-left:136.23216995448px; margin-right:128.23216995448px; width:273.53566009105px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.38_AM.jpg" alt="" style="vertical-align:top; width:295.44072948328px; height:480px; max-width:295.44072948328px; margin-left:130.27963525836px; margin-right:127.27963525836px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.38_AM.jpg" alt="" style="vertical-align:top; width:295.44072948328px; height:480px; max-width:295.44072948328px; margin-left:130.27963525836px; margin-right:127.27963525836px; "/></noscript><div style="width:295.44072948328px;max-width:295.44072948328px; margin-left:135.27963525836px; margin-right:127.27963525836px; width:275.44072948328px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.30_AM.jpg" alt="" style="vertical-align:top; width:295.66265060241px; height:480px; max-width:295.66265060241px; margin-left:130.1686746988px; margin-right:127.1686746988px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.30_AM.jpg" alt="" style="vertical-align:top; width:295.66265060241px; height:480px; max-width:295.66265060241px; margin-left:130.1686746988px; margin-right:127.1686746988px; "/></noscript><div style="width:295.66265060241px;max-width:295.66265060241px; margin-left:135.1686746988px; margin-right:127.1686746988px; width:275.66265060241px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.39_AM.jpg" alt="" style="vertical-align:top; width:296.44916540212px; height:480px; max-width:296.44916540212px; margin-left:129.77541729894px; margin-right:126.77541729894px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.39_AM.jpg" alt="" style="vertical-align:top; width:296.44916540212px; height:480px; max-width:296.44916540212px; margin-left:129.77541729894px; margin-right:126.77541729894px; "/></noscript><div style="width:296.44916540212px;max-width:296.44916540212px; margin-left:134.77541729894px; margin-right:126.77541729894px; width:276.44916540212px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.52_AM.jpg" alt="" style="vertical-align:top; width:292.04819277108px; height:480px; max-width:292.04819277108px; margin-left:131.97590361446px; margin-right:128.97590361446px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.52_AM.jpg" alt="" style="vertical-align:top; width:292.04819277108px; height:480px; max-width:292.04819277108px; margin-left:131.97590361446px; margin-right:128.97590361446px; "/></noscript><div style="width:292.04819277108px;max-width:292.04819277108px; margin-left:136.97590361446px; margin-right:128.97590361446px; width:272.04819277108px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.02_AM.jpg" alt="" style="vertical-align:top; width:300.54711246201px; height:480px; max-width:300.54711246201px; margin-left:127.726443769px; margin-right:124.726443769px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.32.02_AM.jpg" alt="" style="vertical-align:top; width:300.54711246201px; height:480px; max-width:300.54711246201px; margin-left:127.726443769px; margin-right:124.726443769px; "/></noscript><div style="width:300.54711246201px;max-width:300.54711246201px; margin-left:132.726443769px; margin-right:124.726443769px; width:280.54711246201px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.30.42_AM.jpg" alt="" style="vertical-align:top; width:295.4954954955px; height:480px; max-width:295.4954954955px; margin-left:130.25225225225px; margin-right:127.25225225225px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.30.42_AM.jpg" alt="" style="vertical-align:top; width:295.4954954955px; height:480px; max-width:295.4954954955px; margin-left:130.25225225225px; margin-right:127.25225225225px; "/></noscript><div style="width:295.4954954955px;max-width:295.4954954955px; margin-left:135.25225225225px; margin-right:127.25225225225px; width:275.4954954955px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.30.55_AM.jpg" alt="" style="vertical-align:top; width:299.63636363636px; height:480px; max-width:299.63636363636px; margin-left:128.18181818182px; margin-right:125.18181818182px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.30.55_AM.jpg" alt="" style="vertical-align:top; width:299.63636363636px; height:480px; max-width:299.63636363636px; margin-left:128.18181818182px; margin-right:125.18181818182px; "/></noscript><div style="width:299.63636363636px;max-width:299.63636363636px; margin-left:133.18181818182px; margin-right:125.18181818182px; width:279.63636363636px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.06_AM.jpg" alt="" style="vertical-align:top; width:293.37367624811px; height:480px; max-width:293.37367624811px; margin-left:131.31316187595px; margin-right:128.31316187595px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.31.06_AM.jpg" alt="" style="vertical-align:top; width:293.37367624811px; height:480px; max-width:293.37367624811px; margin-left:131.31316187595px; margin-right:128.31316187595px; "/></noscript><div style="width:293.37367624811px;max-width:293.37367624811px; margin-left:136.31316187595px; margin-right:128.31316187595px; width:273.37367624811px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div><div class="caption_container"><img src="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.29.52_AM.jpg" alt="" style="vertical-align:top; width:293.37367624811px; height:480px; max-width:293.37367624811px; margin-left:131.31316187595px; margin-right:128.31316187595px; " pagespeed_lsc_url="http://br.eonline.com/wp-content/plugins/lazy-load/images/1x1.trans.gif"/><noscript><img src="http://images.eonline.com/eol_images/Entire_Site/2013017//Screen_Shot_2013-01-17_at_11.29.52_AM.jpg" alt="" style="vertical-align:top; width:293.37367624811px; height:480px; max-width:293.37367624811px; margin-left:131.31316187595px; margin-right:128.31316187595px; "/></noscript><div style="width:293.37367624811px;max-width:293.37367624811px; margin-left:136.31316187595px; margin-right:128.31316187595px; width:273.37367624811px;margin-top:413px;background-color: rgba(0,0,0,0.6);padding:10px;color:yellow;height:50px;"></div></div>
+</div>
+</div>
+</div>
+</div>
+<p><br clear="all"/></p>
+</div>
+<div class="entry-social" style="float:left; width:600px; border-bottom:none;">
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fbr.eonline.com%2F2013%2Fmasicas-de-justin-bieber-s-atilde-o-proibidas-em-festa-de-selena-gomez%2F&media=http%3A%2F%2Fimages.eonline.com%2Feol_images%2FEntire_Site%2F2011127%2F%2Freg_634.bieber.gomez.cm.22711.jpg&description=M&uacute;sicas de Justin Bieber s&atilde;o proibidas em festa de Selena Gomez" class="pin-it-button" count-layout="none"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"/></a>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_email"></a>
+</div>
+<script pagespeed_orig_type="text/javascript" pagespeed_orig_src="//assets.pinterest.com/js/pinit.js" type="text/psajs" orig_index="43"></script>
+</div>
+</div>
+<div id="nav-below" class="navigation" style="margin-bottom:30px;">
+<div class="nav-previous"><a href="http://br.eonline.com/2013/5-provas-de-que-kristen-stewart-e-robert-pattinson-est-atilde-o-juntos/" rel="prev"><span class="meta-nav">&larr;</span> Anterior</a></div>
+<div class="nav-next"><a href="http://br.eonline.com/2013/meninos-do-one-direction-celebram-o-red-nose-day/" rel="next">Próxima <span class="meta-nav">&rarr;</span></a></div>
+</div>
+<div style="margin-bottom:30px;">
+<div id="fb-root"></div><script pagespeed_orig_src="http://connect.facebook.net/pt_BR/all.js#xfbml=1" type="text/psajs" orig_index="44"></script>
+<fb:comments href="http://br.eonline.com/2013/masicas-de-justin-bieber-s-atilde-o-proibidas-em-festa-de-selena-gomez/" width="600"></fb:comments>
+</div>
+</div>
+</div>
+</div>
+<div id="primary" class="widget-area" role="complementary">
+<div class="cont_sidebar">
+<div class="post_relacionados">
+<div class="titulo_modulo">Notas Relacionadas</div><ul>	<li style="border-bottom:1px dotted #dfdfdf; padding: 7px 0;">
+<a title="Selena Gomez ou Miley Cyrus: quem tem o melhor corpo de biqu&iacute;ni?" rel="bookmark" href="http://br.eonline.com/2013/selena-gomez-ou-miley-cyrus-quem-tem-o-melhor-corpo-de-biquini/" style="text-decoration:none;">Selena Gomez ou Miley Cyrus: quem tem o melhor corpo de biqu&iacute;ni?</a>
+</li>
+<li style="border-bottom:1px dotted #dfdfdf; padding: 7px 0;">
+<a title="Apesar dos rumores de que estaria namorando, Harry Styles curte festa com Niall Horan" rel="bookmark" href="http://br.eonline.com/2013/apesar-dos-rumores-de-que-estaria-namorando-harry-styles-curte-festa-com-niall-horan/" style="text-decoration:none;">Apesar dos rumores de que estaria namorando, Harry Styles curte festa com Niall Horan</a>
+</li>
+<li style="border-bottom:1px dotted #dfdfdf; padding: 7px 0;">
+<a title="Justin Bieber volta a ser amea&ccedil;ado de morte" rel="bookmark" href="http://br.eonline.com/2013/justin-bieber-volta-a-ser-amea-ccedil-ado-de-morte/" style="text-decoration:none;">Justin Bieber volta a ser amea&ccedil;ado de morte</a>
+</li>
+<li style="border-bottom:1px dotted #dfdfdf; padding: 7px 0;">
+<a title="Lindsay Lohan xinga Justin Bieber depois de cr&iacute;tica do cantor" rel="bookmark" href="http://br.eonline.com/2013/lindsay-lohan-xinga-justin-bieber-depois-de-critica-do-cantor/" style="text-decoration:none;">Lindsay Lohan xinga Justin Bieber depois de cr&iacute;tica do cantor</a>
+</li>
+<li style="border-bottom:1px dotted #dfdfdf; padding: 7px 0;">
+<a title="Justin Bieber faz desabafo emocionante no Instagram e fala sobre rehab: &quot;Eu erro, sou humano&quot;" rel="bookmark" href="http://br.eonline.com/2013/justin-bieber-faz-desabafo-emocionante-no-instagram-e-fala-sobre-rehab-quot-eu-erro-sou-humano-quot/" style="text-decoration:none;">Justin Bieber faz desabafo emocionante no Instagram e fala sobre rehab: &quot;Eu erro, sou humano&quot;</a>
+</li>
+</li></ul>
+</div>
+<ul class="sidebar_300">
+<li>
+<div style="display:none"></div>
+<object id="myExperience" class="BrightcoveExperience">
+<param name="bgcolor" value="#FFFFFF"/>
+<param name="width" value="300"/>
+<param name="height" value="340"/>
+<param name="playerID" value="605953654001"/>
+<param name="playerKey" value="AQ~~,AAAAFpR_2Jk~,FZYC7qwaTWOeN8zMz-MPckxWKVyccr-y"/>
+<param name="isVid" value="true"/>
+<param name="isUI" value="true"/>
+<param name="dynamicStreaming" value="true"/>
+<param name="wmode" value="transparent"/>
+</object>
+<script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="45">brightcove.createExperiences();</script>
+</li>
+</ul>
+<ul class="sidebar_300" style="height:250px;">
+<li>
+<script pagespeed_orig_type='text/javascript' type="text/psajs" orig_index="46">//<![CDATA[
+OA_show(9);
+//]]></script><noscript><a target='_blank' href='http://adsrv01.eonlinelatinola.com/www/delivery/ck.php?n=98fb4b3'><img border='0' alt='' src='http://adsrv01.eonlinelatinola.com/www/delivery/avw.php?zoneid=9&amp;n=98fb4b3'/></a></noscript>
+</li>
+</ul>
+<div style="float:left; width:300px; height:10px; display:block;"></div>
+<div class="zona_banner">
+<script pagespeed_orig_type='text/javascript' type="text/psajs" orig_index="47">//<![CDATA[
+OA_show(57);
+//]]></script><noscript><a target='_blank' href='http://adsrv01.eonlinelatinola.com/www/delivery/ck.php?n=a62c019'><img border='0' alt='' src='http://adsrv01.eonlinelatinola.com/www/delivery/avw.php?zoneid=57&amp;n=a62c019'/></a></noscript>	</div>
+<div class="vacio"></div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<div id="site-info">
+<a href="http://br.eonline.com/" title="E! Online Brasil" rel="home">
+E! Online Brasil	</a>
+</div>
+<div class="links_pie">
+<div class="ad_sales"><a href="http://www.eonlinesaladeimprensa.com/" target="_blank">DIGITAL SALA DE IMPRENSA</a> | <a href="http://la.eonline.com/mexico/beone/" target="_blank">Be on E!</a> | <a href="http://www.eonlineadsales.com/" target="_blank">ad sales</a></div>
+<div class="menu-header"><ul id="menu-menu_legales" class="menu"><li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://br.eonline.com/politicas-de-privacidade/">Políticas de privacidade</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://br.eonline.com/termos-de-uso/">Termos de uso</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://br.eonline.com/contacto/">Contato</a></li>
+<li id="menu-item-1000001545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000001545"><a href="http://br.eonline.com/ancine/">ANCINE</a></li>
+<li id="menu-item-1000001544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000001544"><a href="http://br.eonline.com/publico/">PÚBLICO</a></li>
+</ul></div> </div>
+<div class="logo_lamac"></div>
+<div class="abz"><a href="http://www.abzcomunicacion.com" target="_blank">ABZ Diseño y Comunicación: Diseño y desarrollo de sitios web, marketing digital y BTL.</a></div>
+<p class="copy">&copy; 2013 E! Entertaiment Television, Inc. Todos os direitos reservados.</p>
+</div>
+</div>
+<script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="48">var addthis_product='wpp-263';var addthis_config={"data_track_clickback":false,"data_track_addressbar":false,"ui_language":"pt","ui_header_color":"000000"};if(typeof(addthis_share)=="undefined"){addthis_share=[];}</script><script pagespeed_orig_type="text/javascript" pagespeed_orig_src="//s7.addthis.com/js/250/addthis_widget.js#pubid=matibur" type="text/psajs" orig_index="49"></script><script type="text/psajs" orig_index="50">jQuery(document).ready(function($){$("ul.wpinstagram").find("a").fancybox({"transitionIn":"elastic","transitionOut":"elastic","easingIn":"easeOutBack","easingOut":"easeInBack","titlePosition":"over","padding":0,"hideOnContentClick":"true"});});</script>
+<script pagespeed_orig_type='text/javascript' type="text/psajs" orig_index="51">//<![CDATA[
+var wpBannerizeJavascriptLocalization={"ajaxURL":"http:\/\/br.eonline.com\/wp-admin\/admin-ajax.php"};
+//]]></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/wp-bannerize3.0.50/js/wpBannerizeFrontend.min.js?ver=3.0.50' type="text/psajs" orig_index="52"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://lite.piclens.com/current/piclens_optimized.js?ver=3.3.1' type="text/psajs" orig_index="53"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.3' type="text/psajs" orig_index="54"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.3' type="text/psajs" orig_index="55"></script>
+<script pagespeed_orig_type='text/javascript' type="text/psajs" orig_index="56">//<![CDATA[
+var pollsL10n={"ajax_url":"http:\/\/br.eonline.com\/wp-content\/plugins\/wp-polls\/wp-polls.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+//]]></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.50' type="text/psajs" orig_index="57"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-includes/js/jquery/jquery.form.js?ver=2.73' type="text/psajs" orig_index="58"></script>
+<script pagespeed_orig_type='text/javascript' pagespeed_orig_src='http://br.eonline.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.2.1' type="text/psajs" orig_index="59"></script>
+<div class="boton">
+<div class="boton_centro">
+<div class="logo_ch"></div>
+<div class="media">
+<div style="margin-right:10px; margin-top: 7px; float:right;">
+<form role="search" id="searchform" action="http://br.eonline.com/">
+<div><label class="screen-reader-text" for="s">Pesquisar por:</label>
+<input value="" name="s" id="s"/>
+<input type="submit" id="searchsubmit" value="Pesquisar"/>
+</div>
+</form>	</div>
+<div style="margin-right:10px; margin-top: 7px; float:right;" id="iconos_footer">
+<a class="addthis_button_email envio"></a>
+<a href="http://br.eonline.com/feed/" class="rss"></a>
+<a href="http://twitter.com/Eonlinebrasil" class="twitter" target="blank"></a>
+<a href="http://www.facebook.com/pages/E-Online-Brasil/145725988795846?ref=sgm" class="facebook" target="blank"></a>
+<a href="http://www.youtube.com/Eonlinebrasil" class="youtube" target="blank"></a>
+</div>
+<div style="margin-right:10px; margin-top: 10px; float:right;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-text="Site recomendado" da ta-count="horizontal" data-via="EonlineBrasil" data-lang="es">Tweet</a><script pagespeed_orig_type="text/javascript" pagespeed_orig_src="http://platform.twitter.com/widgets.js" type="text/psajs" orig_index="60"></script>
+</div>
+<div style="margin-right:10px; margin-top: 10px; float:right;">
+<script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="61">//<![CDATA[
+(function(){var b="iframe",c="pagespeed_iframe";window.pagespeed=window.pagespeed||{};var g=window.pagespeed,h=function(){};h.prototype.a=function(){var a=document.getElementsByTagName(c);if(0<a.length){for(var a=a[0],f=document.createElement(b),d=0,e=a.attributes,j=e.length;d<j;++d)f.setAttribute(e[d].name,e[d].value);a.parentNode.replaceChild(f,a)}};h.prototype.convertToIframe=h.prototype.a;g.b=function(){g.deferIframe=new h};g.deferIframeInit=g.b;})();
+pagespeed.deferIframeInit();
+//]]></script><pagespeed_iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%Eonlinebrasil&layout=button_count&show_faces=true&width=120&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" height="30" style="border:none;overflow:hidden;width:120px;height:30px;text-align:center;"><script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="62">
+pagespeed.deferIframe.convertToIframe();</script></pagespeed_iframe>
+</div>
+</div>
+</div>
+</div>
+<script pagespeed_orig_type="text/javascript" type="text/psajs" orig_index="63">//<![CDATA[
+var google_conversion_id=1007010875;var google_conversion_label="y3zzCL2IiwgQu4iX4AM";var google_custom_params=window.google_tag_params;var google_remarketing_only=true;
+//]]></script>
+<script pagespeed_orig_type="text/javascript" pagespeed_orig_src="//www.googleadservices.com/pagead/conversion.js" type="text/psajs" orig_index="64"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1007010875/?value=0&amp;label=y3zzCL2IiwgQu4iX4AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

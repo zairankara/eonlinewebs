@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow 
+	speed="14" 
+	fadeInSpeed="2" 
+	fadeOutSpeed="1" 
+	captions="on" 
+	links="on"
+	buttons="on" 
+	>
+	<slide>
+		<asset>vs_jennifer.swf</asset>
+		<caption><![CDATA[]]></caption>
+		<url><![CDATA[http://www.eonlineexperiences.com/versus/brasil/]]></url>
+		<subcaption><![CDATA[]]></subcaption>
+	</slide>
+
+	<slide>
+		<asset>kendall.swf</asset>
+		<caption><![CDATA[]]></caption>
+		<url><![CDATA[]]></url>
+		<subcaption><![CDATA[]]></subcaption>
+	</slide>
+
+	<slide>
+		<asset>police_2012.swf</asset>
+		<caption><![CDATA[]]></caption>
+		<url><![CDATA[]]></url>
+		<subcaption><![CDATA[]]></subcaption>
+	</slide>
+
+</slideshow>

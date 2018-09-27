@@ -1,0 +1,11 @@
+/* @group GENERAL */
+
+body {
+	background: #ffffff url(kardashians/bg_the-kardashians.jpg) no-repeat center top;
+}
+#container{
+	background: #ffffff;
+}
+
+
+/* @end */

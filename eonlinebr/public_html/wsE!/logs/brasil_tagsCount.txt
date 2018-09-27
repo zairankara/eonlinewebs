@@ -1,0 +1,280 @@
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:02:52
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Justin Bieber','justin-bieber');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:02:52
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('formatura','formatura');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:02:52
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Selena Gomez','selena-gomez');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:02:52
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Believe','believe');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:02:52
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('','');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:03:04
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Justin Bieber','justin-bieber');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:03:04
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('formatura','formatura');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:03:04
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Selena Gomez','selena-gomez');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:03:04
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Believe','believe');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:03:04
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('','');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:04:37
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Justin Bieber','justin-bieber');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:04:37
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('formatura','formatura');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:04:37
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Selena Gomez','selena-gomez');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:04:37
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Believe','believe');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:04:37
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('','');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:05:05
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Justin Bieber','justin-bieber');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:05:05
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('formatura','formatura');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:05:05
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Selena Gomez','selena-gomez');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:05:05
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Believe','believe');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:05:05
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('','');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:03
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Will Smith','will-smith');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:03
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Tommy Lee Jones','tommy-lee-jones');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:03
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Josh Brolin','josh-brolin');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:03
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('MIB 3','mib-3');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:03
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Homens de Preto 3','homens-de-preto-3');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:03
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('homens de preto 3','homens-de-preto-3');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:03
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('mib 3','mib-3');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:03
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Homens de Preto','homens-de-preto');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:03
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Homens de Preto 4','homens-de-preto-4');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:03
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('men in black','men-in-black');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:05
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Justin Bieber','justin-bieber');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:05
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('formatura','formatura');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:05
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Selena Gomez','selena-gomez');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:05
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('Believe','believe');
+20120703
+-------------------------
+
+Log date:Tue 3 Jul 2012 11:10:05
+
+-------------------------
+
+insert into wp_terms (name, slug) VALUES ('','');

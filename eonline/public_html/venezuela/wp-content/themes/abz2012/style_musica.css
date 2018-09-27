@@ -1,0 +1,14 @@
+/*
+body {
+	background: #ffffff url(images/bgs/bg_enews.jpg) no-repeat center top;
+}
+#container{
+	background: #ffffff;
+}
+*/
+#libre {
+	background: url(images/bgs/category/musica.jpg) no-repeat center top;
+}
+#container{
+	background: #ffffff;
+}

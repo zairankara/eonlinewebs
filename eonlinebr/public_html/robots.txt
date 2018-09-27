@@ -1,0 +1,75 @@
+User-agent: *
+Disallow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-includes/
+Disallow: /wp-admin/
+Disallow: /wp-
+Disallow: /?s=
+Disallow: /search
+Disallow: /date
+Disallow: /date/$
+Disallow: /feed
+Disallow: /comments/feed
+Disallow: /8877/Brasil/
+Disallow: /8877/Brasil/$
+Disallow: /experience
+#
+# Google Image
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+#
+# Sitemap permitido, búsquedas no.
+Sitemap: http://br.eonline.com/sitemap.xml
+Sitemap: http://br.eonline.com/sitemap-image.xml
+Sitemap: http://br.eonline.com/sitemap-image-br-1.xml.gz
+#
+#
+User-agent: Googlebot
+Disallow: /*/feed/$
+Disallow: /*/feed/rss/$
+Disallow: /*/trackback/$
+Disallow: /*/*/feed/$
+Disallow: /*/*/feed/rss/$
+Disallow: /*/*/trackback/$
+Disallow: /*/*/*/feed/$
+Disallow: /*/*/*/feed/rss/$
+Disallow: /*/*/*/trackback/$
+Disallow: /*/8877/$
+Disallow: /*/8877/Brasil/$
+Disallow: /*/page/*/feed/$
+Disallow: /*/*/page/*/feed/$
+Disallow: /*/*/*/page/*/feed/$
+Disallow: /plugins/feedback.php$
+#
+# Ppcional pero recomendado.
+#
+#
+User-agent: bingbot
+Crawl-delay: 10
+User-agent: MSIECrawler
+Disallow: /
+#
+#
+User-agent: WebCopier
+Disallow: /
+#
+User-agent: HTTrack
+Disallow: /
+#
+User-agent: Microsoft.URL.Control
+Disallow: /
+#
+#
+User-agent: libwww
+Disallow: /
+#
+#
+#
+User-agent: noxtrumbot
+Crawl-delay: 50
+User-agent: msnbot
+Crawl-delay: 30
+User-agent: Slurp
+Crawl-delay: 10 

@@ -1,0 +1,93 @@
+/********************************/
+/* New CSS3.0 Font Declarations */
+/********************************/
+
+/* Primary Header = Ostrich is the font set we bought and modified with style created by our group. 
+   The font exists in CAPS only ie. Upper Case only and is used as the HEADLINE FONT. */
+
+/* Font declaration notes:
+   eot: IE uses embedded opentype. load first & smiley trick needed for ie8- not to choke. IE 6-9
+   woff: Compressed, emerging standard.
+   ttf: Works in most browsers except IE and iPhone.
+   svg: last resort, iPhone/iPad. 
+*/
+
+@font-face { /* CSS 3 - See: http://www.w3schools.com/cssref/css3_pr_font-face_rule.asp */
+	font-family: "Ostrich Sans Pro Regular";
+		src: url('ostrich-sans-pro-regular-webfont.eot'); /* IE 6-9 */
+		src: local("☺"), /* IE8 hack, to prevent it from loading the following URLs: */
+			url('ostrich-sans-pro-regular-webfont.eot?#iefix') format("embedded-opentype"), /* IE9 */
+			url('ostrich-sans-pro-regular-webfont.woff') format("woff"); /* Compressed, emerging standard. */
+
+			/* We're not allowed to use .ttf nor .svg due to our licensing agreements. "We have use of this world wide and in perpetuity.
+			   With transfer rights.  If you do share this font with anyone – please make sure they are aware that we have 2 years 
+			   (exp July 9 2014) of exclusive use (restricted to E!) with this set."
+				url('ostrich-sans-pro-regular-webfont.ttf') format("truetype"), /x* Works in most browsers except IE and iPhone. *x/
+				url('ostrich-sans-pro-regular-webfont.svg#webfont') format("svg"); /x* iPhone/iPad. *x/
+			*/
+}
+
+@font-face {
+	font-family: "Ostrich Sans Pro Italics";
+		src: url('ostrich-sans-pro-regular-italics-webfont.eot');
+		src: local("☺"),
+			url('ostrich-sans-pro-regular-italics-webfont.eot?#iefix') format("embedded-opentype"),
+			url('ostrich-sans-pro-regular-italics-webfont.woff') format("woff");
+}
+
+/* We are not allowed to use these, due to our licensing agreements!
+@font-face {
+	font-family: "Ostrich Semi-Bold";
+		src: url('ostrich-sans-pro-semi-bold-webfont.eot');
+		src: local("☺"),
+			url('ostrich-sans-pro-semi-bold-webfont.eot?#iefix') format("embedded-opentype"),
+			url('ostrich-sans-pro-semi-bold-webfont.woff') format("woff");
+}
+
+@font-face {
+	font-family: "Ostrich Semi-Bold Italic";
+		src: url('ostrich-sans-pro-semi-bold-italics-webfont.eot');
+		src: local("☺"),
+			url('ostrich-sans-pro-semi-bold-italics-webfont.eot?#iefix') format("embedded-opentype"),
+			url('ostrich-sans-pro-semi-bold-italics-webfont.woff') format("woff");
+}
+*/
+
+/* Secondary Header = Din is for Upper and Lower case text… like for descriptions and subheadings. */
+
+@font-face {
+	font-family: "DIN Web Condensed";
+		src: url('DINWeb-Cond.eot');
+		src: local("☺"),
+			url('DINWeb-Cond.eot?#iefix') format("embedded-opentype"),
+			url('DINWeb-Cond.woff') format("woff");
+}
+
+@font-face {
+	font-family: "DIN Web Condensed ";
+		src: url('DINWeb_Cond.woff') format("woff");
+}
+
+@font-face {
+	font-family: "DIN Web Condensed Bold";
+		src: url('DINWeb-CondBold.eot');
+		src: local("☺"),
+			url('DINWeb-CondBold.eot?#iefix') format("embedded-opentype"),
+			url('DINWeb-CondBold.woff') format("woff");
+}
+
+@font-face {
+	font-family: "DIN Web Condensed Italic";
+		src: url('DINWeb-CondIta.eot');
+		src: local("☺"),
+			url('DINWeb-CondIta.eot?#iefix') format("embedded-opentype"),
+			url('DINWeb-CondIta.woff') format("woff");
+}
+
+@font-face {
+	font-family: "DIN Web Condensed Bold Italic";
+		src: url('DINWeb-CondBoldIta.eot');
+		src: local("☺"),
+			url('DINWeb-CondBoldIta.eot?#iefix') format("embedded-opentype"),
+			url('DINWeb-CondBoldIta.woff') format("woff");
+}

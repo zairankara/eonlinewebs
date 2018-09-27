@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss encoding="UTF-8" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <link>http://la.eonline.com/andes</link>
+    <description>E! Latinoamérica. Todo el mundo del espectáculo y la cultura Pop en vivo desde Hollywood</description>
+    <title>E! Online Latino | Andes</title>
+    <image>
+      <url>http://la.eonline.com/andes/wp-content/themes/abz2012/images/generica_blanca.jpg</url>
+      <title>E! Online Latino</title>
+      <link>http://la.eonline.com/andes</link>
+    </image>
+    <item>
+      <title>AsÃ­ fue cÃ³mo Eleanor Calder supo que su ex novio Louis Tomlinson se convertitÃ­a en padre</title>
+      <link>http://la.eonline.com/andes/enews/asi-fue-como-eleanor-calder-supo-que-su-ex-novio-louis-tomlinson-se-convertitia-en-padre/</link>
+      <description>Esto debiÃ³ ser muy complicadoâ¦ Â¡E incÃ³modo!</description>
+      <dc:creator>Eonline Latino</dc:creator>
+    </item>
+  </channel>
+</rss>

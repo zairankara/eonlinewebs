@@ -1,0 +1,59 @@
+/* @group GENERAL */
+
+body {
+	background: #ffffff url(images/bgs/bg_sag2012.jpg) no-repeat center top;
+}
+#container{
+	background: #ffffff;
+}
+
+#submenu {
+	width: 980px;
+	height: 155px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+#submenu .items_submenu{
+	position: absolute;
+	width: 320px;
+	padding-bottom: 10px;
+	height: 110px;
+	_height: 120px;
+	bottom:0;
+	right:10px;
+
+}
+
+.sbmn_redcarpet {
+	text-align: left;
+	/*margin-left: 12px;*/
+}
+.sbmn_redcarpet ul {
+	margin: 0;
+}
+.sbmn_redcarpet ul li {
+	width: 320px;
+	height:15px;
+	float:left;
+	position: relative;
+	list-style-type:none;  
+}
+.sbmn_redcarpet a {
+	width: 305px;
+	_width: 320px;
+	display:block;
+	/*NEW*/
+	color: #ccc;
+	text-decoration: none;
+	font: 12px/14px  Tahoma, Arial, Helvetica,Verdana, Sans-serif;
+	padding-left: 15px;
+}
+
+.sbmn_redcarpet a:hover  
+{  
+	padding-left: 15px;
+	color: #999;
+	background: url(images/comunes/flecha_submenu2.gif) no-repeat left;
+} 
+/* @end */

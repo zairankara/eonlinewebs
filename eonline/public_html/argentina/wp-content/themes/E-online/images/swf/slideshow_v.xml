@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow 
+	speed="6" 
+	fadeInSpeed="2" 
+	fadeOutSpeed="1" 
+	captions="on" 
+	links="on"
+	buttons="on" 
+	>
+	<slide>
+		<asset>alfombra_roja.swf</asset>
+		<caption><![CDATA[ALFOMBRA ROJA]]></caption>
+		<url><![CDATA[http://www.eonlinelatinola.com/category/alfombraroja/]]></url>
+		<subcaption><![CDATA[Y la #AlfombraRojaE! se llenó de tweets]]></subcaption>
+	</slide>
+	<slide>
+		<asset>chica_e_ganadora.swf</asset>
+		<caption><![CDATA[CHICA E! VENEZUELA]]></caption>
+		<url><![CDATA[http://www.chicaevenezuela.com/]]></url>
+		<subcaption><![CDATA[Patricia Zavala es la Chica E! Venezuela 2010]]></subcaption>
+	</slide>
+	<slide>
+		<asset>how_do_you_get.swf</asset>
+		<caption><![CDATA[CHELSEA LATELY]]></caption>
+		<url><![CDATA[]]></url>
+		<subcaption><![CDATA[Sátiras que causan verdaderos estragos en la autoestima de las celebridades]]></subcaption>
+	</slide>
+</slideshow>

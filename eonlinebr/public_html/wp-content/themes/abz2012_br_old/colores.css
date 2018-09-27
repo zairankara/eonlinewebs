@@ -1,0 +1,44 @@
+/* PHOTOS - FUCSIA */
+#access li:hover > a.style_photos_txt{border-bottom:1px solid #ff24d1;}
+#access ul li.current-menu-item > a.style_photos_txt{border-bottom:1px solid #ff24d1;}
+
+/* VIDEOS -VERDE CLARO */
+#access li:hover > a.style_videos_txt{border-bottom:1px solid #46ba37;}
+#access ul li.current-menu-item > a.style_videos_txt{border-bottom:1px solid #46ba37;}
+
+
+/* E-SHOWS - */
+#access li:hover > a.style_eshows_txt{border-bottom:1px solid #9999ff;}
+#access ul li.current-menu-item > a.style_eshows_txt{border-bottom:1px solid #9999ff;}
+
+
+/* REDCARPET */
+#access li:hover > a.style_redcarpet_txt{border-bottom:1px solid #f93c53;}
+#access ul li.current-menu-item > a.style_redcarpet_txt{border-bottom:1px solid #f93c53;}
+
+
+/* ENEWS - TURQUESA*/
+#access li:hover > a.style_enews_txt{border-bottom:1px solid #00ecff;}
+#access ul li.current-menu-item > a.style_enews_txt{border-bottom:1px solid #00ecff;}
+
+/* EFASHIONBLOGGER - BLANCO */
+#access li:hover > a.style_fashion_txt{border-bottom:1px solid #fff;}
+#access ul li.current-menu-item > a.style_fashion_txt{border-bottom:1px solid #fff;}
+
+
+/* ESTRENOS - LILA */
+#access li:hover > a.style_estrenos_txt{border-bottom:1px solid #9847d4;}
+#access ul li.current-menu-item > a.style_estrenos_txt{border-bottom:1px solid #9847d4;}
+
+
+/* PROGRAMACION - LILA CLARO */
+#access li:hover > a.style_prog_txt{border-bottom:1px solid #65638d;}
+#access ul li.current-menu-item > a.style_prog_txt{border-bottom:1px solid #65638d;}
+
+
+/* VERSUS - AMRILLO */
+#access li:hover > a.style_versus_txt{border-bottom:1px solid #d4ce54;}
+#access ul li.current-menu-item > a.style_versus_txt{border-bottom:1px solid #d4ce54;}
+
+
+

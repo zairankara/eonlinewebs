@@ -1,0 +1,1630 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Polls Portuguese Brazilian\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-03-18 22:45-0300\n"
+"Last-Translator: José Diogenes Silva <contato@diogenes.blog.br>\n"
+"Language-Team: Diogenes Silva <contato@diogenes.blog.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-Basepath: C:\\Arquivos de programas\\ZAAMPP\\htdocs\\wordpress\\wp-content\\plugins\\polls\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-SearchPath-0: C:\\Arquivos de programas\\ZAAMPP\\htdocs\\wordpress\\wp-content\\plugins\\polls\n"
+
+#: polls-add.php:36
+#: polls-add.php:174
+#: polls-add.php:246
+#: polls.php:58
+msgid "Add Poll"
+msgstr "Adicionar Enquete"
+
+#: polls-add.php:80
+#, php-format
+msgid "Error In Adding Poll '%s'."
+msgstr "Erro ao adicionar a Enquete '%s'."
+
+#: polls-add.php:89
+#: polls-manager.php:131
+#, php-format
+msgid "Error In Adding Poll's Answer '%s'."
+msgstr "Erro ao adicionar resposta '%s' à Enquete."
+
+#: polls-add.php:96
+#, php-format
+msgid "Poll '%s' Added Successfully."
+msgstr "Enquete '%s' adicionada com sucesso."
+
+#: polls-add.php:124
+#: polls-logs.php:291
+#: polls-logs.php:334
+#: polls-manager.php:237
+msgid "Answer"
+msgstr "Resposta"
+
+#: polls-add.php:153
+msgid "You need at least a minimum of 2 poll answers."
+msgstr "Você precisa de no mínimo duas respostas para a enquete."
+
+#: polls-add.php:176
+#: polls-manager.php:307
+msgid "Poll Question"
+msgstr "Pergunta da Enquete"
+
+#: polls-add.php:179
+msgid "Question:"
+msgstr "Pergunta:"
+
+#: polls-add.php:184
+#: polls-manager.php:315
+msgid "Poll Answers"
+msgstr "Respostas da Enquete"
+
+#: polls-add.php:189
+#: polls-manager.php:355
+msgid "Add Answer"
+msgstr "Adicionar Resposta"
+
+#: polls-add.php:189
+#: polls-manager.php:355
+msgid "Remove Answer"
+msgstr "Remover Resposta"
+
+#: polls-add.php:201
+#: polls-manager.php:342
+#, php-format
+msgid "Answer %s:"
+msgstr "Resposta %s:"
+
+#: polls-add.php:210
+#: polls-manager.php:366
+msgid "Poll Multiple Answers"
+msgstr "Enquete de multiplas respostas"
+
+#: polls-add.php:213
+#: polls-manager.php:369
+msgid "Allows Users To Select More Than One Answer?"
+msgstr "Permitir que usuários selecionem mais de uma resposta?"
+
+#: polls-add.php:216
+#: polls-manager.php:372
+#: polls-options.php:201
+#: polls-options.php:210
+#: polls-options.php:323
+#: polls-widget.php:105
+msgid "No"
+msgstr "Não"
+
+#: polls-add.php:217
+#: polls-logs.php:381
+#: polls-manager.php:373
+#: polls-manager.php:589
+#: polls-options.php:202
+#: polls-options.php:211
+#: polls-options.php:324
+#: polls-uninstall.php:130
+#: polls-widget.php:110
+msgid "Yes"
+msgstr "Sim"
+
+#: polls-add.php:222
+#: polls-manager.php:378
+msgid "Maximum Number Of Selected Answers Allowed?"
+msgstr "Número máximo de respostas selecionadas permitidas?"
+
+#: polls-add.php:235
+#: polls-manager.php:395
+msgid "Poll Start/End Date"
+msgstr "Data de Início/Fim da Enquete"
+
+#: polls-add.php:238
+msgid "Start Date/Time:"
+msgstr "Data/Hora Início:"
+
+#: polls-add.php:242
+msgid "End Date/Time:"
+msgstr "Data/Hora Fim:"
+
+#: polls-add.php:243
+#: polls-manager.php:417
+msgid "Do NOT Expire This Poll"
+msgstr "NÃO Expirar Esta Enquete"
+
+#: polls-add.php:246
+#: polls-manager.php:443
+#: polls-options.php:381
+#: polls-templates.php:464
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: polls-admin-ajax.php:38
+#: polls-admin-js.php:78
+#: polls-manager.php:590
+msgid "Delete All Logs"
+msgstr "Excluir todos os logs"
+
+#: polls-admin-ajax.php:42
+msgid "All Polls Logs Have Been Deleted."
+msgstr "Todos os logs foram excluídos."
+
+#: polls-admin-ajax.php:44
+msgid "An Error Has Occured While Deleting All Polls Logs."
+msgstr "Ocorreu um erro ao excluir todos os logs das enquetes."
+
+#: polls-admin-ajax.php:49
+#: polls-admin-js.php:106
+#: polls-logs.php:382
+msgid "Delete Logs For This Poll Only"
+msgstr "Excluir Logs somente para esta enquete"
+
+#: polls-admin-ajax.php:55
+#, php-format
+msgid "All Logs For '%s' Has Been Deleted."
+msgstr "Todos os Logs para '%s' foram excluídos."
+
+#: polls-admin-ajax.php:57
+#, php-format
+msgid "An Error Has Occured While Deleting All Logs For '%s'"
+msgstr "Ocorreu um erro ao excluir todos os logs de '%s'"
+
+#: polls-admin-ajax.php:62
+#: polls-admin-js.php:148
+msgid "Delete Poll Answer"
+msgstr "Excluir Resposta da Enquete"
+
+#: polls-admin-ajax.php:72
+#, php-format
+msgid "Poll Answer '%s' Deleted Successfully."
+msgstr "Resposta da Enquete '%s' excluida com sucesso."
+
+#: polls-admin-ajax.php:74
+#, php-format
+msgid "Error In Deleting Poll Answer '%s'."
+msgstr "Erro ao excluir resposta da enquete '%s'."
+
+#: polls-admin-ajax.php:78
+#: polls-admin-js.php:172
+#: polls-manager.php:442
+msgid "Open Poll"
+msgstr "Abrir Enquete"
+
+#: polls-admin-ajax.php:83
+#, php-format
+msgid "Poll '%s' Is Now Opened"
+msgstr "A Enquete '%s' está aberta agora"
+
+#: polls-admin-ajax.php:85
+#, php-format
+msgid "Error Opening Poll '%s'"
+msgstr "Erro ao abrir a Enquete '%s'"
+
+#: polls-admin-ajax.php:89
+#: polls-admin-js.php:195
+#: polls-manager.php:441
+msgid "Close Poll"
+msgstr "Fechar Enquete"
+
+#: polls-admin-ajax.php:94
+#, php-format
+msgid "Poll '%s' Is Now Closed"
+msgstr "A Enquete '%s' está Fechada agora"
+
+#: polls-admin-ajax.php:96
+#, php-format
+msgid "Error Closing Poll '%s'"
+msgstr "Erro ao Fechar Enquete '%s'"
+
+#: polls-admin-ajax.php:100
+#: polls-admin-js.php:56
+msgid "Delete Poll"
+msgstr "Excluir Enquete"
+
+#: polls-admin-ajax.php:108
+#, php-format
+msgid "Error In Deleting Poll '%s' Question"
+msgstr "Erro ao excluir pergunta da enquete '%s'"
+
+#: polls-admin-ajax.php:111
+#, php-format
+msgid "Poll '%s' Deleted Successfully"
+msgstr "A Enquete '%s' foi excluida com sucesso"
+
+#: polls-admin-js.php:69
+#: polls-manager.php:593
+msgid "No poll logs available."
+msgstr "Nenhum log de enquete disponível."
+
+#: polls-admin-js.php:85
+msgid "Please check the 'Yes' checkbox if you want to delete all logs."
+msgstr "Favor selecione 'Sim' se quiser excluir todos os logs."
+
+#: polls-admin-js.php:94
+#: polls-logs.php:371
+#: polls-logs.php:385
+msgid "No poll logs available for this poll."
+msgstr "Nenhum registro de log disponível para esta enquete."
+
+#: polls-admin-js.php:114
+msgid "Please check the 'Yes' checkbox if you want to delete all logs for this poll ONLY."
+msgstr "Favor selecione 'Sim' se quiser excluir todos os logs SOMENTE para essa Enquete."
+
+#: polls-admin-js.php:206
+msgid "Enter Poll ID"
+msgstr "Digite a ID da Enquete"
+
+#: polls-admin-js.php:208
+msgid "Error: Poll ID must be numeric"
+msgstr "Erro: o ID da enquete deve ser numérico"
+
+#: polls-admin-js.php:208
+msgid "Please enter Poll ID again"
+msgstr "Por favor digite a ID da enquete novamente"
+
+#: polls-js.php:36
+msgid "Your last request is still being processed. Please wait a while ..."
+msgstr "Seu ultimo pedido ainda está em processamento. Por favor aguarde um pouco ..."
+
+#: polls-js.php:37
+msgid "Please choose a valid poll answer."
+msgstr "Por favor escolha uma resposta válida para a enquete."
+
+#: polls-js.php:38
+msgid "Maximum number of choices allowed:"
+msgstr "Número máximo de escolhas permitidas:"
+
+#: polls-logs.php:33
+#: polls-logs.php:34
+#: polls-logs.php:37
+#: polls-logs.php:65
+#: polls-logs.php:69
+#: polls-logs.php:102
+#: polls-logs.php:105
+msgid "Guest"
+msgstr "Convidado"
+
+#: polls-logs.php:123
+msgid "Poll's Logs"
+msgstr "Logs das Enquetes"
+
+#: polls-logs.php:126
+#, php-format
+msgid "There are a total of <strong>%s</strong> recorded votes for this poll."
+msgstr "Existe um total de <strong>%s</strong> votos registrados para esta Enquete."
+
+#: polls-logs.php:127
+#, php-format
+msgid "<strong>&raquo;</strong> <strong>%s</strong> vote(s) are voted by registered users"
+msgstr "<strong>&raquo;</strong> <strong>%s</strong> voto(s) foram dados por usuários registrados"
+
+#: polls-logs.php:128
+#, php-format
+msgid "<strong>&raquo;</strong> <strong>%s</strong> vote(s) are voted by comment authors"
+msgstr "<strong>&raquo;</strong> <strong>%s</strong> voto(s) foram dados por autores de comentários"
+
+#: polls-logs.php:129
+#, php-format
+msgid "<strong>&raquo;</strong> <strong>%s</strong> vote(s) are voted by guests"
+msgstr "<strong>&raquo;</strong> <strong>%s</strong> voto(s) foram dados por visitantes"
+
+#: polls-logs.php:134
+msgid "Filter Poll's Logs"
+msgstr "Filtrar Logs das Enquetes"
+
+#: polls-logs.php:143
+msgid "Display All Users That Voted For:"
+msgstr "Exibir todos os usuários que votaram em:"
+
+#: polls-logs.php:166
+#: polls-logs.php:217
+msgid "Voters To EXCLUDE"
+msgstr "Votantes a EXCLUIR"
+
+#: polls-logs.php:169
+#: polls-logs.php:220
+msgid "Registered Users"
+msgstr "Usuários Registrados"
+
+#: polls-logs.php:170
+#: polls-logs.php:221
+msgid "Comment Authors"
+msgstr "Autores de comentários"
+
+#: polls-logs.php:171
+msgid "Guests"
+msgstr "Visitantes"
+
+#: polls-logs.php:175
+#: polls-logs.php:226
+#: polls-logs.php:262
+msgid "Filter"
+msgstr "Filtrar"
+
+#: polls-logs.php:187
+msgid "Display Users That Voted For: "
+msgstr "Exibir usuários que votaram em:"
+
+#: polls-logs.php:191
+msgid "More Than"
+msgstr "Mais do que"
+
+#: polls-logs.php:192
+msgid "More Than Or Exactly"
+msgstr "Mais do que ou Exatamente"
+
+#: polls-logs.php:193
+msgid "Exactly"
+msgstr "Exatamente"
+
+#: polls-logs.php:194
+msgid "Less Than Or Exactly"
+msgstr "Menos que ou Exatamente"
+
+#: polls-logs.php:195
+msgid "Less Than"
+msgstr "Menos que"
+
+#: polls-logs.php:202
+msgid "1 Answer"
+msgstr "1 Resposta"
+
+#: polls-logs.php:205
+#: polls-logs.php:207
+#, php-format
+msgid "%s Answers"
+msgstr "%s Respostas"
+
+#: polls-logs.php:222
+msgid "Guests will automatically be excluded"
+msgstr "Os visitantes serão excluidos automaticamente"
+
+#: polls-logs.php:243
+msgid "Display What This User Has Voted:"
+msgstr "Exibir em que este usuário votou:"
+
+#: polls-logs.php:271
+msgid "Clear Filter"
+msgstr "Limpar Filtro"
+
+#: polls-logs.php:278
+msgid "Poll Logs"
+msgstr "Logs das Enquetes"
+
+#: polls-logs.php:283
+msgid "This default filter is limited to display only <strong>100</strong> records."
+msgstr "O filtro padrão está limitado a exibir apenas <strong>100</strong registros."
+
+#: polls-logs.php:292
+msgid "IP"
+msgstr "IP"
+
+#: polls-logs.php:293
+msgid "Host"
+msgstr "Host"
+
+#: polls-logs.php:294
+#: polls-logs.php:341
+msgid "Date"
+msgstr "Data"
+
+#: polls-logs.php:301
+#: polls-logs.php:329
+#: polls-manager.php:400
+#: polls-manager.php:412
+#: polls-manager.php:489
+#: polls-manager.php:497
+#: polls.php:350
+#: polls.php:355
+#: polls.php:466
+#: polls.php:471
+#: polls.php:848
+#: polls.php:852
+#, php-format
+msgid "%s @ %s"
+msgstr "%s \\à\\s %s"
+
+#: polls-logs.php:309
+#: polls-logs.php:339
+msgid "User"
+msgstr "Usuário"
+
+#: polls-logs.php:338
+msgid "No."
+msgstr "Não."
+
+#: polls-logs.php:340
+msgid "IP/Host"
+msgstr "IP/Host"
+
+#: polls-logs.php:362
+#, php-format
+msgid "Total number of records that matches this filter: <strong>%s</strong>"
+msgstr "Número total de registros que correspondem a este filtro: <strong>%s</strong>"
+
+#: polls-logs.php:369
+msgid "No poll logs matches the filter."
+msgstr "Nenhum log de enquete corresponde ao filtro selecionado."
+
+#: polls-logs.php:377
+msgid "Delete Poll Logs"
+msgstr "Excluir Logs das Enquetes"
+
+#: polls-logs.php:380
+msgid "Are You Sure You Want To Delete Logs For This Poll Only?"
+msgstr "Tem certeza que deseja excluir os Logs somente desta enquete?"
+
+#: polls-logs.php:382
+#, php-format
+msgid "You are about to delete poll logs for this poll '%s' ONLY. This action is not reversible."
+msgstr "Você está prestes a excluir todos os logs SOMENTE para esta enquete '%s'. Esta ação é irreversível."
+
+#: polls-logs.php:389
+msgid "Note: If your logging method is by IP and Cookie or by Cookie, users may still be unable to vote if they have voted before as the cookie is still stored in their computer."
+msgstr "Nota: Se seu método de Log é por IP e Cookie ou por Cookie, os usuários podem ficar impossibilitados de votar se eles já votaram antes, pois o cookie ainda estará gravado no computador deles."
+
+#: polls-manager.php:39
+#: polls-manager.php:305
+#: polls-manager.php:431
+msgid "Edit Poll"
+msgstr "Editar Enquete"
+
+#: polls-manager.php:98
+#, php-format
+msgid "No Changes Had Been Made To Poll's Question '%s'."
+msgstr "Nenhuma mudança foi feita na pergunta '%s' da enquete."
+
+#: polls-manager.php:112
+#, php-format
+msgid "No Changes Had Been Made To Poll's Answer '%s'."
+msgstr "Nenhuma mudança foi feita na resposta '%s' da enquete."
+
+#: polls-manager.php:114
+#, php-format
+msgid "Poll's Answer '%s' Edited Successfully."
+msgstr "Resposta da enquete '%s' editada com sucesso."
+
+#: polls-manager.php:118
+#, php-format
+msgid "Invalid Poll '%s'."
+msgstr "Enquete '%s' Inválida."
+
+#: polls-manager.php:133
+#, php-format
+msgid "Poll's Answer '%s' Added Successfully."
+msgstr "Resposta da enquete '%s' adicionada com sucesso."
+
+#: polls-manager.php:140
+#, php-format
+msgid "Poll '%s' Edited Successfully."
+msgstr "Enquete '%s' editada com sucesso."
+
+#: polls-manager.php:278
+msgid "No more poll's answer to be removed."
+msgstr "Não há mais respostas a serem removidas."
+
+#: polls-manager.php:310
+#: polls-manager.php:466
+msgid "Question"
+msgstr "Pergunta"
+
+#: polls-manager.php:319
+msgid "Answer No.:"
+msgstr "Resposta Nº:"
+
+#: polls-manager.php:320
+msgid "Answer Text:"
+msgstr "Texto da Resposta:"
+
+#: polls-manager.php:321
+msgid "No. Of Votes"
+msgstr "Nº de Votos"
+
+#: polls-manager.php:330
+msgid "Null Votes"
+msgstr "Votos Nulos"
+
+#: polls-manager.php:344
+#: polls-manager.php:544
+msgid "Delete"
+msgstr "Excluir"
+
+#: polls-manager.php:344
+#, php-format
+msgid "You are about to delete this poll's answer '%s'."
+msgstr "Você está prestes a excluir a resposta da enquete '%s'."
+
+#: polls-manager.php:356
+msgid "Total Votes:"
+msgstr "Total de Votos:"
+
+#: polls-manager.php:361
+#: polls-manager.php:575
+msgid "Total Voters:"
+msgstr "Total de Votantes:"
+
+#: polls-manager.php:398
+#: polls-manager.php:468
+msgid "Start Date/Time"
+msgstr "Data/Hora do Inicio"
+
+#: polls-manager.php:401
+msgid "Edit Start Date/Time"
+msgstr "Editar Data/Hora do Inicio"
+
+#: polls-manager.php:406
+#: polls-manager.php:469
+msgid "End Date/Time"
+msgstr "Data/Hora Final"
+
+#: polls-manager.php:410
+msgid "This Poll Will Not Expire"
+msgstr "Esta Enquete não vai expirar"
+
+#: polls-manager.php:441
+#, php-format
+msgid "You are about to CLOSE this poll '%s'."
+msgstr "Você está prestes a FECHAR esta enquete '%s'."
+
+#: polls-manager.php:442
+#, php-format
+msgid "You are about to OPEN this poll '%s'."
+msgstr "Você está prestes a ABRIR esta enquete '%s'."
+
+#: polls-manager.php:461
+#: polls.php:57
+msgid "Manage Polls"
+msgstr "Gerenciar Enquetes"
+
+#: polls-manager.php:465
+msgid "ID"
+msgstr "ID"
+
+#: polls-manager.php:467
+#: polls-templates.php:116
+#: polls-templates.php:119
+#: polls.php:1316
+#: polls.php:1319
+msgid "Total Voters"
+msgstr "Total de votantes"
+
+#: polls-manager.php:470
+msgid "Status"
+msgstr "Status"
+
+#: polls-manager.php:471
+msgid "Action"
+msgstr "Ação"
+
+#: polls-manager.php:495
+#: polls.php:353
+#: polls.php:469
+#: polls.php:850
+msgid "No Expiry"
+msgstr "Não Expira"
+
+#: polls-manager.php:520
+#: polls-manager.php:524
+#: polls-manager.php:527
+msgid "Displayed:"
+msgstr "Exibindo:"
+
+#: polls-manager.php:535
+msgid "Open"
+msgstr "Aberta"
+
+#: polls-manager.php:537
+msgid "Future"
+msgstr "Futuro"
+
+#: polls-manager.php:539
+msgid "Closed"
+msgstr "Fechada"
+
+#: polls-manager.php:542
+msgid "Logs"
+msgstr "Logs"
+
+#: polls-manager.php:543
+msgid "Edit"
+msgstr "Editar"
+
+#: polls-manager.php:544
+#, php-format
+msgid "You are about to delete this poll, '%s'."
+msgstr "Você está prestes a excluir esta enquete, '%s'."
+
+#: polls-manager.php:552
+msgid "No Polls Found"
+msgstr "Nenhuma enquete encontrada"
+
+#: polls-manager.php:560
+#: polls-usage.php:103
+msgid "Polls Stats"
+msgstr "Estatísticas das Enquetes"
+
+#: polls-manager.php:563
+msgid "Total Polls:"
+msgstr "Total de Enquetes:"
+
+#: polls-manager.php:567
+msgid "Total Polls' Answers:"
+msgstr "Total de Respostas das Enquetes:"
+
+#: polls-manager.php:571
+msgid "Total Votes Casted:"
+msgstr "Total de Votos Computados:"
+
+#: polls-manager.php:582
+msgid "Polls Logs"
+msgstr "Logs das Enquetes"
+
+#: polls-manager.php:588
+msgid "Are You Sure You Want To Delete All Polls Logs?"
+msgstr "Tem certeza que deseja excluir os Logs de Todas as Enquetes ?"
+
+#: polls-manager.php:590
+msgid "You are about to delete all poll logs. This action is not reversible."
+msgstr "Você está prestes a excluir todos os logs das enquetes. Esta ação é irreversível."
+
+#: polls-manager.php:597
+msgid "Note:<br />If your logging method is by IP and Cookie or by Cookie, users may still be unable to vote if they have voted before as the cookie is still stored in their computer."
+msgstr "Nota:<br /> Se seu método de Log é por IP e Cookie ou por Cookie, os usuários podem ficar impossibilitados de votar se eles já votaram antes, pois o cookie ainda estará gravado no computador deles."
+
+#: polls-options.php:68
+#: polls-options.php:133
+#: polls-options.php:136
+msgid "Poll Bar Style"
+msgstr "Estilo da Barra de Enquete"
+
+#: polls-options.php:69
+msgid "Poll AJAX Style"
+msgstr "Estilo AJAX da Enquete"
+
+#: polls-options.php:70
+msgid "Sort Poll Answers By Option"
+msgstr "Opção de Odem de respostas das enquetes"
+
+#: polls-options.php:71
+msgid "Sort Order Of Poll Answers Option"
+msgstr "Opção de ordem das respostas das enquetes"
+
+#: polls-options.php:72
+msgid "Sort Poll Results By Option"
+msgstr "Ordenar Resultados das Enquetes por Opção"
+
+#: polls-options.php:73
+msgid "Sort Order Of Poll Results Option"
+msgstr "Opção de ordem dos resultados das enquetes"
+
+#: polls-options.php:74
+msgid "Number Of Polls Per Page To Display In Poll Archive Option"
+msgstr "Opção do número de enquetes por página a exibir no Arquivo de Enquetes"
+
+#: polls-options.php:75
+msgid "Type Of Polls To Display In Poll Archive Option"
+msgstr "Opção do tipo de enquetes a exibir no Arquivo de Enquetes"
+
+#: polls-options.php:76
+msgid "Poll Archive URL Option"
+msgstr "Opções da URL do Arquivo de Enquetes"
+
+#: polls-options.php:77
+msgid "Show Poll Achive Link Option"
+msgstr "Opção de exibição do link do Arquivo de Enquetes"
+
+#: polls-options.php:78
+msgid "Current Active Poll Option"
+msgstr "Opções da enquete ativa"
+
+#: polls-options.php:79
+msgid "Poll Close Option"
+msgstr "Opções de fechamento de enquete"
+
+#: polls-options.php:80
+#: polls-options.php:282
+msgid "Logging Method"
+msgstr "Método de Log"
+
+#: polls-options.php:81
+msgid "Allow To Vote Option"
+msgstr "Opção de permitir que vote"
+
+#: polls-options.php:86
+#: polls-templates.php:79
+msgid "Updated"
+msgstr "Atualizado"
+
+#: polls-options.php:91
+#: polls-templates.php:84
+msgid "No Poll Option Updated"
+msgstr "Nenhuma opção de enquete atualizada"
+
+#: polls-options.php:131
+#: polls.php:59
+msgid "Poll Options"
+msgstr "Opções das Enquetes"
+
+#: polls-options.php:162
+msgid "Use CSS Style"
+msgstr "Usar Estilo CSS"
+
+#: polls-options.php:166
+msgid "Poll Bar Background"
+msgstr "Cor de Fundo da Barra da Enquete"
+
+#: polls-options.php:171
+msgid "Poll Bar Border"
+msgstr "Borda da Barra da Enquete"
+
+#: polls-options.php:176
+msgid "Poll Bar Height"
+msgstr "Altura da Barra da Enquete"
+
+#: polls-options.php:180
+msgid "Your poll bar will look like this"
+msgstr "Sua barra da enquete será assim"
+
+#: polls-options.php:195
+msgid "Polls AJAX Style"
+msgstr "Estilo AJAX das Enquetes"
+
+#: polls-options.php:198
+msgid "Show Loading Image With Text"
+msgstr "Exibir Imagem de Carregamento com Texto"
+
+#: polls-options.php:207
+msgid "Show Fading In And Fading Out Of Poll"
+msgstr "Exibir Efeito de Esmairecimento nas Enquetes"
+
+#: polls-options.php:218
+msgid "Sorting Of Poll Answers"
+msgstr "Ordem das respostas das Enquetes"
+
+#: polls-options.php:221
+msgid "Sort Poll Answers By:"
+msgstr "Ordenar respostas por:"
+
+#: polls-options.php:224
+#: polls-options.php:249
+msgid "Exact Order"
+msgstr "Ordem Exata"
+
+#: polls-options.php:225
+#: polls-options.php:250
+msgid "Alphabetical Order"
+msgstr "Em ordem alfabetica"
+
+#: polls-options.php:226
+#: polls-options.php:251
+msgid "Random Order"
+msgstr "Aleatóriamente"
+
+#: polls-options.php:231
+msgid "Sort Order Of Poll Answers:"
+msgstr "Ordem de exibição das respostas"
+
+#: polls-options.php:234
+#: polls-options.php:259
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: polls-options.php:235
+#: polls-options.php:260
+msgid "Descending"
+msgstr "Descendente"
+
+#: polls-options.php:242
+msgid "Sorting Of Poll Results"
+msgstr "Ordem dos resultados das Enquetes"
+
+#: polls-options.php:245
+msgid "Sort Poll Results By:"
+msgstr "Ordenar resultados das enquetes por:"
+
+#: polls-options.php:248
+#: polls-templates.php:110
+#: polls-templates.php:113
+#: polls.php:1313
+#: polls.php:1314
+msgid "Votes"
+msgstr "Votos"
+
+#: polls-options.php:256
+msgid "Sort Order Of Poll Results:"
+msgstr "Ordem de exibição dos resultados das Enquetes:"
+
+#: polls-options.php:267
+msgid "Allow To Vote"
+msgstr "Permitir que vote"
+
+#: polls-options.php:270
+msgid "Who Is Allowed To Vote?"
+msgstr "Quem é capaz de votar?"
+
+#: polls-options.php:273
+msgid "Guests Only"
+msgstr "Somente Visitantes"
+
+#: polls-options.php:274
+msgid "Registered Users Only"
+msgstr "Somente usuários registrados"
+
+#: polls-options.php:275
+msgid "Registered Users And Guests"
+msgstr "Usuários registrados e visitantes"
+
+#: polls-options.php:285
+msgid "Poll Logging Method:"
+msgstr "Médodo de registro (Log) das Enquetes:"
+
+#: polls-options.php:288
+msgid "Do Not Log"
+msgstr "Não criar Log"
+
+#: polls-options.php:289
+msgid "Logged By Cookie"
+msgstr "Logado por Cookie"
+
+#: polls-options.php:290
+msgid "Logged By IP"
+msgstr "Logado por IP"
+
+#: polls-options.php:291
+msgid "Logged By Cookie And IP"
+msgstr "Logado por Cookie e IP"
+
+#: polls-options.php:292
+msgid "Logged By Username"
+msgstr "Logado por Nome de Usuário"
+
+#: polls-options.php:299
+msgid "Poll Archive"
+msgstr "Arquivo de Enquetes"
+
+#: polls-options.php:302
+msgid "Number Of Polls Per Page:"
+msgstr "Número de Enquetes por Página:"
+
+#: polls-options.php:306
+msgid "Type Of Polls To Display In Poll Archive:"
+msgstr "Tipo de Enquetes a exibir no Arquivo de Enquetes:"
+
+#: polls-options.php:309
+msgid "Closed Polls Only"
+msgstr "Somente postagens Fechadas"
+
+#: polls-options.php:310
+msgid "Opened Polls Only"
+msgstr "Somente postagens Abertas"
+
+#: polls-options.php:311
+msgid "Closed And Opened Polls"
+msgstr "Postagens Fechadas e Abertas"
+
+#: polls-options.php:316
+msgid "Poll Archive URL:"
+msgstr "URL do Arquivo de Enquete"
+
+#: polls-options.php:320
+msgid "Display Poll Archive Link Below Poll?"
+msgstr "Exibir Link para Arquivo de Enquetes abaixo da Enquete?"
+
+#: polls-options.php:329
+msgid "Note: Only polls' results will be shown in the Poll Archive regardless of whether the poll is closed or opened."
+msgstr "Nota: Somente os resultados das enquetes serão mostrados no Arquivo de Enquetes independente se a enquete está fechada ou aberta."
+
+#: polls-options.php:334
+#: polls-options.php:337
+#: polls-widget.php:114
+msgid "Current Active Poll"
+msgstr "Enquete Ativa no Momento"
+
+#: polls-options.php:340
+#: polls-widget.php:120
+msgid "Do NOT Display Poll (Disable)"
+msgstr "NÃO Exibir a Enquete (Desabilitar)"
+
+#: polls-options.php:341
+#: polls-widget.php:125
+msgid "Display Random Poll"
+msgstr "Exibir Enquete Aleatória"
+
+#: polls-options.php:342
+#: polls-widget.php:130
+msgid "Display Latest Poll"
+msgstr "Exibir a Última Enquete"
+
+#: polls-options.php:344
+#: polls-widget.php:135
+msgid "Display Multiple Polls"
+msgstr "Exibir Multiplas Enquetes"
+
+#: polls-options.php:366
+msgid "Note: If you chose 'Display Multiple Polls' for the above option, you need to configure it in Presentation -> Widgets -> Poll."
+msgstr "Nota: Se você escolher 'Exibir Multiplas Enquetes' na opção acima, você deve configurar-las em Apresentação -> Widgets -> Poll."
+
+#: polls-options.php:370
+msgid "When Poll Is Closed"
+msgstr "Quando a Enquete estiver Fechada"
+
+#: polls-options.php:373
+msgid "Display Poll's Results"
+msgstr "Exibir Resultados da Enquete"
+
+#: polls-options.php:374
+msgid "Do Not Display Poll In Post/Sidebar"
+msgstr "Não exibir-la em Postagens ou na Barra Lateral"
+
+#: polls-options.php:381
+msgid "Update Options"
+msgstr "Atualizar Opções"
+
+#: polls-templates.php:62
+msgid "Voting Form Header Template"
+msgstr "Modelo de Cabeçalho do Formulário de Votação"
+
+#: polls-templates.php:63
+msgid "Voting Form Body Template"
+msgstr "Modelo do Corpo do Formulário de Votação"
+
+#: polls-templates.php:64
+msgid "Voting Form Footer Template"
+msgstr "Modelo do Rodapé do Formulário de Votação"
+
+#: polls-templates.php:65
+msgid "Result Header Template"
+msgstr "Modelo do Cabeçalho do Resultado"
+
+#: polls-templates.php:66
+msgid "Result Body Template"
+msgstr "Modelo do Corpo do Resultado"
+
+#: polls-templates.php:67
+msgid "Result Body2 Template"
+msgstr "Modelo do Corpo2 do Resultado"
+
+#: polls-templates.php:68
+msgid "Result Footer Template"
+msgstr "Modelo do Rodapé do Resultado"
+
+#: polls-templates.php:69
+msgid "Result Footer2 Template"
+msgstr "Modelo do Rodapé2 do Resultado"
+
+#: polls-templates.php:70
+msgid "Poll Archive Link Template"
+msgstr "Modelo do Link para o Arquivo de Enquetes"
+
+#: polls-templates.php:71
+msgid "Poll Archive Poll Header Template"
+msgstr "Modelo do Cabeçalho do Arquivo de Enquetes"
+
+#: polls-templates.php:72
+msgid "Poll Archive Poll Footer Template"
+msgstr "Modelo do Rodapé do Arquivo de Enquetes"
+
+#: polls-templates.php:73
+msgid "Poll Disabled Template"
+msgstr "Modelo de Enquete Desabilitada"
+
+#: polls-templates.php:74
+msgid "Poll Error Template"
+msgstr "Modelo de Erro na Enquete"
+
+#: polls-templates.php:104
+#: polls-templates.php:119
+#: polls.php:1307
+#: polls.php:1320
+msgid "Vote"
+msgstr "Votar"
+
+#: polls-templates.php:104
+#: polls.php:1308
+msgid "View Results Of This Poll"
+msgstr "Ver Resultados dessa Enquete"
+
+#: polls-templates.php:104
+#: polls.php:1308
+msgid "View Results"
+msgstr "Ver Resultados"
+
+#: polls-templates.php:113
+#: polls.php:1314
+msgid "You Have Voted For This Choice"
+msgstr "Você votou nisso"
+
+#: polls-templates.php:119
+#: polls.php:1320
+msgid "Vote For This Poll"
+msgstr "Votar nessa enquete"
+
+#: polls-templates.php:122
+#: polls-usage.php:80
+#: polls.php:1347
+msgid "Polls Archive"
+msgstr "Arquivos de Enquetes"
+
+#: polls-templates.php:128
+msgid "Start Date:"
+msgstr "Data de Início:"
+
+#: polls-templates.php:128
+msgid "End Date:"
+msgstr "Data do Final:"
+
+#: polls-templates.php:131
+#: polls.php:1322
+msgid "Sorry, there are no polls available at the moment."
+msgstr "Desculpe, não há enquetes disponíveis no momento."
+
+#: polls-templates.php:134
+#: polls.php:1323
+msgid "An error has occurred when processing your poll."
+msgstr "Um erro ocorreu ao processar sua enquete."
+
+#: polls-templates.php:144
+#: polls.php:60
+msgid "Poll Templates"
+msgstr "Modelos de Enquetes"
+
+#: polls-templates.php:146
+msgid "Template Variables"
+msgstr "Variáveis de Modelo"
+
+#: polls-templates.php:151
+msgid "Display the poll's ID"
+msgstr "Mostra o ID da enquete"
+
+#: polls-templates.php:155
+msgid "Display the poll's answer ID"
+msgstr "Mostra o ID da resposta da enquete"
+
+#: polls-templates.php:161
+msgid "Display the poll's question"
+msgstr "Mostra a pergunta da enquete"
+
+#: polls-templates.php:165
+msgid "Display the poll's answer"
+msgstr "Mostra a resposta da enquete"
+
+#: polls-templates.php:171
+msgid "Display the poll's total votes NOT the number of people who voted for the poll"
+msgstr "Mostra o total de votos da enquete, NÃO o número de pessoas que votaram na enquete"
+
+#: polls-templates.php:175
+msgid "Display the poll's answer without HTML formatting."
+msgstr "Mostra a resposta da enquete sem formatação HTML."
+
+#: polls-templates.php:181
+msgid "Displays URL to poll's result"
+msgstr "Mostra a URL do resultado da enquete"
+
+#: polls-templates.php:185
+msgid "Display the poll's answer votes"
+msgstr "Mostra os votos da resposta da enquete"
+
+#: polls-templates.php:191
+msgid "Display the poll's most voted answer"
+msgstr "Mostra a resposta mais votada da enquete"
+
+#: polls-templates.php:195
+msgid "Display the poll's answer percentage"
+msgstr "Mostra a porcetagem da resposta da enquete"
+
+#: polls-templates.php:201
+msgid "Display the poll's answer votes for the most voted answer"
+msgstr "Mostra os votos da resposta para a resposta mais votada"
+
+#: polls-templates.php:205
+msgid "Display the poll's answer image width"
+msgstr "Mostra a largura da imagem de resposta"
+
+#: polls-templates.php:211
+msgid "Display the poll's answer percentage for the most voted answer"
+msgstr "Mostra a porcentagem de resposta para a resposta mais votada"
+
+#: polls-templates.php:215
+msgid "Display the poll's least voted answer"
+msgstr "Mostra a resposta menos votada na enquete"
+
+#: polls-templates.php:221
+msgid "Display the poll's start date/time"
+msgstr "Mostra a data/hora iniciais da enquete"
+
+#: polls-templates.php:225
+msgid "Display the poll's answer votes for the least voted answer"
+msgstr "Mostra os votos da resposta para a resposta menos votada"
+
+#: polls-templates.php:231
+msgid "Display the poll's end date/time"
+msgstr "Mostra a data/hora finais da enquete"
+
+#: polls-templates.php:235
+msgid "Display the poll's answer percentage for the least voted answer"
+msgstr "Mostra a porcentagem de resposta para a resposta menos votada"
+
+#: polls-templates.php:241
+msgid "Display the the maximum number of answers the user can choose if the poll supports multiple answers"
+msgstr "Mostra o número máximo de respostas que o usuário pode escolher se a enquete suportar multiplas respostas"
+
+#: polls-templates.php:245
+msgid "Display \"checkbox\" or \"radio\" input types depending on the poll type"
+msgstr "Mostra uma \"caixa de seleção\" ou \"botão de seleção\" de acordo com o tipo de enquete"
+
+#: polls-templates.php:251
+msgid "Display the number of people who voted for the poll NOT the total votes of the poll"
+msgstr "Mostra o numero de pessoas que votaram na enquete, NÃO o número total de votos da enquete"
+
+#: polls-templates.php:255
+msgid "Display the poll archive URL"
+msgstr "Mostrar a URL do arquivo de enquetes"
+
+#: polls-templates.php:260
+msgid "Note:"
+msgstr "Nota:"
+
+#: polls-templates.php:261
+msgid "<strong>%POLL_TOTALVOTES%</strong> and <strong>%POLL_TOTALVOTERS%</strong> will be different if your poll supports multiple answers. If your poll allows only single answer, both value will be the same."
+msgstr "<strong>%POLL_TOTALVOTES%</strong> e <strong>%POLL_TOTALVOTERS%</strong> serão diferentes se sua enquete suportar multiplas respostas. Se sua enquete permitir apenas uma única resposta, os dois valores serão os mesmos."
+
+#: polls-templates.php:267
+msgid "Poll Voting Form Templates"
+msgstr "Modelos do Formulário de Votação"
+
+#: polls-templates.php:271
+msgid "Voting Form Header:"
+msgstr "Cabeçalho do Form. de Votação"
+
+#: polls-templates.php:272
+#: polls-templates.php:287
+#: polls-templates.php:300
+#: polls-templates.php:316
+#: polls-templates.php:331
+#: polls-templates.php:345
+#: polls-templates.php:359
+#: polls-templates.php:379
+#: polls-templates.php:404
+#: polls-templates.php:413
+#: polls-templates.php:422
+#: polls-templates.php:446
+#: polls-templates.php:455
+msgid "Allowed Variables:"
+msgstr "Variáveis Permitidas:"
+
+#: polls-templates.php:280
+#: polls-templates.php:293
+#: polls-templates.php:304
+#: polls-templates.php:324
+#: polls-templates.php:338
+#: polls-templates.php:352
+#: polls-templates.php:372
+#: polls-templates.php:392
+#: polls-templates.php:406
+#: polls-templates.php:415
+#: polls-templates.php:434
+#: polls-templates.php:448
+#: polls-templates.php:457
+msgid "Restore Default Template"
+msgstr "Restaurar Modelo Padrão"
+
+#: polls-templates.php:286
+msgid "Voting Form Body:"
+msgstr "Corpo do Form. de Votação"
+
+#: polls-templates.php:299
+msgid "Voting Form Footer:"
+msgstr "Rodapé do Form. de Votação"
+
+#: polls-templates.php:311
+msgid "Poll Result Templates"
+msgstr "Modelos de Resultado de Enquete"
+
+#: polls-templates.php:315
+msgid "Result Header:"
+msgstr "Cabeçalho do Resultado:"
+
+#: polls-templates.php:330
+#: polls-templates.php:344
+msgid "Result Body:"
+msgstr "Corpo do Resultado:"
+
+#: polls-templates.php:330
+#: polls-templates.php:378
+msgid "Displayed When The User HAS NOT Voted"
+msgstr "Exibido quando um usuário NÃO VOTOU"
+
+#: polls-templates.php:344
+#: polls-templates.php:358
+msgid "Displayed When The User HAS Voted"
+msgstr "Exibido quando um usuário VOTOU"
+
+#: polls-templates.php:358
+#: polls-templates.php:378
+msgid "Result Footer:"
+msgstr "Rodapé do Resultado:"
+
+#: polls-templates.php:399
+msgid "Poll Archive Templates"
+msgstr "Modelos de Arquivo de Enquetes"
+
+#: polls-templates.php:403
+msgid "Poll Archive Link"
+msgstr "Link para o Arquivo de Enquetes"
+
+#: polls-templates.php:403
+msgid "Template For Displaying Poll Archive Link"
+msgstr "Modelo para exibição do link Arquivo de Enquetes"
+
+#: polls-templates.php:412
+msgid "Individual Poll Header"
+msgstr "Cabeçalho de Enquete Avulsa"
+
+#: polls-templates.php:412
+msgid "Displayed Before Each Poll In The Poll Archive"
+msgstr "Exibido Antes de cada enquete no Arquivo de Enquetes"
+
+#: polls-templates.php:414
+#: polls-templates.php:447
+#: polls-templates.php:456
+msgid "N/A"
+msgstr "N/D"
+
+#: polls-templates.php:421
+msgid "Individual Poll Footer"
+msgstr "Rodapé de Enquete Avulsa"
+
+#: polls-templates.php:421
+msgid "Displayed After Each Poll In The Poll Archive"
+msgstr "Exibido Depois de cada enquete no Arquivo de Enquetes"
+
+#: polls-templates.php:441
+msgid "Poll Misc Templates"
+msgstr "Modelos Gerais"
+
+#: polls-templates.php:445
+msgid "Poll Disabled"
+msgstr "Enquete Desabilitada"
+
+#: polls-templates.php:445
+msgid "Displayed When The Poll Is Disabled"
+msgstr "Exibido quando a enquete está desabilitada"
+
+#: polls-templates.php:454
+msgid "Poll Error"
+msgstr "Erro na Enquete"
+
+#: polls-templates.php:454
+msgid "Displayed When An Error Has Occured While Processing The Poll"
+msgstr "Exibida quando um erro ocorre ao processar a enquete"
+
+#: polls-templates.php:464
+msgid "Update Templates"
+msgstr "Atualizar Modelos"
+
+#: polls-uninstall.php:39
+#: polls-uninstall.php:131
+msgid "UNINSTALL WP-Polls"
+msgstr "DESINSTALAR WP-Polls"
+
+#: polls-uninstall.php:46
+#, php-format
+msgid "Table '%s' has been deleted."
+msgstr "A Tabela '%s' foi excluída."
+
+#: polls-uninstall.php:55
+#, php-format
+msgid "Setting Key '%s' has been deleted."
+msgstr "A chave de configuração '%s' foi apagada."
+
+#: polls-uninstall.php:59
+#, php-format
+msgid "Error deleting Setting Key '%s'."
+msgstr "Erro ao apagar a chave de configuração '%s'."
+
+#: polls-uninstall.php:81
+#: polls-uninstall.php:91
+#: polls.php:62
+msgid "Uninstall WP-Polls"
+msgstr "Desinstalar WP-Polls"
+
+#: polls-uninstall.php:82
+#, php-format
+msgid "<a href=\"%s\">Click Here</a> To Finish The Uninstallation And WP-Polls Will Be Deactivated Automatically."
+msgstr "<a href=\"%s\">Clique Aqui</a> Para concluir a desinstalação e o WP-Polls será automaticamente desativado."
+
+#: polls-uninstall.php:93
+msgid "Deactivating WP-Polls plugin does not remove any data that may have been created, such as the poll data and the poll's voting logs. To completely remove this plugin, you can uninstall it here."
+msgstr "Desativar o plugin WP-Polls não remove nenhum dado que possa ter sido criado, como dados de enquetes e os registros das votações. Para remover completamente o plugin, você pode desinstala-lo aqui."
+
+#: polls-uninstall.php:96
+msgid "WARNING:"
+msgstr "AVISO:"
+
+#: polls-uninstall.php:97
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to back up all the data first."
+msgstr "Uma vez desinstalado, esta ação não pode ser desfeita. Você deve fazer um backup do banco de dados antes de proseguir."
+
+#: polls-uninstall.php:100
+msgid "The following WordPress Options/Tables will be DELETED:"
+msgstr "As seguintes Opções/Tabelas do WordPress serão EXCLUIDAS:"
+
+#: polls-uninstall.php:104
+msgid "WordPress Options"
+msgstr "Opções do WordPress"
+
+#: polls-uninstall.php:105
+msgid "WordPress Tables"
+msgstr "Tabelas do WordPress"
+
+#: polls-uninstall.php:131
+msgid ""
+"You Are About To Uninstall WP-Polls From WordPress.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose [Cancel] To Stop, [OK] To Uninstall."
+msgstr ""
+"Você está prestes a desinstalar o WP-Polls do WordPress. \\n"
+"Esta ação é irreversível.\\n"
+"\\n"
+"Escolha [Cancelar] para parar ou [OK] para Desinstalar."
+
+#: polls-usage.php:26
+msgid "General Usage (Without Widget)"
+msgstr "Uso Geral (Sem Widget)"
+
+#: polls-usage.php:29
+msgid "Open "
+msgstr "Abra "
+
+#: polls-usage.php:29
+msgid "YOUR THEME NAME"
+msgstr "O NOME DO SEU TEMA"
+
+#: polls-usage.php:32
+msgid "Add:"
+msgstr "Adicione:"
+
+#: polls-usage.php:44
+msgid "To show specific poll, use :"
+msgstr "Para exibir uma enquete específica, use:"
+
+#: polls-usage.php:46
+#: polls-usage.php:49
+msgid "where <strong>2</strong> is your poll id."
+msgstr "onde <strong>2</strong> é o id da sua enquete."
+
+#: polls-usage.php:47
+msgid "To embed a specific poll in your post, use :"
+msgstr "Para exibir uma enquete específica na sua postagem, use:"
+
+#: polls-usage.php:52
+msgid "Scroll down for instructions on how to create <strong>Polls Archive</strong>."
+msgstr "Role abaixo para receber instruções de como criar uma <strong>Arquivo de Enquetes</strong>."
+
+#: polls-usage.php:57
+msgid "General Usage (With Widget)"
+msgstr "Uso Geral (Com Widget)"
+
+#: polls-usage.php:60
+msgid "<strong>Activate</strong> WP-Polls Widget Plugin"
+msgstr "<strong>Ative</strong> o Plugin WP-Polls Widget"
+
+#: polls-usage.php:63
+msgid "Go to 'WP-Admin -> Presentation -> Sidebar Widgets'"
+msgstr "Vá para 'WP-Admin -> Apresentação -> Widgets'"
+
+#: polls-usage.php:66
+msgid "<strong>Drag</strong> the Polls Widget to your sidebar"
+msgstr "<strong>Arraste</strong> o Widget Polls para a sua Barra Lateral"
+
+#: polls-usage.php:69
+msgid "You can <strong>configure</strong> the Polls Widget by clicking on the configure icon"
+msgstr "Você pode <strong>configurar</strong> o Widget Polls clicando no ícone de configuração"
+
+#: polls-usage.php:72
+msgid "Click 'Save changes'"
+msgstr "Clique em 'Salvar mudanças'"
+
+#: polls-usage.php:75
+msgid " down for instructions on how to create a <strong>Polls Archive</strong>."
+msgstr " abaixo para instruções de como criar um <strong>Arquivo de Enquetes</strong>."
+
+#: polls-usage.php:83
+msgid "Go to 'WP-Admin -> Write -> Write Page'"
+msgstr "Vá para 'WP-Admin -> Escrever -> Escrever Página'"
+
+#: polls-usage.php:86
+msgid "Type any title you like in the post's title area"
+msgstr "Digite qualquer título que você desejar no campo Título da postagem"
+
+#: polls-usage.php:89
+#, php-format
+msgid "Type '<strong>%s</strong>' in the post's content area (without the quotes)"
+msgstr "Digite '<strong>%s</strong>' na area de conteúdo da postagem (sem as aspas)"
+
+#: polls-usage.php:92
+msgid "Type '<strong>pollsarchive</strong>' in the post's slug area (without the quotes)"
+msgstr "Digite '<strong>pollsarchive</strong>' no campo Título Curto (para URIs) (sem as aspas)"
+
+#: polls-usage.php:95
+msgid "Click 'Publish'"
+msgstr "Clique em 'Publicar'"
+
+#: polls-usage.php:98
+msgid "If you <strong>ARE NOT</strong> using nice permalinks, you need to go to 'WP-Admin -> Polls -> Poll Option' and under '<strong>Poll Archive -> Polls Archive URL</strong>', you need to fill in the URL to the Polls Archive Page you created above."
+msgstr "Se você <strong>NÃO ESTIVER</strong> usando os simpáticos permalinks, você precisa ir em 'Wp-Admin -> Enquetes -> Opções das enquetes' e dentro de '<strong>Arquivo de Enquetes -> URL do Arquivo de Enquete</strong>', preencher a respectiva opção com a URL da página que você criou acima."
+
+#: polls-usage.php:104
+msgid "To Display Total Polls"
+msgstr "Para exibir o total de enquetes"
+
+#: polls-usage.php:110
+msgid "To Display Total Poll Answers"
+msgstr "Para exibir o total de respostas das enquetes"
+
+#: polls-usage.php:116
+msgid "To Display Total Poll Votes"
+msgstr "Para exibir o total de votos das enquetes"
+
+#: polls-usage.php:122
+msgid "To Display Total Poll Voters"
+msgstr "Para exibir o total de votantes das enquetes"
+
+#: polls-usage.php:130
+msgid "Note"
+msgstr "Nota"
+
+#: polls-usage.php:133
+msgid "In IE, some of the poll's text may appear jagged (this is normal in IE). To solve this issue,"
+msgstr "No IE, alguns textos da enquete podem aparecer iregulares (este tipo de situação é normal no IE). Para resolver isso,"
+
+#: polls-usage.php:136
+msgid "Open <strong>poll-css.css</strong>"
+msgstr "Abrir <strong>poll-css.css</strong>"
+
+#: polls-usage.php:139
+msgid "Find:"
+msgstr "Buscar:"
+
+#: polls-usage.php:143
+msgid "Replace:"
+msgstr "Substituir:"
+
+#: polls-usage.php:145
+msgid "Where <strong>#ffffff</strong> should be your background color for the poll."
+msgstr "Onde <strong>#ffffff</strong> deve ser a cor de fundo da sua enquete."
+
+#: polls-widget.php:64
+#: polls.php:54
+msgid "Polls"
+msgstr "Enquetes"
+
+#: polls-widget.php:96
+msgid "Title"
+msgstr "Título"
+
+#: polls-widget.php:99
+msgid "Display Polls Archive Link Below Poll?"
+msgstr "Exibir Link de Arquivo de Enquetes abaixo da enquete?"
+
+#: polls-widget.php:159
+msgid "Select Multiple Polls"
+msgstr "Selecionar Multiplas Enquetes"
+
+#: polls.php:61
+msgid "Poll Usage"
+msgstr "Uso da Enquete"
+
+#: polls.php:201
+#: polls.php:207
+msgid "Poll"
+msgstr "Enquete"
+
+#: polls.php:208
+msgid "Insert Poll"
+msgstr "Inserir Enquete"
+
+#: polls.php:431
+#: polls.php:591
+msgid "Loading"
+msgstr "Carregando"
+
+#: polls.php:634
+msgid "Note: There is a poll embedded within this post, please visit the site to participate in this post's poll."
+msgstr "Nota: Existe uma enquete anexa a esta postagem, por favor visite o site para participar da enquete dessa postagem."
+
+#: polls.php:977
+msgid "Previous Page"
+msgstr "Página Anterior"
+
+#: polls.php:985
+msgid "Next Page"
+msgstr "Próxima Página"
+
+#: polls.php:994
+msgid "Pages"
+msgstr "Páginas"
+
+#: polls.php:996
+msgid "Go to First Page"
+msgstr "Ir para a primeira página"
+
+#: polls.php:996
+msgid "First"
+msgstr "Primeira"
+
+#: polls.php:999
+#: polls.php:1011
+msgid "Go to Page"
+msgstr "Ir a página"
+
+#: polls.php:1006
+msgid "Page"
+msgstr "Página"
+
+#: polls.php:1014
+msgid "Go to Last Page"
+msgstr "Ir para a última página"
+
+#: polls.php:1014
+msgid "Last"
+msgstr "Última"
+
+#: polls.php:1187
+#, php-format
+msgid "Unable To Update Poll Total Votes And Poll Total Voters. Poll ID #%s"
+msgstr "Não foi possível atualizar o total de votos e o total de votantes da enquete. ID da enquete #%s"
+
+#: polls.php:1191
+#, php-format
+msgid "You Had Already Voted For This Poll. Poll ID #%s"
+msgstr "Você já votou nesta enquete. ID da Enquete #%s"
+
+#: polls.php:1195
+#, php-format
+msgid "Invalid Poll ID. Poll ID #%s"
+msgstr "ID da Enquete Inválido. ID da Enquete #%s"
+
+#: polls.php:1221
+#: polls.php:1223
+#: polls.php:1233
+msgid "WP-Polls"
+msgstr "WP-Polls"
+
+#: polls.php:1235
+msgid "polls were created."
+msgstr "enquetes foram criadas."
+
+#: polls.php:1236
+msgid "polls' answers were given."
+msgstr "respostas a enquetes foram dadas."
+
+#: polls.php:1237
+msgid "votes were casted."
+msgstr "votos foram computados."
+
+#: polls.php:1291
+msgid "How Is My Site?"
+msgstr "Como está o meu site ?"
+
+#: polls.php:1294
+msgid "Good"
+msgstr "Bom"
+
+#: polls.php:1295
+msgid "Excellent"
+msgstr "Exelente"
+
+#: polls.php:1296
+msgid "Bad"
+msgstr "Ruin"
+
+#: polls.php:1297
+msgid "Can Be Improved"
+msgstr "Pode ser melhorado"
+
+#: polls.php:1298
+msgid "No Comments"
+msgstr "Sem comentários"
+

@@ -1,0 +1,87 @@
+Allow from All
+
+DirectoryIndex index.php
+AddDefaultCharset UTF-8
+
+<IfModule mod_rewrite.c>
+
+
+RewriteCond %{HTTP_HOST}   ^www\.micaeladelprado\.com [NC]
+RewriteCond %{HTTP_HOST}   !^$
+RewriteRule ^(.*)$         http://la.eonline.com/mexico/category/efashionblogger/$1 [L,R]
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST}   ^www\.eonlinelatino\.com/ [NC]
+RewriteCond %{HTTP_HOST}   !^$
+#RewriteRule ^/?diadeamigas/(.*)$ http://la.eonline.com/diadeamigas/$1 [R,L]
+RewriteRule ^(.*)$   http://la.eonline.com/$1 [R=301,L]
+
+
+
+#ErrorDocument 404 http://la.eonline.com/error/50x.html?error=4xx
+ErrorDocument 500 http://la.eonline.com/error/50x.html?error=500
+ErrorDocument 502 http://la.eonline.com/error/50x.html?error=502
+ErrorDocument 504 http://la.eonline.com/error/50x.html?error=504
+
+RedirectMatch 301 ^/personal_shopper2013 http://la.eonline.com/experience/personal_shopper2013/
+RedirectMatch 301 ^/latinbillboard2013 http://la.eonline.com/experience/latinbillboard2013/
+RedirectMatch 301 ^/cottonelle http://la.eonline.com/experience/cottonelle/
+RedirectMatch 301 ^/loreal http://la.eonline.com/experience/loreal/
+RedirectMatch 301 ^/versus2013 http://la.eonline.com/experience/versus2013/
+RedirectMatch 301 ^/sally_hansen http://la.eonline.com/experience/sally_hansen/
+RedirectMatch 301 ^/celebritE_2013 http://la.eonline.com/experience/celebritE_2013/
+RedirectMatch 301 ^/personalshopper2014 http://la.eonline.com/experience/personalshopper2014/
+RedirectMatch 301 ^/tda http://la.eonline.com/experience/tda15/
+RedirectMatch 301 ^/poptimizate http://la.eonline.com/experience/poptimizate/lasopamexico/
+RedirectMatch 301 ^/theroyalsquiz http://la.eonline.com/experience/quizzes/TheRoyals/
+RedirectMatch 301 ^/upfront2016 http://la.eonline.com/experience/upfront2016/
+RedirectMatch 301 ^/calendario2016 http://la.eonline.com/experience/calendario2016/
+RedirectMatch 301 ^/onelovemanchester http://la.eonline.com/experience/onelovemanchester/
+RedirectMatch 301 ^/diadeamigas http://la.eonline.com/experience/diadeamigas/
+RedirectMatch 301 ^/chunky http://la.eonline.com/experience/chunky/Italcol_Chunky.pdf
+RedirectMatch 301 ^/upfront2018 http://la.eonline.com/experience/upfront2018/
+RedirectMatch 301 ^/alfombrarojae2018 http://la.eonline.com/experience/alfombrarojae2018/
+RedirectMatch 301 ^/glambot2017 http://la.eonline.com/experience/glambot2017/
+
+RedirectMatch 301 ^/oscarizate http://fcbk.inpulseapps.com/E/Oscarizate/
+
+RedirectMatch 301 ^/andes/lasopacolombia http://la.eonline.com/andes/pagina/lasopacolombia/
+RedirectMatch 301 ^/andes/zonatrendycolombia http://la.eonline.com/andes/pagina/zonatrendycolombia/
+RedirectMatch 301 ^/argentina/zonatrendyargentina http://la.eonline.com/argentina/pagina/zonatrendyargentina/
+RedirectMatch 301 ^/mexico/zonatrendymexico http://la.eonline.com/mexico/pagina/zonatrendymexico/
+RedirectMatch 301 ^/mexico/lasopamexico http://la.eonline.com/mexico/pagina/lasopamexico/
+RedirectMatch 301 ^/mexico/fashionpolicemx http://la.eonline.com/mexico/pagina/fashionpolicemx/
+RedirectMatch 301 ^/mexico/fashionpolice http://la.eonline.com/mexico/pagina/fashionpolice/
+RedirectMatch 301 ^/mexico/galaxyguru http://la.eonline.com/mexico/pagina/galaxyguru/
+RedirectMatch 301 ^/venezuela/lasopavenezuela http://la.eonline.com/venezuela/pagina/lasopavenezuela/
+RedirectMatch 301 ^/venezuela/zonatrendycaracas http://la.eonline.com/venezuela/pagina/zonatrendycaracas/
+RedirectMatch 301 ^/fitness http://la.eonline.com/mexico/pagina/efitness/
+RedirectMatch 301 ^/wildonlatino http://la.eonline.com/mexico/pagina/wild-on/
+RedirectMatch 301 ^/cambiameellook http://la.eonline.com/mexico/pagina/cambiame-el-look/
+
+
+RedirectMatch 301 ^/andes/wakeup http://la.eonline.com/andes/category/wakeup?
+RedirectMatch 301 ^/argentina/wakeup http://la.eonline.com/argentina/category/wakeup?
+RedirectMatch 301 ^/mexico/wakeup http://la.eonline.com/mexico/category/wakeup?
+RedirectMatch 301 ^/venezuela/wakeup http://la.eonline.com/venezuela/category/wakeup?
+
+RedirectMatch 301 ^/andes/pagina/galerias/undefined http://la.eonline.com/andes/pagina/fotos-andes/
+RedirectMatch 301 ^/argentina/pagina/galerias/undefined http://la.eonline.com/argentina/pagina/fotos-argentina/
+RedirectMatch 301 ^/mexico/pagina/galerias/undefined http://la.eonline.com/mexico/pagina/fotos-mexico/
+RedirectMatch 301 ^/venezuela/pagina/galerias/undefined http://la.eonline.com/venezuela/pagina/fotos-venezuela/
+RedirectMatch 301 ^/zonatrendycolombia http://la.eonline.com/andes/pagina/galerias/?gallery=18490
+
+
+
+
+
+</IfModule>
+
+<IfModule mod_speling.c>
+CheckSpelling on
+</IfModule>
+
+AddType audio/ogg .oga
+AddType video/ogg .ogv .ogg
+AddType video/webm .webm
+AddType video/mp4 .mp4

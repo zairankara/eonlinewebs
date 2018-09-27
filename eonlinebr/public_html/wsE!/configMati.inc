@@ -1,0 +1,12 @@
+<?
+$srv="preprodabzdb";
+$usr="eonline_usr";
+$psw="30nl1n3";
+$dbn="galleries_br";
+//$dbn="eonline_argentina";
+$insPost="insert into wp_posts (post_title, post_content, post_status, post_author, post_date, comment_status, ping_status, post_name, post_type, post_modified_SAGE)";
+$insGall="INSERT INTO wp_ngg_gallery VALUES";
+$insPict="INSERT INTO wp_ngg_pictures (pid, post_id, galleryid, filename, description, alttext) VALUES";
+$insAlbu="INSERT INTO wp_ngg_album VALUES";
+$updAlbu="UPDATE wp_ngg_album SET";
+?>

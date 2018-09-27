@@ -1,0 +1,196 @@
+#carouselBig{
+	min-height: 1200px !important;
+}
+.mainGallery {
+	color:#fff;
+	font-family:Arial, Georgia, "Times New Roman", Times, serif;
+	width:960px;
+	margin:0 auto
+}
+.mainGallery h2 {
+	font-size:20px;
+	color:#fff;
+	margin:0;
+	padding:3px 0
+}
+.mainGallery h5 {
+	font-size:11px;
+	color:#fff;
+	margin:0;
+	padding:3px 0 0;
+	font-weight:normal
+}
+.mainGallery .left, 
+.mainGallery .right {
+	width:50px;
+	padding:0;
+	float: left;
+}
+.mainGallery .left2, 
+.mainGallery .right2 {
+	padding:0;
+	float: left;
+}
+.left #imgLeftBig,
+.right #imgRightBig{
+	margin-top: 130px;
+}
+.mainGallery .imgCaption {
+	float:left;
+	width:525px;
+	color:#a5a2a2;
+	margin-top: 10px;
+}
+.mainGallery .imgImage {
+	float:left;
+	width:525px;
+	background-color: #1A1A1A;
+}
+.mainGallery .imgImage img{
+	max-width: 480px !important;
+	max-height: 480px !important;
+}
+.mainGallery .middleContent {
+	padding:10px 0;
+	min-height: 800px;
+	max-height: 1300px;
+}
+.mainGallery .borderLR {
+	border-left:1px solid #333;
+	border-right:1px solid #333;
+}
+.mainGallery .message {
+	display:block
+}
+.galeri_inferior{
+	position: fixed;
+	bottom: 50px;
+	width: 100%;
+}
+.message {
+	display:none
+}
+.mainGallery .nextPreviousBig {
+	position:relative;
+	height:145px;
+	width:50px;
+	background:url(rg_nav.png) no-repeat;
+	text-indent:-999999px;
+	/*margin-bottom: 500px;*/
+}
+.mainGallery .nextBig {
+	background-position:-50px 0;
+	float:right;
+}
+.mainGallery .previousBig {
+	background-position:0 0;
+	float:left;
+}
+.mainGallery .disableBigP {
+	background-position:0 -41px !important;
+	float:left;
+	cursor:default
+}
+.mainGallery .disableBigN {
+	background-position:-33px -41px !important;
+	float:right;
+	cursor:default
+}
+.mainGallery .nextPrevious {
+	position:relative;
+	height:150px;
+	width:50px;
+	background:url(rg_nav_ch.png) no-repeat;
+	text-indent:-999999px;
+}
+.mainGallery .next {
+	background-position:-50px 0;
+	float:right;
+}
+.mainGallery .nextPrevious2 {
+	position:relative;
+	height:66px;
+	width:23px;
+	background:url(rg_nav_ch.png) no-repeat;
+	text-indent:-999999px;
+}
+.mainGallery .galeri_inferior .next2 {
+	background-position:-23px 0;
+	float:right;
+}
+.mainGallery .previous {
+	background-position:0 0;
+	float:left;
+}
+.mainGallery .previous2 {
+	background-position:0 0;
+	float:left;
+}
+.mainGallery .disableP {
+	background-position:0 -41px !important;
+	float:left;
+	cursor:default
+}
+.mainGallery .disableN {
+	background-position:-33px -41px !important;
+	float:right;
+	cursor:default
+}
+.mainGallery .footer {
+	height:66px;
+	float: left;
+}
+.galeri_inferior .centro{
+	/*max-width: 850px;*/
+}
+.galeri_inferior{
+	margin-bottom: 15px;
+}
+.mainGallery .gallerythumb {
+	list-style:none;
+	list-style-type:none;
+	float:left;
+	padding:0;
+	margin:0
+}
+.mainGallery li {
+	display:inline;
+	margin-right:8px;
+	text-align:center;
+	float:left;
+	position:relative;
+	height: 80px;
+}
+.mainGallery li img {
+	margin-bottom:-3px;
+	border:1px solid #4a4949;
+}
+.mainGallery li.active img {
+	margin-top:-3px;
+	border:2px solid #fff;
+	height: 70px;
+}
+:focus {
+	border:none;
+	outline:none
+}
+.clear {
+	clear:both
+}
+/**** override ********/
+.mainGallery .imgImage {
+	text-align:center;
+	width:525px;
+}
+.mstoplinks{padding:3px; border-bottom:2px solid #c3c3c3;}
+.mstoplinks a, .mstoplinks a:visited{color:#003366; text-decoration:none; border-right:1px solid #c3c3c3; padding:0 10px}
+.mstoplinks a.active, .mstoplinks a.active:visited{color:#003366; text-decoration:none; border-right:1px solid #c3c3c3; padding:0 10px;border-bottom:1px solid #c3c3c3; border-left:1px solid #c3c3c3; }
+.version{font-size:12px; color:#EE3C95;}
+
+.mscarousel {/*overflow:hidden;*/}
+.mscarousel img{border:0}
+.mscarousel .child{position:relative;}
+.mscarousel .child .set, .mscarousel .set{float:left; position:relative;}
+.mscarousel .child .set .message, .mscarousel .set .message{/*position:absolute; top:0; left:0; background-color:#333333; color:#fff; display:none;*/}
+.mscarousel .child .clear{clear:both}
+.hand{cursor:pointer}

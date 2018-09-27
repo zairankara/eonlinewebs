@@ -1,0 +1,183 @@
+/* @group GENERAL */
+
+body {
+	background: #000000;
+}
+#libre {
+	background: #000000 url(imgs/bg.jpg) no-repeat center top;
+}
+#container{
+	background: #000000;
+	height: auto !important;
+	min-height: auto !important;
+	margin: 0 !important;
+}
+.cont_one-clumn{
+	background-color:#000; 
+	padding-top: 20px; 
+	margin:10px;
+	height:980px;
+}
+.dostercios{
+	width: 630px;
+	margin-left: 10px;
+	float: left;
+}
+.untercio{
+	width: 300px;
+	margin-left: 20px;
+	float: left;
+}
+.video_fashion{
+	width: 300px;
+	height: 350px;
+	/*background-image: url(video.jpg);*/
+}
+.titulo_fashion{
+	height: 65px;
+	width: 300px;
+	background-image: url(imgs/titulo_videos.jpg);
+	margin: 10px 0;
+}
+.modulo_fashion{
+	width: 630px;
+	min-height: 520px;
+	background: #ec008c;
+}
+.modulo_fashion_arriba{
+	width: 430px;
+	_width: 630px;
+	height: 65px;
+	_height: 85px;
+	background: url(imgs/rivers.jpg) left no-repeat;
+	padding-left:200px; 
+	padding-top:20px; 
+}
+.modulo_fashion_img{
+	margin: 10px;
+	float: left;
+	width: 300px;
+	height: 485px;
+}
+.modulo_fashion_der{
+	margin: 10px 0;
+	float: left;
+	width: 300px;
+	height: 485px;
+}
+
+.socialFashion{
+	width: 300px;
+	margin: 10px auto;
+	float: left;
+}
+.bannerFashion{
+	width: 300px;
+	margin: 10px auto 0;
+	float: left;
+}
+.redes{
+	width: 300px;
+	height: 250px;
+	background-image: url(bg_redes.jpg);
+	float: left;
+	position: relative;
+	margin: 10px 0;
+}
+.redes_fb{
+	position: absolute;
+	top:10px;
+	right:5px;
+	width: 130px;
+	height: 30px;
+	background-image: url(redes.png);
+	background-position: 0 0;
+}
+.redes_in{
+	position: absolute;
+	top:40px;
+	right:5px;
+	width: 130px;
+	height: 30px;
+	background-image: url(redes.png);
+	background-position: 0px 60px;
+}
+.redes_tw{
+	position: absolute;
+	top:70px;
+	right:5px;
+	width: 130px;
+	height: 30px;
+	background-image: url(redes.png);
+	background-position: 0px 30px;
+}
+/* @end */
+
+
+.widget {  
+width: 300px;  
+background: #252525;  
+}  
+  
+.widget a {  
+color: #fff;  
+text-decoration: none;  
+}  
+  
+.widget a:hover {  
+color: #fff;  
+text-decoration: underline;  
+}  
+  
+ul.tabnav {  
+	margin: 0;  
+	padding: 0;  
+	float: left;  
+	list-style: none;  
+	height: 40px; /*--Define el ancho de las tabnav--*/  
+	width: 100%;  
+}  
+  
+ul.tabnav li {  
+	float: left;  
+	margin: 0;  
+	padding: 0;  
+	height: 42px; /*--Sustrae 1px de la altura de la lista desordenada--*/  
+	line-height: 1.2; /*--Alineamiento vertical del texto dentro de la tabla--*/  
+	border-left: none;  
+	overflow: hidden;  
+	position: relative;  
+	color: #ec008c;  
+}  
+  
+ul.tabnav li a {  
+	text-decoration: none;  
+	color: #ec008c;  
+	display: block;  
+	font-size: 18px !important;  
+	padding: 0 10px;  
+}  
+  ul.tabnav li.active {
+	background: #ec008c; 
+  	
+  }
+  ul.tabnav li.active a{  
+	color: #fff !important; 
+}  
+ul.tabnav li a:hover {  
+	background: #ec008c;
+	color: #fff; 
+	text-decoration: none;  
+}  
+  
+.tabdiv {  
+margin-top: 45px;  
+background: #fff;  
+border-top: 5px solid #ec008c;  
+padding: 0 5px 5px;
+max-height:570px;
+}  
+  
+.ui-tabnav-hide {  
+display: none;  
+} 

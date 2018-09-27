@@ -1,0 +1,284 @@
+body {
+	color: #4e4e4e;
+	font: 11px/14px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	background-color: #fff;
+	margin: 0;
+	padding: 10px 0 0 9px;
+}
+
+h1 {
+	font: 14px/16px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	text-transform: uppercase;
+	margin: 0 0 5px;
+	padding: 0;
+}
+
+p {
+	color: #4e4e4e;
+	font: 11px/14px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	margin: 0 0 5px;
+}
+
+#cont_gral {
+	text-align: left;
+	width: 928px;
+	margin: 0;
+	padding: 0;
+}
+
+/* @group COLUMNA IZQUIERDA */
+
+.col_izq {
+	text-align: left;
+	width: 123px;
+	margin: 0 9px 0 0;
+	padding: 0;
+	float: left;
+}
+
+.fecha {
+	color: #fff;
+	font: 42px/42px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	background: url(../imgs/comunes/fecha.gif) no-repeat;
+	width: 110px;
+	height: 48px;
+	margin: 0 0 18px;
+	padding-top: 7px;
+	padding-left: 13px;
+}
+
+.mes {
+	color: #d7b35b;
+	font: 23px/23px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+/* @end */
+
+/* @group Horario */
+
+.menu_horario {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.menu_horario li {
+	text-align: left;
+	margin: 0;
+}
+
+.menu_horario a.manana,
+.menu_horario a.tarde,
+.menu_horario a.noche,
+.menu_horario a.trasnoche {
+	text-indent: -9000px;
+	background: url(../imgs/menu/b01.gif) no-repeat 0 0;
+	width: 123px;
+	height: 45px;
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+.menu_horario a.tarde {
+	background: url(../imgs/menu/b02.gif) no-repeat;
+}
+
+.menu_horario a.noche {
+	background: url(../imgs/menu/b03.gif) no-repeat;
+}
+
+.menu_horario a.trasnoche {
+	background: url(../imgs/menu/b04.gif) no-repeat;
+}
+
+.menu_horario a.manana:hover,
+.menu_horario a.tarde:hover,
+.menu_horario a.noche:hover,
+.menu_horario a.trasnoche:hover,
+.menu_horario a.selected {
+	background-position: 0 -45px;
+}
+
+/* @end */
+
+/* @group Días */
+
+.cont_menu_dia {
+	text-align: left;
+	width: 789px;
+	height: 51px;
+	margin: 0 0 18px;
+	padding: 4px 0 0;
+}
+
+.menu_dia {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.menu_dia li {
+	text-align: left;
+	margin: 0;
+}
+
+.menu_dia a.lunes,
+.menu_dia a.martes,
+.menu_dia a.miercoles,
+.menu_dia a.jueves,
+.menu_dia a.viernes,
+.menu_dia a.sabado,
+.menu_dia a.domingo {
+	text-indent: -9000px;
+	background: url(../imgs/menu/01.gif) no-repeat 0 0;
+	width: 95px;
+	height: 51px;
+	margin: 0;
+	padding: 0;
+	display: block;
+	float: left;
+}
+
+.menu_dia a.martes {
+	background: url(../imgs/menu/02.gif) no-repeat;
+	width: 115px;
+}
+
+.menu_dia a.miercoles {
+	background: url(../imgs/menu/03.gif) no-repeat;
+	width: 128px;
+}
+
+.menu_dia a.jueves {
+	background: url(../imgs/menu/04.gif) no-repeat;
+	width: 108px;
+}
+
+.menu_dia a.viernes {
+	background: url(../imgs/menu/05.gif) no-repeat;
+	width: 109px;
+}
+
+.menu_dia a.sabado {
+	background: url(../imgs/menu/06.gif) no-repeat;
+	width: 108px;
+}
+
+.menu_dia a.domingo {
+	background: url(../imgs/menu/07.gif) no-repeat;
+	width: 126px;
+}
+
+.menu_dia a.lunes:hover,
+.menu_dia a.martes:hover,
+.menu_dia a.miercoles:hover,
+.menu_dia a.jueves:hover,
+.menu_dia a.viernes:hover,
+.menu_dia a.sabado:hover,
+.menu_dia a.domingo:hover,
+.menu_dia a.selected {
+	background-position: 0 -51px;
+}
+
+/* @end */
+
+/* @group COLUMNA DERECHA */
+
+.col_der {
+	text-align: left;
+	width: 796px;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+.modulo_prog {
+	text-align: left;
+	background: #f2f2f2 url(../imgs/comunes/bg_programa.gif) no-repeat center bottom;
+	width: 789px;
+	margin: 0 0 2px;
+	padding: 0 0 10px;
+}
+
+.morning {
+	width: 781px;
+	border-left: 8px solid #d95b00;
+}
+
+.morning h1 {
+	color: #d95b00;
+	margin: 10px 10px 0 0;
+}
+
+.afternoon {
+	width: 781px;
+	border-left: 8px solid #bd7a23;
+}
+
+.afternoon h1 {
+	color: #bd7a23;
+	margin: 10px 10px 0 0;
+}
+
+.evening {
+	width: 781px;
+	border-left: 8px solid #a11e17;
+}
+
+.evening h1 {
+	color: #a11e17;
+	margin: 10px 10px 0 0;
+}
+
+.night {
+	width: 781px;
+	border-left: 8px solid #3a456b;
+}
+
+.night h1 {
+	color: #3a456b;
+	margin: 10px 10px 0 0;
+}
+
+.hora {
+	color: #d7d7d7;
+	font: bold 36px/36px Tahoma, Verdana, Helvetica, Arial, Sans-serif;
+	text-align: center;
+	width: 128px;
+	padding-top: 11px;
+	float: left;
+}
+
+.programa {
+	width: 653px;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+.programa img {
+	margin: 0 14px 0 0;
+}
+
+/* @end */
+
+/* @group LOGOS PIE */
+
+.logos_pie {
+	text-align: left;
+	background: url(../imgs/comunes/logos.gif) no-repeat;
+	width: 928px;
+	height: 83px;
+	margin: 20px 0 0;
+	padding: 0;
+	border-top: 1px solid #dedede;
+}
+
+/* @end */

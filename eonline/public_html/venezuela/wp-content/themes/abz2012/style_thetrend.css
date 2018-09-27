@@ -1,0 +1,16 @@
+/* @group GENERAL */
+
+body {
+	 background: none !important;
+}
+#libre {
+background: url(images/bgs/category/the_trend.jpg) no-repeat center top;
+}
+#container{
+	background: #ffffff;
+}
+.style_thetrend_txt, .entry-title span a{
+	color: #e6b800 !important;
+}
+
+/* @end */
