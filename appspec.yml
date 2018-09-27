@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: feeds
-    destination: /var/www/html/
+    destination: /var/www/html/feeds
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies
